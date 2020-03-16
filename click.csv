@@ -1,0 +1,1001 @@
+browser_id,time_on_site,timestamp,isp,geonetworkcity,date,totals.uniquescreenviews,totals.timeonscreen,hits.isinteraction,hits.promotionactioninfopromoisclick,totals.screenviews,trafficsourcemedium,trafficsourcerefferalpath,device.browser,device.devicecategory,device.mobiledevicebranding,device.operatingsystem,device.ismobile,device.screenresolution,promo_category,totalspageviews,account_id
+1000305,554,13:25,'hinet.net',Balucawi,2020-01-17,3,91,0,1,7,Refferal,google.com,chrome,tablet,lenovo,android,0,1280x800,accounts,8,100000000000
+1000042,49,16:29,'att.net',Muararupit,2020-02-20,5,12,1,0,8,Organic,facebook.com,firefox,tablet,lenovo,android,0,1366x768,insurance,1,100000000001
+1000277,512,9:51,'cox.net',Siso,2020-02-17,3,32,1,0,6,Refferal,youtube.com,edge,tablet,apple,ios,0,1280x800,loan,4,100000000002
+1000131,372,6:09,'att.net',Changyi,2020-02-11,1,53,0,1,7,Organic,linkedin.com,brave,tablet,micromax,android,0,1920x1080,loan,3,100000000003
+1000224,597,6:12,'att.net',San Quintin,2020-01-08,3,18,0,1,5,Paid,google.com,opera,mobile,micromax,android,1,1080 x 1920,loan,6,100000000004
+1000215,507,23:24,'comcast.net',Volkhovskiy,2020-01-15,5,17,1,0,9,Paid,youtube.com,edge,mobile,apple,ios,1,1440 x 2960,deposits,3,100000000005
+1000185,264,2:09,'verizon.net',Jifeng,2020-02-18,3,67,1,0,8,Display,linkedin.com,brave,tablet,apple,ios,0,1280x800,insurance,7,100000000006
+1000237,184,23:46,'comcastbusiness.net',Sayang Lauq,2020-02-11,2,57,1,1,10,Social,linkedin.com,chromium,mobile,lenovo,android,1,1080 x 1920,credit_card,4,100000000007
+1000355,243,6:21,'att.net',Yūki,2020-01-30,5,12,0,1,8,Direct,google.com,brave,mobile,apple,ios,1,1440 x 2560,accounts,10,100000000008
+1000152,176,19:32,'cox.net',Jiangtou,2020-01-04,4,11,0,0,10,Paid,youtube.com,chromium,tablet,samsung,android,0,1366x768,insurance,10,100000000009
+1000075,247,19:01,'cox.net',Surat Thani,2020-02-12,2,68,0,0,10,Direct,google.com,firefox,laptop,apple,mac-os,0,1200 x 1920,deposits,10,100000000010
+1000330,194,7:46,'hinet.net',Émponas,2020-01-13,4,20,0,0,9,Affiliates,linkedin.com,edge,mobile,samsung,android,1,1440 x 2960,credit_card,6,100000000011
+1000304,456,14:11,'hinet.net',Cruz,2020-01-01,3,36,1,1,7,Display,linkedin.com,firefox,mobile,lenovo,android,1,1080 x 1920,accounts,6,100000000012
+1000244,262,9:26,'comcast.net',Xiabao,2020-02-07,5,99,0,0,7,Display,facebook.com,firefox,tablet,apple,ios,0,1366x768,credit_card,8,100000000013
+1000177,436,21:19,'comcast.net',Kajatian,2020-02-23,1,12,1,1,7,Refferal,linkedin.com,chrome,mobile,samsung,android,1,1440 x 2560,credit_card,8,100000000014
+1000190,572,17:18,'att.net',Göteborg,2020-02-17,1,96,1,0,10,Organic,linkedin.com,edge,tablet,lenovo,android,0,1280x800,deposits,3,100000000015
+1000166,270,13:15,'cox.net',Kazan,2020-01-14,5,79,1,1,10,Direct,linkedin.com,brave,laptop,apple,mac-os,0,1200 x 1920,loan,10,100000000016
+1000311,460,16:40,'comcastbusiness.net',Orleans,2020-02-20,2,46,0,1,9,Display,linkedin.com,brave,mobile,lenovo,android,1,1440 x 2560,loan,2,100000000017
+1000305,597,14:54,'verizon.net',Montreuil,2020-03-01,2,45,0,1,9,Refferal,linkedin.com,UC browser,tablet,samsung,android,0,1280x800,credit_card,5,100000000018
+1000212,188,12:23,'hinet.net',Nueve de Julio,2020-02-17,2,65,1,0,8,Paid,google.com,safari,laptop,samsung,ubuntu,0,1200 x 1920,accounts,3,100000000019
+1000256,210,10:09,'hinet.net',Karonga,2020-02-28,4,38,1,0,8,Refferal,google.com,opera,tablet,lenovo,android,0,1366x768,accounts,7,100000000020
+1000088,292,10:53,'verizon.net',Sousa,2020-01-16,3,45,0,0,10,Direct,youtube.com,brave,tablet,lenovo,android,0,1366x768,credit_card,6,100000000021
+1000069,230,16:47,'comcastbusiness.net',Phra Phutthabat,2020-02-02,5,98,0,0,10,Direct,linkedin.com,UC browser,mobile,lenovo,android,1,1440 x 2960,deposits,7,100000000022
+1000229,102,6:21,'verizon.net',Centre de Flacq,2020-02-12,1,47,0,0,6,Display,youtube.com,opera,laptop,samsung,windows,0,800 x 1280,credit_card,5,100000000023
+1000034,417,14:15,'hinet.net',Gwangjeok,2020-02-21,5,13,0,0,10,Affiliates,facebook.com,chrome,mobile,micromax,android,1,1440 x 2560,deposits,6,100000000024
+1000081,253,10:36,'comcastbusiness.net',Demerval Lobão,2020-01-11,3,69,0,0,9,Direct,google.com,opera,laptop,micromax,ubuntu,0,1536 x 2048,deposits,9,100000000025
+1000247,265,9:37,'comcast.net',São Manuel,2020-01-23,5,60,1,1,5,Social,linkedin.com,safari,mobile,lenovo,android,1,1440 x 2960,insurance,3,100000000026
+1000064,203,3:26,'comcastbusiness.net',Jönköping,2020-01-12,3,20,0,0,9,Direct,google.com,UC browser,mobile,apple,ios,1,1440 x 2560,accounts,1,100000000027
+1000029,429,6:35,'comcast.net',Mirny,2020-01-01,3,27,0,0,5,Direct,google.com,firefox,tablet,lenovo,android,0,1920x1080,deposits,9,100000000028
+1000366,17,0:11,'hinet.net',Hostomice,2020-01-28,5,42,0,0,9,Social,youtube.com,chromium,mobile,samsung,android,1,1080 x 1920,loan,2,100000000029
+1000163,128,22:49,'comcastbusiness.net',Tekeli,2020-01-10,5,92,1,1,7,Direct,linkedin.com,edge,laptop,micromax,ubuntu,0,1200 x 1920,deposits,6,100000000030
+1000050,101,11:33,'verizon.net',San Diego,2020-01-08,1,91,1,1,6,Paid,youtube.com,edge,laptop,micromax,ubuntu,0,1536 x 2048,insurance,3,100000000031
+1000312,104,13:50,'att.net',Vakhsh,2020-02-26,2,77,0,1,7,Paid,google.com,UC browser,laptop,apple,mac-os,0,1200 x 1920,loan,2,100000000032
+1000015,294,22:41,'comcastbusiness.net',Aleksandrów,2020-02-08,5,24,1,1,10,Organic,google.com,chrome,mobile,micromax,android,1,1440 x 2960,credit_card,7,100000000033
+1000053,494,22:19,'comcastbusiness.net',El’brus,2020-01-15,5,77,0,0,10,Social,google.com,chromium,laptop,lenovo,ubuntu,0,1200 x 1920,credit_card,7,100000000034
+1000317,302,8:34,'comcastbusiness.net',Tak,2020-01-25,4,28,0,1,10,Paid,facebook.com,opera,tablet,micromax,android,0,1920x1080,accounts,4,100000000035
+1000385,315,11:01,'cox.net',Nueve de Julio,2020-02-10,3,34,0,1,5,Refferal,linkedin.com,opera,tablet,lenovo,android,0,1366x768,deposits,9,100000000036
+1000113,79,3:26,'att.net',Río Viejo,2020-01-13,3,93,0,1,6,Direct,linkedin.com,safari,mobile,samsung,android,1,1440 x 2960,insurance,2,100000000037
+1000247,541,9:31,'verizon.net',Quinta,2020-01-18,1,20,1,1,5,Display,youtube.com,chromium,laptop,apple,mac-os,0,1200 x 1920,loan,10,100000000038
+1000131,279,0:43,'comcast.net',Kokofata,2020-01-16,2,19,1,0,9,Display,linkedin.com,chromium,mobile,micromax,android,1,1440 x 2560,deposits,3,100000000039
+1000073,23,2:35,'cox.net',Enköping,2020-02-27,5,88,1,1,10,Direct,facebook.com,brave,mobile,samsung,android,1,1080 x 1920,loan,5,100000000040
+1000356,367,13:27,'comcast.net',Bonak,2020-02-14,1,55,0,0,5,Direct,linkedin.com,brave,mobile,apple,ios,1,1440 x 2960,deposits,3,100000000041
+1000136,243,7:57,'att.net',Primorsko-Akhtarsk,2020-01-19,2,17,1,0,5,Display,youtube.com,safari,mobile,micromax,android,1,1080 x 1920,deposits,2,100000000042
+1000332,279,21:26,'comcastbusiness.net',Okhotsk,2020-01-28,5,50,0,0,9,Affiliates,google.com,UC browser,laptop,lenovo,ubuntu,0,1200 x 1920,accounts,8,100000000043
+1000341,557,18:43,'comcast.net',Boise,2020-02-15,4,51,1,0,5,Paid,facebook.com,safari,mobile,samsung,android,1,1440 x 2960,insurance,7,100000000044
+1000285,29,4:52,'verizon.net',Maykopskoye,2020-01-24,5,14,1,1,5,Affiliates,google.com,chromium,tablet,apple,ios,0,1920x1080,insurance,9,100000000045
+1000189,592,6:40,'att.net',Doubravice nad Svitavou,2020-02-04,5,20,1,1,10,Paid,google.com,safari,laptop,samsung,ubuntu,0,1536 x 2048,accounts,4,100000000046
+1000078,273,19:00,'comcast.net',Guifões,2020-02-01,1,83,1,1,9,Display,linkedin.com,opera,laptop,apple,mac-os,0,1536 x 2048,deposits,3,100000000047
+1000299,379,9:29,'cox.net',Zhoushan,2020-02-23,2,15,0,0,8,Affiliates,google.com,chromium,mobile,apple,ios,1,1440 x 2960,deposits,2,100000000048
+1000252,216,11:23,'att.net',Qā’en,2020-01-28,5,56,1,0,7,Affiliates,youtube.com,chromium,tablet,lenovo,android,0,1366x768,loan,2,100000000049
+1000370,26,16:16,'comcast.net',Paris 16,2020-02-20,5,65,1,1,10,Social,linkedin.com,edge,tablet,apple,ios,0,1920x1080,deposits,8,100000000050
+1000302,93,9:42,'comcastbusiness.net',Buenavista,2020-01-15,4,35,0,1,7,Organic,google.com,chromium,laptop,micromax,windows,0,800 x 1280,loan,7,100000000051
+1000145,47,9:37,'comcast.net',Serrinha,2020-03-02,3,13,0,1,7,Refferal,google.com,chrome,tablet,lenovo,android,0,1366x768,insurance,7,100000000052
+1000157,579,12:50,'comcastbusiness.net',Landivisiau,2020-01-08,1,69,0,0,9,Refferal,youtube.com,firefox,laptop,micromax,ubuntu,0,1536 x 2048,credit_card,10,100000000053
+1000048,308,11:52,'hinet.net',Deventer,2020-02-01,1,20,0,1,10,Direct,linkedin.com,firefox,tablet,lenovo,android,0,1920x1080,insurance,10,100000000054
+1000369,57,22:26,'comcastbusiness.net',Cikarang,2020-02-02,4,29,1,1,7,Social,google.com,UC browser,mobile,apple,ios,1,1440 x 2960,insurance,7,100000000055
+1000125,50,11:40,'verizon.net',Verkhniye Achaluki,2020-02-20,3,17,0,0,5,Social,linkedin.com,firefox,laptop,samsung,ubuntu,0,800 x 1280,insurance,9,100000000056
+1000288,142,8:30,'hinet.net',Longshan,2020-02-07,3,50,1,0,8,Paid,linkedin.com,UC browser,laptop,samsung,ubuntu,0,1200 x 1920,credit_card,6,100000000057
+1000175,563,0:23,'cox.net',Dieppe,2020-02-07,2,25,0,0,5,Direct,linkedin.com,safari,mobile,apple,ios,1,1440 x 2560,accounts,3,100000000058
+1000148,317,6:37,'att.net',Provo,2020-02-23,4,21,0,0,8,Organic,linkedin.com,opera,mobile,lenovo,android,1,1080 x 1920,deposits,7,100000000059
+1000345,456,7:29,'comcast.net',Casal da Serra,2020-01-25,2,72,0,1,7,Refferal,google.com,chrome,laptop,lenovo,ubuntu,0,1536 x 2048,loan,4,100000000060
+1000375,538,14:51,'hinet.net',Miskindzha,2020-02-18,5,94,1,1,6,Affiliates,youtube.com,brave,tablet,apple,ios,0,1366x768,accounts,7,100000000061
+1000144,181,17:20,'comcast.net',Montpellier,2020-02-21,4,91,1,1,9,Direct,linkedin.com,firefox,mobile,lenovo,android,1,1080 x 1920,credit_card,1,100000000062
+1000274,309,14:24,'hinet.net',Baolong,2020-01-20,1,42,0,0,8,Affiliates,linkedin.com,UC browser,tablet,samsung,android,0,1920x1080,deposits,1,100000000063
+1000238,235,0:46,'cox.net',Maghār,2020-01-07,1,87,0,1,9,Display,google.com,UC browser,mobile,apple,ios,1,1080 x 1920,loan,8,100000000064
+1000029,304,13:17,'comcastbusiness.net',Liujiagou,2020-01-26,4,68,0,0,8,Direct,linkedin.com,chromium,mobile,apple,ios,1,1440 x 2960,accounts,6,100000000065
+1000311,88,23:54,'comcast.net',Pār Naogaon,2020-02-17,2,93,1,1,8,Paid,facebook.com,brave,mobile,micromax,android,1,1080 x 1920,credit_card,1,100000000066
+1000024,478,16:56,'cox.net',Komorów,2020-02-14,2,75,0,0,9,Direct,facebook.com,safari,tablet,micromax,android,0,1280x800,insurance,3,100000000067
+1000233,407,7:51,'hinet.net',Irbit,2020-02-01,5,63,0,1,7,Refferal,linkedin.com,chromium,tablet,apple,ios,0,1366x768,deposits,8,100000000068
+1000334,127,17:16,'comcastbusiness.net',Mengzhai,2020-02-10,4,65,1,0,5,Paid,youtube.com,chrome,laptop,apple,mac-os,0,1536 x 2048,accounts,1,100000000069
+1000034,12,12:10,'comcastbusiness.net',Victoria West,2020-01-07,1,73,1,1,9,Refferal,youtube.com,edge,tablet,samsung,android,0,1920x1080,credit_card,5,100000000070
+1000139,596,17:26,'comcast.net',Hayil,2020-01-07,3,7,1,1,8,Display,facebook.com,opera,tablet,micromax,android,0,1280x800,accounts,8,100000000071
+1000256,413,12:34,'comcast.net',Chasŏng,2020-02-18,1,79,0,1,9,Paid,linkedin.com,chrome,mobile,micromax,android,1,1440 x 2960,accounts,9,100000000072
+1000284,251,4:42,'comcast.net',Guangfu,2020-02-08,5,92,0,1,6,Social,google.com,chromium,mobile,lenovo,android,1,1440 x 2960,insurance,10,100000000073
+1000325,456,8:15,'verizon.net',Oriximiná,2020-02-03,5,61,1,1,7,Direct,youtube.com,brave,mobile,micromax,android,1,1440 x 2560,accounts,2,100000000074
+1000368,294,15:56,'verizon.net',Airmadidi,2020-02-22,2,20,0,0,8,Direct,google.com,opera,tablet,micromax,android,0,1366x768,accounts,2,100000000075
+1000268,543,10:02,'comcastbusiness.net',Boise,2020-01-10,1,94,0,1,6,Refferal,linkedin.com,chrome,laptop,lenovo,ubuntu,0,800 x 1280,insurance,9,100000000076
+1000090,395,17:43,'comcast.net',Potou,2020-02-17,4,58,0,1,9,Affiliates,facebook.com,chromium,mobile,samsung,android,1,1080 x 1920,loan,10,100000000077
+1000273,379,0:02,'cox.net',Llano de Piedra,2020-01-14,4,27,0,0,10,Paid,youtube.com,UC browser,tablet,lenovo,android,0,1920x1080,deposits,5,100000000078
+1000371,241,18:03,'cox.net',Monkayo,2020-01-21,2,50,1,0,10,Affiliates,facebook.com,UC browser,laptop,lenovo,ubuntu,0,1536 x 2048,loan,7,100000000079
+1000152,337,14:11,'comcastbusiness.net',Rockford,2020-01-19,2,76,1,1,6,Paid,youtube.com,opera,tablet,apple,ios,0,1280x800,deposits,2,100000000080
+1000323,324,3:57,'comcast.net',Kass Wollof,2020-01-08,5,65,1,0,8,Display,google.com,chromium,mobile,apple,ios,1,1440 x 2560,insurance,1,100000000081
+1000085,263,21:30,'verizon.net',Āstārā,2020-03-01,5,74,0,1,7,Affiliates,youtube.com,brave,laptop,micromax,ubuntu,0,1200 x 1920,accounts,4,100000000082
+1000159,313,17:23,'att.net',Talghar,2020-01-05,1,9,0,1,5,Refferal,facebook.com,chromium,tablet,samsung,android,0,1366x768,credit_card,8,100000000083
+1000281,208,21:50,'att.net',Sanjiangkou,2020-01-28,5,6,0,1,10,Affiliates,facebook.com,safari,laptop,apple,mac-os,0,1536 x 2048,accounts,2,100000000084
+1000069,556,4:01,'hinet.net',Tsaghkahovit,2020-02-29,1,86,0,1,8,Affiliates,linkedin.com,UC browser,tablet,apple,ios,0,1366x768,accounts,3,100000000085
+1000034,293,13:32,'hinet.net',Rado,2020-02-14,3,9,1,0,7,Paid,linkedin.com,safari,laptop,apple,mac-os,0,800 x 1280,loan,4,100000000086
+1000145,497,18:37,'cox.net',Melaka,2020-01-03,1,17,1,1,6,Organic,facebook.com,safari,mobile,lenovo,android,1,1080 x 1920,accounts,5,100000000087
+1000195,408,2:28,'hinet.net',Sainte-Sophie,2020-01-15,3,7,0,0,8,Social,google.com,edge,mobile,lenovo,android,1,1440 x 2960,insurance,6,100000000088
+1000068,270,13:42,'att.net',East End,2020-01-28,5,65,1,1,10,Affiliates,facebook.com,chrome,tablet,lenovo,android,0,1366x768,loan,3,100000000089
+1000013,449,13:03,'verizon.net',Gilowice,2020-02-20,2,12,0,0,9,Social,youtube.com,UC browser,laptop,lenovo,windows,0,800 x 1280,insurance,8,100000000090
+1000118,270,5:22,'comcast.net',Los Angeles,2020-02-29,4,2,1,1,10,Refferal,google.com,brave,laptop,apple,mac-os,0,1200 x 1920,insurance,1,100000000091
+1000196,78,18:50,'verizon.net',Ruokolahti,2020-01-13,4,50,0,1,7,Affiliates,google.com,chromium,mobile,apple,ios,1,1440 x 2560,deposits,3,100000000092
+1000071,110,4:12,'cox.net',Tanggungrejo,2020-01-04,4,78,1,0,10,Affiliates,google.com,UC browser,tablet,samsung,android,0,1280x800,accounts,7,100000000093
+1000326,434,6:51,'verizon.net',Fovissste,2020-02-16,2,99,1,1,9,Organic,google.com,UC browser,tablet,micromax,android,0,1366x768,insurance,3,100000000094
+1000373,276,14:56,'att.net',Ryōtsu-minato,2020-03-02,4,91,0,0,7,Paid,google.com,brave,mobile,samsung,android,1,1440 x 2960,credit_card,8,100000000095
+1000009,433,23:04,'cox.net',Norrtälje,2020-01-24,1,89,0,1,9,Paid,linkedin.com,UC browser,tablet,apple,ios,0,1280x800,accounts,3,100000000096
+1000173,35,12:27,'cox.net',Silver Spring,2020-02-14,2,14,1,1,9,Affiliates,linkedin.com,chromium,tablet,apple,ios,0,1280x800,insurance,8,100000000097
+1000349,567,1:39,'att.net',Ishkhoy-Yurt,2020-01-07,1,80,1,1,9,Display,linkedin.com,chromium,mobile,apple,ios,1,1080 x 1920,credit_card,10,100000000098
+1000338,139,10:41,'comcastbusiness.net',Belverde,2020-02-19,3,82,1,0,9,Organic,youtube.com,brave,laptop,lenovo,windows,0,1536 x 2048,credit_card,1,100000000099
+1000184,118,17:52,'att.net',Vila,2020-01-21,2,71,1,1,6,Direct,youtube.com,safari,mobile,samsung,android,1,1440 x 2560,loan,6,100000000100
+1000332,456,20:01,'verizon.net',Duyun,2020-01-03,5,14,0,0,5,Paid,google.com,firefox,laptop,samsung,windows,0,800 x 1280,accounts,5,100000000101
+1000107,413,17:33,'cox.net',Dalar,2020-01-11,2,32,1,1,9,Direct,linkedin.com,edge,laptop,lenovo,windows,0,800 x 1280,loan,2,100000000102
+1000226,445,23:18,'comcast.net',Jieduo,2020-02-06,3,89,1,1,6,Display,google.com,brave,tablet,lenovo,android,0,1920x1080,accounts,7,100000000103
+1000168,440,23:39,'att.net',Xiongzhang,2020-01-17,5,77,1,1,10,Direct,facebook.com,UC browser,laptop,samsung,windows,0,1200 x 1920,credit_card,4,100000000104
+1000269,213,12:46,'verizon.net',Pasvalys,2020-01-31,5,45,1,0,10,Organic,linkedin.com,opera,laptop,apple,mac-os,0,1200 x 1920,deposits,7,100000000105
+1000395,349,1:37,'att.net',Boñgalon,2020-01-21,5,84,0,1,7,Social,google.com,chromium,mobile,apple,ios,1,1440 x 2560,insurance,3,100000000106
+1000308,88,13:55,'verizon.net',Kināna,2020-02-12,1,11,0,1,6,Direct,linkedin.com,firefox,tablet,apple,ios,0,1280x800,credit_card,7,100000000107
+1000172,578,1:57,'comcastbusiness.net',Songkeng,2020-01-21,1,90,0,0,6,Direct,youtube.com,brave,mobile,lenovo,android,1,1440 x 2960,deposits,1,100000000108
+1000217,531,23:08,'comcast.net',McKinley,2020-01-11,1,7,1,0,8,Direct,google.com,safari,laptop,micromax,ubuntu,0,1536 x 2048,deposits,3,100000000109
+1000343,109,0:41,'hinet.net',Předměřice nad Labem,2020-02-04,3,72,0,1,7,Direct,linkedin.com,brave,laptop,lenovo,windows,0,800 x 1280,insurance,7,100000000110
+1000001,520,15:37,'verizon.net',Ćićevac,2020-01-10,5,47,1,0,6,Paid,google.com,safari,laptop,lenovo,ubuntu,0,800 x 1280,accounts,1,100000000111
+1000207,533,4:07,'hinet.net',Tangwang,2020-02-18,1,20,1,0,6,Organic,linkedin.com,safari,mobile,samsung,android,1,1080 x 1920,insurance,7,100000000112
+1000224,459,12:57,'cox.net',Vagney,2020-02-15,3,71,0,1,6,Refferal,google.com,firefox,laptop,micromax,ubuntu,0,800 x 1280,credit_card,8,100000000113
+1000049,538,5:33,'cox.net',Cuozhou,2020-01-08,4,70,0,0,10,Organic,linkedin.com,chromium,tablet,samsung,android,0,1366x768,credit_card,5,100000000114
+1000160,113,4:51,'hinet.net',Cinunjang,2020-01-02,2,33,0,0,7,Refferal,google.com,opera,laptop,micromax,windows,0,800 x 1280,deposits,9,100000000115
+1000334,142,8:03,'verizon.net',Shuiyang,2020-02-11,4,32,1,0,6,Direct,facebook.com,edge,mobile,lenovo,android,1,1080 x 1920,accounts,1,100000000116
+1000060,404,21:31,'att.net',Breda,2020-01-19,4,62,0,0,7,Affiliates,youtube.com,chromium,tablet,lenovo,android,0,1366x768,credit_card,3,100000000117
+1000104,282,16:20,'att.net',Mahuta,2020-03-02,5,98,0,1,5,Display,linkedin.com,chromium,mobile,lenovo,android,1,1440 x 2560,insurance,10,100000000118
+1000211,391,1:09,'comcastbusiness.net',Konārak,2020-02-22,1,22,1,0,8,Organic,facebook.com,opera,tablet,micromax,android,0,1366x768,insurance,8,100000000119
+1000220,170,14:58,'comcast.net',Xinmatou,2020-02-13,4,93,1,1,10,Refferal,linkedin.com,brave,mobile,lenovo,android,1,1440 x 2960,loan,5,100000000120
+1000008,445,22:55,'hinet.net',Pengjia Zhaizi,2020-02-28,5,39,1,1,6,Display,youtube.com,UC browser,tablet,micromax,android,0,1920x1080,credit_card,1,100000000121
+1000167,460,4:46,'cox.net',Xianghu,2020-02-02,2,74,0,1,7,Affiliates,linkedin.com,firefox,laptop,micromax,windows,0,1200 x 1920,loan,5,100000000122
+1000096,244,16:00,'att.net',Changbao,2020-01-12,1,100,0,1,6,Affiliates,google.com,chromium,laptop,apple,mac-os,0,800 x 1280,deposits,6,100000000123
+1000102,189,9:42,'verizon.net',Mooka,2020-01-02,3,32,0,0,10,Refferal,linkedin.com,opera,tablet,lenovo,android,0,1920x1080,accounts,10,100000000124
+1000188,146,12:58,'comcast.net',Madrid,2020-01-18,4,77,0,1,10,Social,google.com,chrome,mobile,micromax,android,1,1440 x 2560,credit_card,5,100000000125
+1000395,513,21:47,'hinet.net',Gludug,2020-03-01,3,33,0,0,6,Display,facebook.com,UC browser,laptop,lenovo,ubuntu,0,1536 x 2048,deposits,5,100000000126
+1000370,545,22:54,'comcast.net',Charqueadas,2020-01-08,3,2,0,0,8,Organic,facebook.com,safari,laptop,samsung,windows,0,1536 x 2048,insurance,1,100000000127
+1000149,577,18:29,'comcast.net',Richmond,2020-02-14,3,73,0,0,5,Paid,facebook.com,edge,laptop,apple,mac-os,0,1200 x 1920,loan,4,100000000128
+1000270,424,7:12,'hinet.net',Tanjungbalai,2020-01-11,2,40,0,0,8,Affiliates,youtube.com,chromium,tablet,samsung,android,0,1280x800,deposits,10,100000000129
+1000311,443,5:14,'cox.net',Dawan,2020-01-24,1,41,1,0,5,Display,linkedin.com,brave,mobile,apple,ios,1,1440 x 2960,insurance,3,100000000130
+1000181,43,17:50,'att.net',Haguimit,2020-02-09,2,45,1,0,8,Affiliates,youtube.com,edge,laptop,samsung,windows,0,1536 x 2048,insurance,2,100000000131
+1000046,290,1:02,'cox.net',Manadas,2020-01-14,5,72,0,0,10,Affiliates,linkedin.com,brave,tablet,apple,ios,0,1280x800,loan,9,100000000132
+1000164,448,20:13,'comcast.net',Kwali,2020-02-07,1,98,0,1,5,Refferal,facebook.com,chromium,laptop,apple,mac-os,0,800 x 1280,credit_card,4,100000000133
+1000058,153,22:55,'verizon.net',Arhust,2020-01-14,1,41,0,0,10,Social,linkedin.com,brave,mobile,samsung,android,1,1080 x 1920,accounts,3,100000000134
+1000369,319,15:06,'comcast.net',Danyang,2020-03-01,3,4,1,0,10,Display,facebook.com,firefox,tablet,lenovo,android,0,1920x1080,insurance,4,100000000135
+1000362,307,12:25,'att.net',Piteå,2020-03-02,3,91,1,1,6,Social,google.com,safari,mobile,samsung,android,1,1080 x 1920,loan,6,100000000136
+1000216,258,20:51,'cox.net',Heung-hai,2020-01-22,2,72,0,1,7,Paid,youtube.com,safari,tablet,micromax,android,0,1366x768,insurance,2,100000000137
+1000268,129,4:36,'comcastbusiness.net',Banes,2020-01-18,1,48,1,1,5,Social,youtube.com,firefox,mobile,lenovo,android,1,1080 x 1920,accounts,3,100000000138
+1000396,217,13:11,'comcastbusiness.net',Yushikalasu,2020-02-26,4,74,1,0,9,Display,youtube.com,opera,mobile,apple,ios,1,1440 x 2560,credit_card,7,100000000139
+1000050,80,1:43,'cox.net',Al Ḩudaydah,2020-02-04,2,73,1,1,5,Paid,facebook.com,UC browser,mobile,apple,ios,1,1080 x 1920,deposits,5,100000000140
+1000100,152,22:14,'att.net',Carazinho,2020-01-07,2,33,1,0,9,Direct,linkedin.com,brave,tablet,lenovo,android,0,1280x800,accounts,4,100000000141
+1000258,237,21:35,'verizon.net',Lengkongbarang,2020-02-01,5,28,0,0,10,Social,google.com,edge,tablet,apple,ios,0,1280x800,loan,2,100000000142
+1000357,381,2:38,'att.net',Krasnyy Yar,2020-02-24,3,6,1,1,5,Organic,google.com,chromium,laptop,lenovo,windows,0,1200 x 1920,insurance,4,100000000143
+1000153,24,13:46,'hinet.net',Sumenep,2020-02-07,4,97,0,1,8,Organic,linkedin.com,UC browser,mobile,samsung,android,1,1440 x 2960,accounts,7,100000000144
+1000353,553,9:00,'cox.net',Korsze,2020-02-17,4,23,1,0,5,Paid,facebook.com,firefox,tablet,lenovo,android,0,1920x1080,accounts,7,100000000145
+1000229,318,13:28,'comcastbusiness.net',Naḥf,2020-01-30,2,53,1,0,7,Display,linkedin.com,chromium,laptop,samsung,ubuntu,0,1200 x 1920,credit_card,4,100000000146
+1000148,116,2:11,'cox.net',Rungis,2020-01-07,2,53,1,0,10,Paid,google.com,chrome,mobile,apple,ios,1,1440 x 2960,deposits,6,100000000147
+1000358,379,14:11,'hinet.net',Xianglan,2020-01-16,4,28,1,0,5,Direct,facebook.com,brave,mobile,lenovo,android,1,1440 x 2960,insurance,1,100000000148
+1000009,116,19:16,'comcastbusiness.net',Zhuravka,2020-02-24,5,17,1,1,6,Display,youtube.com,edge,laptop,apple,mac-os,0,1536 x 2048,loan,1,100000000149
+1000228,28,5:48,'hinet.net',Tall Ḩamīs,2020-01-02,3,54,0,1,5,Paid,youtube.com,safari,laptop,samsung,windows,0,800 x 1280,credit_card,3,100000000150
+1000080,487,9:53,'verizon.net',Gul’cha,2020-02-04,5,61,1,1,8,Affiliates,linkedin.com,firefox,mobile,apple,ios,1,1080 x 1920,deposits,1,100000000151
+1000078,457,0:12,'verizon.net',Katsikás,2020-01-02,1,5,0,0,5,Display,google.com,safari,tablet,micromax,android,0,1280x800,insurance,7,100000000152
+1000201,257,6:42,'cox.net',Rokoy,2020-02-20,4,11,1,1,7,Affiliates,facebook.com,UC browser,tablet,lenovo,android,0,1920x1080,deposits,7,100000000153
+1000211,284,12:50,'att.net',Vallentuna,2020-02-28,5,93,1,0,9,Display,youtube.com,safari,tablet,micromax,android,0,1366x768,credit_card,9,100000000154
+1000319,331,1:50,'hinet.net',Nueve de Julio,2020-02-09,2,90,0,0,10,Social,google.com,brave,tablet,apple,ios,0,1920x1080,insurance,2,100000000155
+1000338,414,20:00,'cox.net',Aldeia da Mata,2020-01-06,5,46,1,0,6,Paid,youtube.com,firefox,laptop,lenovo,windows,0,1536 x 2048,loan,1,100000000156
+1000035,398,23:26,'cox.net',Qitan,2020-02-28,4,29,0,0,7,Social,google.com,chrome,tablet,apple,ios,0,1280x800,credit_card,4,100000000157
+1000210,433,12:53,'cox.net',Muaraenim,2020-01-03,3,24,0,0,7,Paid,google.com,opera,tablet,lenovo,android,0,1280x800,credit_card,5,100000000158
+1000325,206,3:58,'cox.net',Legen,2020-01-06,2,52,1,0,8,Display,facebook.com,firefox,tablet,micromax,android,0,1366x768,credit_card,9,100000000159
+1000055,391,12:29,'hinet.net',Baizhu,2020-01-03,5,48,1,1,10,Organic,google.com,opera,laptop,micromax,ubuntu,0,1200 x 1920,insurance,7,100000000160
+1000021,259,22:07,'att.net',Tsimlyansk,2020-01-26,2,58,1,1,10,Social,facebook.com,safari,mobile,samsung,android,1,1080 x 1920,insurance,10,100000000161
+1000076,124,14:15,'hinet.net',Lenīnskīy,2020-01-20,1,33,1,1,5,Affiliates,youtube.com,edge,laptop,apple,mac-os,0,1536 x 2048,insurance,2,100000000162
+1000191,83,2:41,'verizon.net',Waterbury,2020-02-19,2,26,0,0,6,Organic,youtube.com,safari,mobile,apple,ios,1,1080 x 1920,accounts,1,100000000163
+1000360,116,23:26,'verizon.net',Abay,2020-02-03,2,10,1,0,10,Paid,youtube.com,chrome,laptop,micromax,windows,0,800 x 1280,insurance,2,100000000164
+1000143,436,13:56,'att.net',Sukacai,2020-01-08,3,93,1,1,8,Organic,youtube.com,UC browser,tablet,apple,ios,0,1920x1080,loan,5,100000000165
+1000129,323,3:19,'verizon.net',Zyablikovo,2020-02-13,4,67,0,0,5,Organic,linkedin.com,firefox,tablet,samsung,android,0,1280x800,credit_card,5,100000000166
+1000296,458,6:28,'comcastbusiness.net',Pereira,2020-02-10,4,80,0,1,7,Organic,facebook.com,opera,laptop,apple,mac-os,0,1200 x 1920,credit_card,10,100000000167
+1000105,128,23:32,'cox.net',Vista Alegre,2020-01-03,5,44,0,1,7,Direct,linkedin.com,opera,mobile,micromax,android,1,1080 x 1920,deposits,3,100000000168
+1000052,21,15:25,'hinet.net',Temirtau,2020-02-08,5,89,1,1,9,Organic,google.com,safari,laptop,lenovo,ubuntu,0,1200 x 1920,accounts,5,100000000169
+1000256,350,4:26,'att.net',Izborsk,2020-02-29,4,32,1,0,9,Organic,facebook.com,opera,laptop,lenovo,windows,0,1200 x 1920,loan,10,100000000170
+1000118,290,20:44,'hinet.net',Renhe,2020-02-19,5,69,1,0,9,Paid,google.com,chrome,tablet,apple,ios,0,1280x800,deposits,8,100000000171
+1000351,144,14:00,'verizon.net',Tanda,2020-01-28,1,35,1,1,10,Social,linkedin.com,safari,mobile,lenovo,android,1,1440 x 2960,credit_card,6,100000000172
+1000153,249,4:09,'comcastbusiness.net',Zagnitkiv,2020-02-08,2,93,1,0,9,Display,google.com,safari,mobile,micromax,android,1,1440 x 2560,insurance,10,100000000173
+1000302,329,8:11,'hinet.net',Tsetsegnuur,2020-02-25,5,94,0,1,6,Paid,youtube.com,chrome,laptop,apple,mac-os,0,1536 x 2048,loan,2,100000000174
+1000259,331,2:32,'att.net',Khiv,2020-02-16,4,44,0,0,7,Affiliates,google.com,UC browser,tablet,samsung,android,0,1366x768,credit_card,10,100000000175
+1000206,24,11:41,'verizon.net',Deskáti,2020-01-11,1,32,1,1,6,Social,youtube.com,opera,laptop,samsung,windows,0,1536 x 2048,credit_card,1,100000000176
+1000201,309,6:19,'comcast.net',Vale da Pedra,2020-02-06,3,88,0,1,7,Refferal,linkedin.com,edge,laptop,apple,mac-os,0,1200 x 1920,accounts,9,100000000177
+1000096,421,1:28,'verizon.net',Berëzovyy,2020-02-09,3,28,0,1,10,Paid,facebook.com,safari,tablet,micromax,android,0,1366x768,credit_card,6,100000000178
+1000077,247,16:43,'cox.net',Idenao,2020-01-13,2,49,0,0,10,Display,linkedin.com,UC browser,tablet,samsung,android,0,1366x768,insurance,8,100000000179
+1000283,388,11:17,'verizon.net',Mpigi,2020-01-20,5,84,0,0,7,Refferal,linkedin.com,UC browser,laptop,samsung,ubuntu,0,1536 x 2048,deposits,8,100000000180
+1000318,582,16:05,'verizon.net',Groningen,2020-01-24,4,9,1,1,5,Social,youtube.com,chromium,tablet,micromax,android,0,1366x768,deposits,1,100000000181
+1000305,197,17:38,'comcast.net',Noyakert,2020-03-01,4,23,1,0,10,Direct,google.com,chromium,laptop,apple,mac-os,0,800 x 1280,accounts,4,100000000182
+1000151,145,3:58,'comcast.net',Javhlant,2020-01-30,5,95,1,0,9,Social,linkedin.com,safari,tablet,micromax,android,0,1280x800,loan,9,100000000183
+1000345,420,15:08,'verizon.net',Yaguaraparo,2020-01-12,3,20,1,1,7,Social,linkedin.com,opera,mobile,apple,ios,1,1440 x 2560,insurance,10,100000000184
+1000287,489,7:17,'att.net',Szczurowa,2020-02-16,4,74,1,1,9,Display,linkedin.com,brave,tablet,samsung,android,0,1920x1080,credit_card,4,100000000185
+1000369,468,15:13,'comcast.net',Vuhlehirs’k,2020-01-05,2,90,1,1,5,Display,facebook.com,safari,mobile,samsung,android,1,1080 x 1920,credit_card,10,100000000186
+1000021,76,16:07,'cox.net',Damawato,2020-01-13,1,14,1,1,7,Affiliates,google.com,opera,laptop,apple,mac-os,0,1536 x 2048,deposits,1,100000000187
+1000266,545,12:07,'att.net',Nanyang,2020-01-23,2,76,0,1,7,Direct,google.com,UC browser,tablet,apple,ios,0,1366x768,deposits,1,100000000188
+1000042,126,11:13,'verizon.net',Libas,2020-02-03,3,77,1,1,9,Display,facebook.com,edge,laptop,micromax,ubuntu,0,800 x 1280,deposits,8,100000000189
+1000383,113,6:32,'verizon.net',Niujiang,2020-02-27,1,34,0,1,5,Social,google.com,chrome,tablet,samsung,android,0,1366x768,insurance,7,100000000190
+1000209,519,7:13,'comcastbusiness.net',São Martinho,2020-02-12,5,75,1,0,7,Direct,google.com,chromium,mobile,micromax,android,1,1440 x 2960,insurance,5,100000000191
+1000027,330,13:13,'hinet.net',Forbach,2020-01-24,4,32,1,0,5,Display,youtube.com,brave,tablet,lenovo,android,0,1280x800,credit_card,4,100000000192
+1000360,342,1:59,'comcastbusiness.net',Mingzhong,2020-01-03,4,67,1,0,9,Affiliates,youtube.com,brave,mobile,lenovo,android,1,1440 x 2560,accounts,9,100000000193
+1000266,289,3:04,'verizon.net',Liulin,2020-01-12,1,62,1,1,7,Display,facebook.com,chrome,tablet,samsung,android,0,1366x768,accounts,3,100000000194
+1000315,547,3:23,'verizon.net',Amadeo,2020-01-08,2,71,0,0,5,Refferal,linkedin.com,opera,laptop,lenovo,windows,0,1200 x 1920,loan,9,100000000195
+1000095,194,0:36,'comcastbusiness.net',Vyshneve,2020-01-05,4,93,1,1,8,Display,youtube.com,firefox,mobile,samsung,android,1,1440 x 2960,insurance,9,100000000196
+1000203,547,9:42,'hinet.net',Saguing,2020-02-08,1,7,1,1,7,Social,linkedin.com,opera,laptop,samsung,ubuntu,0,800 x 1280,insurance,10,100000000197
+1000303,208,0:21,'comcast.net',Umbultanjung,2020-02-14,5,43,1,0,10,Social,linkedin.com,brave,mobile,apple,ios,1,1080 x 1920,insurance,4,100000000198
+1000396,107,7:48,'cox.net',Krasnogorodskoye,2020-02-03,4,63,0,0,8,Direct,facebook.com,chrome,mobile,apple,ios,1,1440 x 2560,insurance,1,100000000199
+1000312,431,0:54,'verizon.net',Słubice,2020-02-10,1,63,0,0,5,Organic,google.com,brave,mobile,apple,ios,1,1080 x 1920,loan,7,100000000200
+1000214,186,17:47,'hinet.net',Fika,2020-01-25,3,62,1,1,10,Refferal,facebook.com,firefox,laptop,micromax,windows,0,1536 x 2048,credit_card,7,100000000201
+1000273,315,15:04,'comcastbusiness.net',Jembe Timur,2020-02-10,3,48,1,1,9,Organic,youtube.com,firefox,mobile,apple,ios,1,1440 x 2960,credit_card,9,100000000202
+1000043,233,9:01,'comcast.net',Poitiers,2020-02-04,5,55,1,1,5,Paid,youtube.com,chrome,laptop,lenovo,windows,0,1536 x 2048,credit_card,3,100000000203
+1000379,48,0:07,'comcast.net',Mrkonjić Grad,2020-02-19,1,61,1,1,8,Display,linkedin.com,firefox,laptop,micromax,windows,0,800 x 1280,deposits,5,100000000204
+1000089,571,10:35,'att.net',Hengtanggang,2020-01-20,3,83,1,0,6,Affiliates,linkedin.com,opera,mobile,lenovo,android,1,1080 x 1920,accounts,5,100000000205
+1000308,522,10:13,'cox.net',Uspenskoye,2020-01-17,4,18,1,0,8,Refferal,linkedin.com,opera,laptop,apple,mac-os,0,1200 x 1920,loan,7,100000000206
+1000294,281,22:48,'cox.net',Baabda,2020-01-26,5,31,0,1,9,Paid,linkedin.com,UC browser,tablet,samsung,android,0,1920x1080,credit_card,6,100000000207
+1000158,398,19:05,'comcast.net',Chmielno,2020-02-13,2,70,1,1,6,Organic,linkedin.com,chromium,tablet,samsung,android,0,1366x768,loan,3,100000000208
+1000358,137,8:40,'verizon.net',Shanga,2020-01-19,3,62,1,0,10,Direct,youtube.com,safari,tablet,samsung,android,0,1366x768,accounts,10,100000000209
+1000152,207,5:11,'verizon.net',Kleszczów,2020-01-07,3,68,0,0,5,Display,youtube.com,firefox,mobile,apple,ios,1,1080 x 1920,loan,9,100000000210
+1000393,211,10:24,'verizon.net',Amnat Charoen,2020-02-24,1,64,1,1,10,Organic,youtube.com,firefox,laptop,micromax,ubuntu,0,800 x 1280,deposits,5,100000000211
+1000185,262,19:55,'comcastbusiness.net',Jingtan,2020-01-15,5,40,0,0,7,Affiliates,linkedin.com,edge,laptop,samsung,windows,0,800 x 1280,deposits,4,100000000212
+1000046,249,20:20,'comcastbusiness.net',Wschowa,2020-02-26,4,86,1,0,10,Paid,google.com,brave,tablet,samsung,android,0,1280x800,insurance,6,100000000213
+1000105,517,15:39,'comcastbusiness.net',Guamo,2020-02-02,5,36,0,1,5,Organic,youtube.com,chromium,tablet,apple,ios,0,1280x800,insurance,8,100000000214
+1000381,483,7:08,'comcast.net',Hotaka,2020-01-10,3,82,0,0,7,Refferal,linkedin.com,brave,laptop,micromax,windows,0,1536 x 2048,credit_card,7,100000000215
+1000351,384,1:52,'cox.net',Kangalassy,2020-01-12,4,19,1,1,6,Affiliates,youtube.com,firefox,laptop,micromax,ubuntu,0,800 x 1280,loan,2,100000000216
+1000205,393,21:48,'att.net',Santo Domingo de los Colorados,2020-02-26,5,56,1,1,8,Paid,google.com,safari,tablet,samsung,android,0,1920x1080,loan,2,100000000217
+1000308,291,12:28,'comcastbusiness.net',Zhichu,2020-02-02,1,100,1,1,5,Organic,google.com,edge,mobile,apple,ios,1,1440 x 2560,loan,10,100000000218
+1000093,107,15:28,'cox.net',Farkhor,2020-01-17,3,71,1,0,5,Social,google.com,brave,laptop,micromax,ubuntu,0,800 x 1280,insurance,2,100000000219
+1000352,235,13:46,'verizon.net',Rayevskaya,2020-01-12,4,50,0,0,9,Refferal,youtube.com,chrome,tablet,apple,ios,0,1280x800,loan,1,100000000220
+1000310,600,0:54,'hinet.net',Kurovskoye,2020-01-22,2,2,0,0,8,Direct,linkedin.com,chrome,laptop,micromax,ubuntu,0,1200 x 1920,deposits,6,100000000221
+1000293,49,0:52,'comcast.net',Taclobo,2020-01-18,3,39,0,0,8,Direct,google.com,chromium,laptop,lenovo,windows,0,1536 x 2048,insurance,7,100000000222
+1000087,476,21:22,'verizon.net',Räpina,2020-01-16,1,4,1,0,10,Paid,facebook.com,chrome,laptop,apple,mac-os,0,1536 x 2048,deposits,9,100000000223
+1000296,139,1:03,'att.net',Condado,2020-02-25,2,49,1,0,6,Paid,youtube.com,edge,tablet,micromax,android,0,1920x1080,credit_card,8,100000000224
+1000218,508,1:28,'comcast.net',Ihuari,2020-01-20,3,7,0,1,7,Social,facebook.com,chromium,mobile,micromax,android,1,1440 x 2560,insurance,8,100000000225
+1000062,298,23:36,'comcastbusiness.net',Datong,2020-02-04,4,54,0,0,7,Social,facebook.com,UC browser,tablet,apple,ios,0,1366x768,credit_card,1,100000000226
+1000021,396,12:10,'cox.net',Papineauville,2020-01-11,3,85,1,0,10,Social,facebook.com,firefox,mobile,micromax,android,1,1080 x 1920,insurance,5,100000000227
+1000136,539,20:25,'cox.net',Arlington,2020-02-05,3,34,0,1,10,Paid,google.com,brave,tablet,apple,ios,0,1280x800,loan,10,100000000228
+1000095,218,11:09,'att.net',Swift Current,2020-01-08,1,33,1,0,7,Paid,youtube.com,firefox,tablet,lenovo,android,0,1366x768,deposits,2,100000000229
+1000095,278,12:52,'hinet.net',Pryazovs’ke,2020-02-07,1,96,0,0,10,Direct,facebook.com,safari,tablet,apple,ios,0,1920x1080,credit_card,8,100000000230
+1000363,464,20:25,'att.net',Uddevalla,2020-01-03,4,7,1,1,7,Display,google.com,chromium,tablet,micromax,android,0,1366x768,accounts,8,100000000231
+1000185,122,15:59,'comcast.net',Hanyū,2020-02-04,5,11,1,1,6,Direct,google.com,UC browser,tablet,samsung,android,0,1920x1080,credit_card,10,100000000232
+1000244,429,15:24,'comcast.net',Glasnevin,2020-01-22,3,100,1,0,5,Organic,facebook.com,chrome,mobile,lenovo,android,1,1080 x 1920,deposits,2,100000000233
+1000233,261,3:01,'comcast.net',Tabatinga,2020-01-28,3,91,0,1,5,Organic,youtube.com,chromium,laptop,lenovo,windows,0,1200 x 1920,credit_card,7,100000000234
+1000362,461,13:14,'verizon.net',Loznitsa,2020-01-04,2,39,0,0,8,Social,youtube.com,brave,mobile,lenovo,android,1,1440 x 2960,deposits,4,100000000235
+1000251,421,9:05,'cox.net',Talavera,2020-02-18,2,48,1,0,5,Display,linkedin.com,firefox,tablet,lenovo,android,0,1366x768,loan,5,100000000236
+1000117,392,18:23,'att.net',Strum,2020-01-11,1,20,0,0,6,Refferal,youtube.com,edge,mobile,micromax,android,1,1440 x 2960,accounts,8,100000000237
+1000133,320,4:28,'comcast.net',Zumarraga,2020-01-26,2,66,1,0,7,Social,facebook.com,opera,mobile,lenovo,android,1,1440 x 2560,credit_card,3,100000000238
+1000044,462,8:08,'hinet.net',Wangping,2020-01-19,4,15,0,1,10,Paid,linkedin.com,chromium,laptop,apple,mac-os,0,800 x 1280,loan,6,100000000239
+1000056,298,23:34,'verizon.net',Waajid,2020-02-20,2,92,0,1,9,Organic,youtube.com,chromium,mobile,micromax,android,1,1440 x 2560,credit_card,10,100000000240
+1000335,267,15:32,'verizon.net',Mont-Saint-Aignan,2020-02-18,3,68,0,0,9,Direct,youtube.com,chromium,laptop,apple,mac-os,0,800 x 1280,accounts,5,100000000241
+1000242,10,4:24,'hinet.net',Jingchuan,2020-01-06,3,32,0,1,10,Affiliates,youtube.com,edge,laptop,apple,mac-os,0,1536 x 2048,credit_card,6,100000000242
+1000080,503,21:14,'comcast.net',Quận Mười,2020-02-24,1,41,0,0,5,Direct,facebook.com,firefox,mobile,apple,ios,1,1080 x 1920,deposits,2,100000000243
+1000181,261,10:08,'cox.net',Espargos,2020-02-08,2,91,1,1,8,Refferal,facebook.com,safari,mobile,samsung,android,1,1080 x 1920,loan,2,100000000244
+1000231,554,8:20,'att.net',Naranjo,2020-01-07,3,8,0,0,5,Affiliates,facebook.com,chromium,laptop,samsung,ubuntu,0,1200 x 1920,deposits,4,100000000245
+1000180,597,9:55,'comcast.net',Karlsruhe,2020-01-29,4,86,0,0,10,Social,facebook.com,edge,tablet,micromax,android,0,1280x800,credit_card,2,100000000246
+1000207,78,0:54,'verizon.net',Slovenska Bistrica,2020-01-23,1,10,0,0,6,Organic,youtube.com,brave,laptop,apple,mac-os,0,1536 x 2048,deposits,2,100000000247
+1000261,456,2:14,'comcast.net',Sumbersari Wetan,2020-01-13,2,1,1,1,9,Social,linkedin.com,opera,tablet,apple,ios,0,1280x800,credit_card,10,100000000248
+1000080,91,18:30,'att.net',Jacksonville,2020-01-05,5,73,1,1,6,Display,youtube.com,UC browser,laptop,lenovo,ubuntu,0,800 x 1280,credit_card,6,100000000249
+1000055,586,15:16,'verizon.net',Sukaraja,2020-02-06,1,31,0,0,7,Organic,linkedin.com,brave,laptop,samsung,ubuntu,0,1536 x 2048,loan,4,100000000250
+1000257,563,3:35,'verizon.net',Baraguá,2020-01-03,5,74,0,1,10,Display,linkedin.com,brave,mobile,apple,ios,1,1080 x 1920,accounts,2,100000000251
+1000014,495,13:48,'att.net',Bitung,2020-01-23,3,22,0,0,6,Paid,linkedin.com,edge,tablet,samsung,android,0,1366x768,accounts,5,100000000252
+1000265,233,23:45,'hinet.net',Kutapanjang,2020-01-26,2,17,1,0,5,Organic,google.com,UC browser,mobile,samsung,android,1,1440 x 2960,insurance,10,100000000253
+1000175,162,15:17,'hinet.net',Luotaping,2020-01-03,5,75,0,1,8,Paid,linkedin.com,edge,tablet,micromax,android,0,1280x800,loan,9,100000000254
+1000374,265,18:38,'comcast.net',Warmare,2020-02-07,2,82,0,0,6,Organic,facebook.com,UC browser,laptop,lenovo,windows,0,1200 x 1920,accounts,8,100000000255
+1000287,199,18:29,'att.net',Heshui,2020-02-03,4,79,1,1,7,Affiliates,facebook.com,edge,tablet,lenovo,android,0,1366x768,loan,4,100000000256
+1000153,366,2:14,'comcastbusiness.net',São Miguel da Carreira,2020-01-27,5,31,0,0,6,Direct,youtube.com,safari,mobile,lenovo,android,1,1080 x 1920,deposits,3,100000000257
+1000314,521,22:37,'comcast.net',Miras,2020-02-06,1,56,0,0,10,Refferal,youtube.com,brave,tablet,samsung,android,0,1366x768,deposits,8,100000000258
+1000011,105,8:57,'hinet.net',Luts’k,2020-02-21,5,53,0,0,6,Organic,youtube.com,safari,mobile,samsung,android,1,1080 x 1920,loan,6,100000000259
+1000255,453,17:43,'comcast.net',Ticllos,2020-01-07,3,100,0,0,5,Organic,google.com,firefox,mobile,lenovo,android,1,1440 x 2560,insurance,5,100000000260
+1000131,538,1:05,'comcastbusiness.net',Belén de Escobar,2020-01-29,1,98,0,1,5,Display,facebook.com,edge,tablet,samsung,android,0,1920x1080,insurance,9,100000000261
+1000313,358,19:57,'cox.net',Batelov,2020-01-08,3,17,1,0,9,Refferal,facebook.com,chrome,mobile,lenovo,android,1,1440 x 2960,deposits,5,100000000262
+1000065,238,8:09,'att.net',Banatski Dvor,2020-02-25,3,75,0,0,5,Social,linkedin.com,brave,laptop,micromax,windows,0,1536 x 2048,accounts,6,100000000263
+1000280,206,19:40,'verizon.net',Sade,2020-02-05,1,74,0,1,8,Paid,facebook.com,chromium,tablet,micromax,android,0,1366x768,deposits,8,100000000264
+1000322,346,10:02,'cox.net',Sarnaki,2020-02-09,3,48,0,1,10,Paid,youtube.com,UC browser,laptop,lenovo,windows,0,800 x 1280,credit_card,7,100000000265
+1000264,317,10:01,'hinet.net',Bristol,2020-02-15,5,6,1,0,6,Refferal,facebook.com,firefox,laptop,lenovo,ubuntu,0,1536 x 2048,accounts,3,100000000266
+1000311,313,9:22,'cox.net',Bystré,2020-02-02,3,80,1,1,6,Paid,google.com,safari,tablet,micromax,android,0,1280x800,deposits,3,100000000267
+1000270,116,22:47,'comcastbusiness.net',Alingsås,2020-01-26,2,40,1,0,5,Social,youtube.com,UC browser,tablet,micromax,android,0,1280x800,insurance,8,100000000268
+1000049,421,6:00,'att.net',Icó,2020-01-20,4,61,0,1,6,Paid,youtube.com,edge,mobile,micromax,android,1,1440 x 2560,loan,9,100000000269
+1000256,378,13:10,'att.net',Longgang,2020-02-01,5,2,1,1,8,Organic,facebook.com,edge,tablet,lenovo,android,0,1920x1080,credit_card,2,100000000270
+1000290,175,14:07,'verizon.net',Sobotka,2020-01-18,3,14,0,0,5,Refferal,youtube.com,opera,laptop,apple,mac-os,0,1536 x 2048,credit_card,4,100000000271
+1000241,525,23:32,'comcast.net',Huwei,2020-02-25,3,14,0,0,5,Direct,linkedin.com,safari,mobile,apple,ios,1,1440 x 2560,credit_card,2,100000000272
+1000231,477,16:17,'hinet.net',Kalianyar Selatan,2020-02-27,5,58,1,0,10,Refferal,linkedin.com,chromium,tablet,lenovo,android,0,1280x800,credit_card,7,100000000273
+1000307,298,21:31,'hinet.net',Tân Trụ,2020-02-12,5,20,0,0,8,Direct,youtube.com,brave,mobile,samsung,android,1,1080 x 1920,insurance,9,100000000274
+1000043,257,17:39,'verizon.net',Wangcheng,2020-02-17,5,40,0,0,10,Display,google.com,UC browser,laptop,micromax,windows,0,1536 x 2048,loan,3,100000000275
+1000155,281,13:17,'comcastbusiness.net',Dobra,2020-01-27,2,58,0,0,6,Refferal,youtube.com,safari,mobile,apple,ios,1,1440 x 2960,deposits,6,100000000276
+1000216,404,23:30,'att.net',Gusinoozyorsk,2020-02-02,1,50,0,0,6,Social,youtube.com,chrome,tablet,micromax,android,0,1366x768,accounts,4,100000000277
+1000242,158,17:50,'hinet.net',Lianghekou,2020-02-12,3,62,1,1,6,Paid,google.com,safari,tablet,micromax,android,0,1366x768,insurance,2,100000000278
+1000264,376,6:17,'comcastbusiness.net',Martinópolis,2020-02-11,3,86,1,1,5,Paid,linkedin.com,brave,mobile,apple,ios,1,1440 x 2960,deposits,4,100000000279
+1000041,440,17:58,'comcastbusiness.net',Dumandesa,2020-01-22,4,20,1,1,10,Affiliates,google.com,safari,tablet,micromax,android,0,1280x800,insurance,1,100000000280
+1000014,57,13:14,'att.net',Växjö,2020-02-28,5,31,1,0,6,Paid,google.com,brave,mobile,lenovo,android,1,1440 x 2960,accounts,1,100000000281
+1000094,578,13:54,'att.net',Martil,2020-02-28,2,1,0,0,10,Direct,facebook.com,UC browser,mobile,samsung,android,1,1440 x 2960,credit_card,2,100000000282
+1000089,46,16:09,'att.net',Tebluru,2020-02-06,5,14,1,1,7,Organic,linkedin.com,brave,tablet,micromax,android,0,1920x1080,credit_card,10,100000000283
+1000349,158,1:29,'cox.net',Yefremov,2020-01-25,2,93,1,0,5,Display,youtube.com,opera,tablet,apple,ios,0,1280x800,credit_card,5,100000000284
+1000378,323,15:08,'verizon.net',Wu’erbu Baolige,2020-02-29,5,53,0,1,6,Organic,youtube.com,firefox,laptop,lenovo,windows,0,1200 x 1920,deposits,3,100000000285
+1000131,519,18:39,'verizon.net',El Paso,2020-01-08,3,92,1,1,8,Social,linkedin.com,chromium,laptop,lenovo,ubuntu,0,1200 x 1920,deposits,5,100000000286
+1000290,240,22:27,'comcast.net',Toluviejo,2020-02-01,4,77,1,1,7,Organic,google.com,chrome,laptop,lenovo,windows,0,1200 x 1920,deposits,5,100000000287
+1000271,473,10:10,'comcast.net',Ramotswa,2020-02-17,1,83,0,1,6,Social,facebook.com,opera,mobile,micromax,android,1,1440 x 2560,accounts,2,100000000288
+1000037,174,21:05,'cox.net',Troitskoye,2020-02-24,1,86,0,1,8,Organic,linkedin.com,UC browser,laptop,lenovo,windows,0,1200 x 1920,credit_card,5,100000000289
+1000063,115,19:04,'hinet.net',Ciudad Bolívar,2020-02-19,5,18,1,0,9,Affiliates,linkedin.com,safari,mobile,micromax,android,1,1440 x 2960,accounts,4,100000000290
+1000013,360,1:02,'att.net',Xinxu,2020-02-20,2,56,1,0,10,Display,linkedin.com,safari,laptop,micromax,windows,0,800 x 1280,accounts,4,100000000291
+1000267,298,21:40,'comcastbusiness.net',Garcia Hernandez,2020-02-17,5,7,0,0,9,Refferal,linkedin.com,chrome,laptop,micromax,windows,0,1200 x 1920,deposits,5,100000000292
+1000200,10,3:08,'verizon.net',Beiwenquan,2020-01-30,2,33,0,0,5,Display,youtube.com,brave,mobile,apple,ios,1,1440 x 2560,insurance,4,100000000293
+1000164,24,7:50,'att.net',Miatli,2020-01-09,5,42,0,0,9,Organic,youtube.com,chromium,laptop,apple,mac-os,0,1200 x 1920,credit_card,8,100000000294
+1000067,308,6:05,'comcast.net',Tanjiaqiao,2020-02-23,3,15,0,1,6,Social,facebook.com,edge,mobile,lenovo,android,1,1440 x 2960,credit_card,3,100000000295
+1000002,522,20:22,'comcast.net',Villasis,2020-02-22,2,2,0,0,10,Paid,linkedin.com,brave,laptop,lenovo,ubuntu,0,1200 x 1920,accounts,10,100000000296
+1000261,148,8:28,'comcastbusiness.net',Beutong Ateuh,2020-02-25,5,19,1,0,5,Affiliates,google.com,chrome,laptop,apple,mac-os,0,800 x 1280,loan,8,100000000297
+1000288,442,21:00,'verizon.net',Karamat,2020-02-12,4,49,0,1,9,Social,facebook.com,opera,laptop,lenovo,windows,0,1200 x 1920,insurance,1,100000000298
+1000010,66,21:54,'hinet.net',Sherwood Park,2020-01-15,3,14,0,0,10,Social,facebook.com,chromium,mobile,lenovo,android,1,1080 x 1920,deposits,7,100000000299
+1000168,293,2:51,'verizon.net',Dawuhan,2020-01-21,1,34,1,0,7,Organic,linkedin.com,opera,laptop,lenovo,ubuntu,0,1200 x 1920,accounts,1,100000000300
+1000240,577,17:08,'comcast.net',Fengcheng,2020-01-22,3,94,0,1,9,Refferal,youtube.com,opera,mobile,apple,ios,1,1440 x 2560,credit_card,3,100000000301
+1000312,198,14:23,'verizon.net',Aija,2020-02-28,3,24,1,0,9,Paid,linkedin.com,UC browser,tablet,micromax,android,0,1366x768,credit_card,5,100000000302
+1000112,275,7:38,'comcastbusiness.net',Banjarjo,2020-01-30,2,35,0,0,5,Display,facebook.com,chromium,laptop,apple,mac-os,0,800 x 1280,deposits,1,100000000303
+1000082,491,4:32,'cox.net',Lela,2020-01-30,3,78,1,0,10,Display,youtube.com,opera,mobile,lenovo,android,1,1080 x 1920,loan,6,100000000304
+1000321,10,4:10,'cox.net',Cibeureum,2020-02-28,1,92,1,0,7,Display,facebook.com,safari,tablet,micromax,android,0,1366x768,credit_card,10,100000000305
+1000170,98,23:35,'comcast.net',Sanjiang,2020-01-10,3,25,0,1,9,Organic,linkedin.com,opera,tablet,micromax,android,0,1280x800,deposits,1,100000000306
+1000060,408,23:51,'comcast.net',Rogoźnik,2020-01-04,4,12,1,0,8,Display,facebook.com,edge,tablet,lenovo,android,0,1280x800,insurance,4,100000000307
+1000237,496,17:34,'verizon.net',Rybinsk,2020-01-06,5,10,1,0,9,Organic,google.com,chromium,tablet,lenovo,android,0,1280x800,loan,6,100000000308
+1000287,504,8:52,'comcastbusiness.net',Las Piñas,2020-01-07,3,40,1,0,10,Organic,linkedin.com,chromium,tablet,apple,ios,0,1920x1080,credit_card,3,100000000309
+1000295,413,5:39,'comcastbusiness.net',Colmar,2020-02-16,5,68,0,0,6,Display,facebook.com,safari,tablet,micromax,android,0,1920x1080,credit_card,8,100000000310
+1000112,87,0:05,'hinet.net',Santa Eulália,2020-01-03,5,34,1,1,7,Organic,facebook.com,chrome,mobile,micromax,android,1,1080 x 1920,accounts,4,100000000311
+1000107,374,0:35,'comcastbusiness.net',Al Funayţīs,2020-01-30,1,92,0,0,10,Refferal,linkedin.com,opera,mobile,lenovo,android,1,1080 x 1920,insurance,9,100000000312
+1000017,106,12:51,'hinet.net',Sabon Gari-Nangere,2020-01-06,5,57,1,0,8,Social,facebook.com,safari,mobile,apple,ios,1,1440 x 2960,credit_card,4,100000000313
+1000098,37,6:48,'verizon.net',Zhuanqiang,2020-01-25,4,75,0,0,5,Paid,youtube.com,chrome,laptop,samsung,windows,0,1536 x 2048,insurance,3,100000000314
+1000305,255,13:27,'att.net',Terrugem,2020-02-02,4,67,1,1,7,Direct,facebook.com,chrome,laptop,samsung,windows,0,1536 x 2048,insurance,4,100000000315
+1000262,40,15:14,'cox.net',Jiangxiangzhen,2020-01-12,3,2,0,0,6,Refferal,youtube.com,chromium,tablet,lenovo,android,0,1366x768,insurance,4,100000000316
+1000158,457,23:24,'comcast.net',Moscavide,2020-01-01,1,98,1,1,6,Display,facebook.com,brave,mobile,micromax,android,1,1080 x 1920,deposits,10,100000000317
+1000244,161,7:47,'cox.net',Kulykiv,2020-01-15,5,98,1,1,5,Social,facebook.com,brave,tablet,samsung,android,0,1366x768,accounts,9,100000000318
+1000207,559,8:56,'att.net',Laon,2020-02-04,3,85,1,0,8,Display,google.com,opera,tablet,micromax,android,0,1366x768,loan,10,100000000319
+1000286,191,5:00,'verizon.net',Vitim,2020-01-15,4,33,0,0,9,Affiliates,linkedin.com,UC browser,laptop,lenovo,windows,0,1536 x 2048,accounts,9,100000000320
+1000262,551,20:31,'verizon.net',Kanshi,2020-02-25,4,73,1,1,7,Direct,linkedin.com,brave,tablet,apple,ios,0,1366x768,insurance,3,100000000321
+1000062,417,1:47,'cox.net',Barra de São Francisco,2020-01-11,3,70,0,1,9,Display,google.com,brave,laptop,lenovo,windows,0,800 x 1280,deposits,4,100000000322
+1000213,458,5:05,'hinet.net',Thika,2020-02-07,3,94,1,0,7,Display,linkedin.com,safari,tablet,apple,ios,0,1280x800,accounts,3,100000000323
+1000195,492,0:58,'att.net',Mykolayiv,2020-01-30,5,65,1,0,7,Refferal,youtube.com,chromium,mobile,lenovo,android,1,1440 x 2560,accounts,6,100000000324
+1000063,14,17:26,'comcastbusiness.net',Içara,2020-01-14,2,92,1,1,9,Affiliates,facebook.com,firefox,tablet,lenovo,android,0,1366x768,loan,9,100000000325
+1000181,500,10:47,'comcastbusiness.net',Taihe,2020-01-07,3,24,0,0,7,Display,google.com,edge,mobile,apple,ios,1,1440 x 2960,deposits,9,100000000326
+1000150,460,16:57,'hinet.net',Kołbiel,2020-01-17,3,63,1,1,6,Direct,facebook.com,safari,tablet,lenovo,android,0,1920x1080,loan,9,100000000327
+1000252,63,15:29,'hinet.net',Entebbe,2020-02-06,5,55,1,0,9,Paid,linkedin.com,firefox,tablet,micromax,android,0,1280x800,loan,2,100000000328
+1000354,533,0:36,'comcast.net',Pehčevo,2020-01-10,3,43,0,0,8,Organic,facebook.com,chrome,tablet,lenovo,android,0,1280x800,deposits,7,100000000329
+1000338,478,23:01,'comcast.net',Dalam,2020-02-28,4,40,1,1,9,Paid,facebook.com,edge,tablet,apple,ios,0,1920x1080,deposits,2,100000000330
+1000383,389,9:44,'comcastbusiness.net',Nardaran,2020-03-02,4,68,0,1,7,Social,facebook.com,brave,mobile,apple,ios,1,1440 x 2960,accounts,1,100000000331
+1000146,312,2:04,'comcast.net',Habana del Este,2020-02-21,5,22,0,0,5,Affiliates,linkedin.com,chromium,laptop,lenovo,windows,0,1200 x 1920,loan,4,100000000332
+1000296,80,3:13,'comcastbusiness.net',Hedaru,2020-01-18,4,59,0,0,8,Affiliates,youtube.com,UC browser,mobile,apple,ios,1,1080 x 1920,loan,1,100000000333
+1000399,129,17:08,'att.net',Norberg,2020-02-07,5,63,1,0,6,Social,linkedin.com,brave,mobile,apple,ios,1,1440 x 2960,loan,7,100000000334
+1000201,372,14:47,'cox.net',Vaughan,2020-02-02,5,57,0,1,6,Social,youtube.com,UC browser,tablet,micromax,android,0,1280x800,credit_card,8,100000000335
+1000139,364,8:36,'comcast.net',Sexiong,2020-01-05,1,16,0,1,10,Refferal,facebook.com,safari,mobile,lenovo,android,1,1440 x 2560,accounts,6,100000000336
+1000181,439,9:46,'cox.net',Quma,2020-02-14,4,41,1,1,7,Display,facebook.com,brave,laptop,samsung,windows,0,1200 x 1920,deposits,6,100000000337
+1000069,11,14:50,'verizon.net',Leye,2020-02-12,3,85,0,1,6,Affiliates,facebook.com,chrome,mobile,micromax,android,1,1440 x 2960,insurance,6,100000000338
+1000057,404,16:36,'cox.net',Gunung,2020-01-29,1,28,1,0,8,Display,facebook.com,edge,mobile,lenovo,android,1,1440 x 2960,insurance,1,100000000339
+1000292,362,16:06,'verizon.net',Nevinnomyssk,2020-03-01,4,19,0,1,5,Organic,google.com,edge,mobile,apple,ios,1,1440 x 2960,credit_card,8,100000000340
+1000256,492,16:45,'verizon.net',Abangay,2020-01-15,2,98,1,1,8,Refferal,google.com,safari,mobile,samsung,android,1,1080 x 1920,accounts,6,100000000341
+1000381,303,17:00,'comcast.net',Chengxi,2020-01-28,5,9,1,1,10,Display,facebook.com,chromium,laptop,lenovo,windows,0,1536 x 2048,deposits,6,100000000342
+1000223,125,8:11,'att.net',Rancabugel,2020-02-26,5,21,0,1,10,Paid,linkedin.com,firefox,mobile,samsung,android,1,1440 x 2960,insurance,6,100000000343
+1000333,280,13:41,'comcastbusiness.net',Yebaishou,2020-02-12,3,24,1,0,7,Display,facebook.com,UC browser,laptop,samsung,ubuntu,0,1200 x 1920,credit_card,8,100000000344
+1000123,387,4:15,'att.net',El Limon,2020-01-24,3,21,1,0,5,Social,youtube.com,chrome,laptop,apple,mac-os,0,800 x 1280,accounts,8,100000000345
+1000222,542,17:53,'comcast.net',Čáslav,2020-01-03,1,8,0,1,10,Social,youtube.com,chromium,laptop,samsung,windows,0,1536 x 2048,loan,3,100000000346
+1000125,569,5:39,'comcast.net',Noyemberyan,2020-01-31,4,8,0,1,5,Paid,linkedin.com,firefox,laptop,micromax,windows,0,1536 x 2048,insurance,1,100000000347
+1000386,151,21:40,'comcast.net',Mutoko,2020-01-06,5,26,0,1,7,Display,linkedin.com,safari,tablet,micromax,android,0,1280x800,insurance,2,100000000348
+1000120,426,2:32,'comcast.net',Rautalampi,2020-03-01,1,89,0,1,6,Paid,linkedin.com,UC browser,tablet,lenovo,android,0,1920x1080,insurance,9,100000000349
+1000290,112,9:09,'comcastbusiness.net',Kaliningrad,2020-01-13,2,27,1,0,10,Affiliates,google.com,safari,laptop,apple,mac-os,0,800 x 1280,insurance,1,100000000350
+1000338,350,12:17,'cox.net',Lýkeio,2020-02-01,5,64,1,0,10,Organic,linkedin.com,UC browser,tablet,lenovo,android,0,1920x1080,deposits,8,100000000351
+1000041,148,9:29,'cox.net',Piuí,2020-01-29,1,100,0,1,10,Display,google.com,brave,laptop,micromax,ubuntu,0,1200 x 1920,credit_card,2,100000000352
+1000355,454,10:50,'hinet.net',Katovice,2020-02-08,5,71,0,1,10,Paid,linkedin.com,brave,mobile,lenovo,android,1,1440 x 2560,insurance,7,100000000353
+1000223,427,9:11,'hinet.net',Tanggul Wetan,2020-02-20,4,95,0,0,7,Refferal,facebook.com,chromium,laptop,micromax,ubuntu,0,800 x 1280,insurance,4,100000000354
+1000173,475,13:43,'hinet.net',Wuda,2020-02-19,1,44,0,0,8,Social,youtube.com,safari,tablet,micromax,android,0,1280x800,credit_card,6,100000000355
+1000135,528,2:52,'att.net',La Clotilde,2020-02-14,2,57,0,0,9,Organic,youtube.com,chrome,tablet,micromax,android,0,1366x768,deposits,6,100000000356
+1000239,88,20:07,'cox.net',Mabusag,2020-02-04,2,87,1,0,10,Affiliates,youtube.com,brave,mobile,samsung,android,1,1440 x 2560,insurance,1,100000000357
+1000128,450,3:01,'verizon.net',Xiaoyue,2020-01-05,5,74,0,0,8,Paid,linkedin.com,UC browser,mobile,apple,ios,1,1440 x 2960,loan,10,100000000358
+1000327,289,19:28,'comcastbusiness.net',Atabayan,2020-02-22,1,86,1,1,6,Organic,linkedin.com,opera,mobile,lenovo,android,1,1440 x 2560,loan,1,100000000359
+1000244,334,23:58,'comcastbusiness.net',Świnice Warckie,2020-02-23,1,19,1,0,9,Affiliates,youtube.com,chromium,laptop,samsung,windows,0,800 x 1280,loan,10,100000000360
+1000082,324,4:47,'verizon.net',Dizhai,2020-01-19,4,15,0,0,5,Display,google.com,UC browser,tablet,micromax,android,0,1280x800,credit_card,10,100000000361
+1000189,293,6:25,'comcast.net',Kupusina,2020-02-15,1,35,1,0,8,Display,linkedin.com,UC browser,mobile,apple,ios,1,1080 x 1920,credit_card,10,100000000362
+1000277,547,3:51,'comcastbusiness.net',Camaçari,2020-01-02,2,64,1,0,5,Direct,google.com,firefox,tablet,lenovo,android,0,1280x800,deposits,9,100000000363
+1000024,473,12:50,'comcast.net',Wucheng,2020-02-12,1,52,1,0,7,Affiliates,linkedin.com,chrome,laptop,apple,mac-os,0,800 x 1280,accounts,9,100000000364
+1000059,503,6:24,'att.net',Minanga Norte,2020-02-13,3,40,0,1,9,Organic,google.com,edge,mobile,apple,ios,1,1080 x 1920,credit_card,8,100000000365
+1000153,448,5:14,'cox.net',Kęsowo,2020-02-24,1,8,1,1,8,Paid,youtube.com,opera,mobile,apple,ios,1,1440 x 2560,insurance,4,100000000366
+1000019,129,17:04,'cox.net',Whitwell,2020-02-07,4,64,0,1,9,Direct,youtube.com,chrome,tablet,samsung,android,0,1920x1080,credit_card,4,100000000367
+1000157,92,18:44,'comcastbusiness.net',Tāngāil,2020-02-22,1,52,1,0,8,Organic,google.com,firefox,tablet,micromax,android,0,1280x800,accounts,9,100000000368
+1000315,179,18:03,'hinet.net',Kajuru,2020-02-19,3,39,1,0,9,Organic,linkedin.com,firefox,laptop,samsung,windows,0,1200 x 1920,loan,6,100000000369
+1000258,86,1:58,'cox.net',Loyola,2020-02-08,2,65,0,1,8,Refferal,facebook.com,chromium,laptop,micromax,ubuntu,0,800 x 1280,insurance,1,100000000370
+1000075,572,4:56,'comcastbusiness.net',Pirapora,2020-01-01,1,71,1,0,9,Paid,youtube.com,edge,laptop,apple,mac-os,0,800 x 1280,insurance,2,100000000371
+1000138,102,2:48,'comcastbusiness.net',Wysoka,2020-01-22,1,58,1,1,10,Direct,linkedin.com,brave,laptop,samsung,ubuntu,0,1200 x 1920,loan,9,100000000372
+1000352,369,11:49,'verizon.net',Świeradów-Zdrój,2020-02-18,5,12,0,0,10,Display,youtube.com,opera,tablet,micromax,android,0,1280x800,insurance,2,100000000373
+1000073,287,22:38,'verizon.net',Gaspar,2020-02-16,4,49,0,0,10,Refferal,youtube.com,chrome,laptop,samsung,ubuntu,0,1200 x 1920,deposits,7,100000000374
+1000328,359,0:40,'verizon.net',Mougins,2020-02-24,1,34,1,0,5,Refferal,facebook.com,UC browser,mobile,micromax,android,1,1440 x 2960,accounts,7,100000000375
+1000088,416,21:15,'att.net',Weishanzhuang,2020-02-10,2,19,0,1,9,Affiliates,youtube.com,firefox,laptop,apple,mac-os,0,800 x 1280,credit_card,10,100000000376
+1000071,216,17:17,'cox.net',Shiziling,2020-01-10,5,88,0,0,9,Display,linkedin.com,chrome,mobile,samsung,android,1,1440 x 2960,loan,4,100000000377
+1000369,172,8:55,'comcastbusiness.net',Bokong Timur,2020-01-04,2,75,1,1,10,Organic,facebook.com,chrome,laptop,micromax,ubuntu,0,1536 x 2048,insurance,9,100000000378
+1000136,123,9:29,'cox.net',Bayshint,2020-02-04,1,27,0,1,9,Paid,facebook.com,chrome,laptop,samsung,ubuntu,0,800 x 1280,loan,4,100000000379
+1000387,183,6:03,'verizon.net',Bulog,2020-01-13,5,64,0,1,9,Direct,linkedin.com,UC browser,tablet,samsung,android,0,1280x800,credit_card,6,100000000380
+1000134,95,10:35,'comcastbusiness.net',Plomárion,2020-02-10,3,24,1,1,6,Paid,linkedin.com,brave,mobile,samsung,android,1,1080 x 1920,insurance,4,100000000381
+1000310,434,3:46,'cox.net',Ntsoudjini,2020-02-03,3,71,0,1,8,Refferal,youtube.com,firefox,mobile,micromax,android,1,1440 x 2560,loan,2,100000000382
+1000037,117,23:24,'comcastbusiness.net',Prigi,2020-02-07,5,27,0,1,8,Refferal,youtube.com,chrome,mobile,samsung,android,1,1080 x 1920,credit_card,8,100000000383
+1000270,211,8:11,'comcast.net',Villa Altagracia,2020-01-04,4,22,1,0,9,Social,linkedin.com,chrome,laptop,lenovo,windows,0,1536 x 2048,accounts,8,100000000384
+1000373,369,16:58,'verizon.net',Kouango,2020-02-22,5,100,0,0,8,Paid,facebook.com,brave,laptop,apple,mac-os,0,1536 x 2048,insurance,3,100000000385
+1000147,226,1:24,'comcast.net',Sadang Kulon,2020-01-09,4,6,1,1,10,Social,facebook.com,opera,mobile,micromax,android,1,1440 x 2960,insurance,10,100000000386
+1000192,293,19:48,'comcastbusiness.net',Oljoq,2020-01-21,5,38,0,1,5,Affiliates,facebook.com,brave,tablet,micromax,android,0,1366x768,credit_card,7,100000000387
+1000218,337,7:14,'cox.net',‘Arad,2020-02-06,3,71,1,1,7,Refferal,google.com,brave,tablet,samsung,android,0,1366x768,loan,1,100000000388
+1000357,489,8:37,'comcastbusiness.net',Karangagung Timur,2020-02-22,5,87,0,1,9,Social,facebook.com,brave,laptop,micromax,windows,0,800 x 1280,insurance,4,100000000389
+1000296,568,20:11,'att.net',Sarulla,2020-01-12,4,58,1,0,8,Refferal,google.com,firefox,laptop,apple,mac-os,0,800 x 1280,credit_card,10,100000000390
+1000226,208,7:48,'verizon.net',Cimaragas,2020-02-23,2,76,1,1,7,Direct,facebook.com,chromium,tablet,lenovo,android,0,1920x1080,deposits,8,100000000391
+1000250,369,21:58,'hinet.net',Santo Tomas,2020-02-07,5,45,0,1,8,Direct,linkedin.com,UC browser,tablet,apple,ios,0,1366x768,accounts,9,100000000392
+1000208,513,12:09,'verizon.net',Tangnanzhen,2020-01-18,3,84,0,1,6,Refferal,youtube.com,safari,mobile,micromax,android,1,1440 x 2560,credit_card,8,100000000393
+1000095,10,8:37,'verizon.net',Mambulo,2020-01-22,1,34,1,1,9,Paid,google.com,UC browser,laptop,micromax,ubuntu,0,800 x 1280,loan,2,100000000394
+1000186,438,17:03,'comcast.net',La Palma,2020-02-28,5,3,1,0,6,Direct,youtube.com,chrome,mobile,lenovo,android,1,1440 x 2560,accounts,10,100000000395
+1000377,256,18:47,'hinet.net',Aikmel,2020-01-19,5,46,1,0,10,Social,youtube.com,brave,mobile,apple,ios,1,1080 x 1920,deposits,8,100000000396
+1000224,362,19:12,'comcastbusiness.net',Sivers’k,2020-01-23,2,74,1,1,7,Paid,linkedin.com,edge,laptop,samsung,windows,0,1536 x 2048,loan,3,100000000397
+1000057,340,0:51,'cox.net',Áyios Nikólaos,2020-01-26,5,20,1,0,8,Paid,facebook.com,firefox,tablet,apple,ios,0,1280x800,insurance,4,100000000398
+1000217,203,3:23,'comcast.net',Lokwabe,2020-03-01,3,39,0,1,6,Paid,linkedin.com,chromium,mobile,samsung,android,1,1440 x 2960,insurance,6,100000000399
+1000302,199,20:02,'verizon.net',Darunban,2020-02-19,1,62,1,0,8,Organic,linkedin.com,safari,tablet,micromax,android,0,1920x1080,accounts,7,100000000400
+1000400,469,1:07,'cox.net',Calubcub Dos,2020-02-08,1,74,0,0,7,Display,linkedin.com,safari,laptop,micromax,windows,0,1200 x 1920,insurance,4,100000000401
+1000256,580,8:09,'cox.net',Le Tampon,2020-01-02,4,99,0,0,8,Affiliates,youtube.com,firefox,mobile,apple,ios,1,1080 x 1920,deposits,9,100000000402
+1000358,501,13:42,'att.net',Penang,2020-01-02,5,51,1,0,7,Refferal,facebook.com,safari,laptop,lenovo,ubuntu,0,1200 x 1920,loan,5,100000000403
+1000210,281,1:50,'hinet.net',Guingamp,2020-02-04,2,99,1,1,10,Paid,facebook.com,chromium,laptop,lenovo,windows,0,1200 x 1920,credit_card,3,100000000404
+1000091,395,3:16,'comcastbusiness.net',Xinkai,2020-02-21,5,96,0,0,8,Social,linkedin.com,opera,tablet,micromax,android,0,1920x1080,loan,8,100000000405
+1000003,255,13:53,'att.net',Ibrā’,2020-02-01,4,48,0,1,7,Affiliates,google.com,chrome,tablet,micromax,android,0,1280x800,credit_card,5,100000000406
+1000162,141,14:11,'verizon.net',La Viña,2020-01-09,5,47,0,1,8,Organic,google.com,firefox,tablet,apple,ios,0,1366x768,accounts,1,100000000407
+1000390,570,10:55,'comcast.net',Tengqiao,2020-02-05,2,6,0,1,10,Affiliates,linkedin.com,firefox,mobile,apple,ios,1,1080 x 1920,insurance,1,100000000408
+1000197,516,19:38,'hinet.net',Osveya,2020-01-13,1,18,0,0,9,Direct,google.com,brave,mobile,samsung,android,1,1440 x 2560,deposits,9,100000000409
+1000150,193,19:59,'att.net',Strasbourg,2020-01-25,3,87,1,0,5,Refferal,youtube.com,edge,laptop,micromax,ubuntu,0,800 x 1280,credit_card,9,100000000410
+1000036,205,23:43,'comcast.net',Fengqiao,2020-02-23,1,65,1,0,5,Organic,linkedin.com,UC browser,laptop,apple,mac-os,0,1536 x 2048,credit_card,4,100000000411
+1000189,240,3:30,'hinet.net',Yelets,2020-01-17,5,24,0,1,10,Refferal,linkedin.com,firefox,mobile,apple,ios,1,1440 x 2560,loan,9,100000000412
+1000329,364,20:58,'comcastbusiness.net',Göteborg,2020-02-16,4,18,1,1,9,Refferal,linkedin.com,opera,laptop,apple,mac-os,0,1536 x 2048,loan,4,100000000413
+1000143,376,18:05,'comcastbusiness.net',Botshabelo,2020-02-05,4,1,0,1,10,Affiliates,youtube.com,chromium,laptop,samsung,windows,0,1536 x 2048,deposits,10,100000000414
+1000201,42,23:21,'hinet.net',Nové Město pod Smrkem,2020-01-20,1,48,0,1,6,Refferal,youtube.com,firefox,laptop,apple,mac-os,0,1536 x 2048,credit_card,5,100000000415
+1000030,106,0:07,'att.net',El Puerto,2020-02-13,3,85,1,1,7,Paid,linkedin.com,edge,laptop,lenovo,ubuntu,0,800 x 1280,deposits,2,100000000416
+1000381,236,11:04,'att.net',Pavshino,2020-01-15,5,99,0,0,7,Affiliates,google.com,opera,laptop,lenovo,windows,0,1536 x 2048,deposits,5,100000000417
+1000284,351,22:06,'verizon.net',San Diego,2020-01-02,2,57,1,0,10,Direct,youtube.com,brave,mobile,micromax,android,1,1440 x 2960,insurance,4,100000000418
+1000021,168,9:39,'att.net',Cutral-Có,2020-01-03,3,41,0,1,8,Refferal,facebook.com,safari,mobile,samsung,android,1,1440 x 2960,loan,7,100000000419
+1000371,142,12:01,'verizon.net',Jiangyi,2020-01-13,5,51,1,0,10,Social,youtube.com,chrome,laptop,samsung,ubuntu,0,800 x 1280,insurance,2,100000000420
+1000049,124,13:36,'verizon.net',Khadan Khāk,2020-01-10,1,1,0,1,8,Direct,youtube.com,safari,mobile,micromax,android,1,1080 x 1920,deposits,9,100000000421
+1000182,235,22:43,'comcast.net',Tríkeri,2020-02-07,3,100,1,0,10,Social,youtube.com,chrome,tablet,micromax,android,0,1280x800,insurance,7,100000000422
+1000152,15,3:49,'comcastbusiness.net',Sundbyberg,2020-01-10,3,16,1,1,5,Direct,facebook.com,UC browser,mobile,lenovo,android,1,1440 x 2560,loan,4,100000000423
+1000380,595,5:50,'comcast.net',Cililitan,2020-01-04,2,92,1,1,6,Direct,youtube.com,firefox,mobile,samsung,android,1,1080 x 1920,loan,8,100000000424
+1000337,174,23:16,'cox.net',Santa Maria do Souto,2020-02-21,2,85,0,0,8,Display,youtube.com,opera,laptop,samsung,ubuntu,0,800 x 1280,accounts,4,100000000425
+1000136,60,12:11,'verizon.net',Guji,2020-02-03,2,72,1,0,5,Display,linkedin.com,opera,mobile,samsung,android,1,1080 x 1920,accounts,2,100000000426
+1000382,261,11:38,'att.net',Sv. Anton,2020-01-24,5,83,1,1,8,Affiliates,youtube.com,firefox,mobile,lenovo,android,1,1440 x 2960,accounts,7,100000000427
+1000117,551,9:25,'verizon.net',Gangmian,2020-02-29,1,100,1,1,8,Paid,linkedin.com,opera,mobile,samsung,android,1,1440 x 2960,accounts,1,100000000428
+1000097,539,17:40,'comcastbusiness.net',Houston,2020-01-18,1,95,1,0,9,Paid,youtube.com,opera,tablet,samsung,android,0,1280x800,insurance,9,100000000429
+1000045,64,8:10,'att.net',Dzaoudzi,2020-02-14,2,97,0,1,7,Social,linkedin.com,UC browser,tablet,micromax,android,0,1280x800,credit_card,2,100000000430
+1000042,230,19:14,'comcastbusiness.net',Gurupi,2020-02-12,4,24,0,1,9,Paid,facebook.com,chromium,laptop,apple,mac-os,0,1536 x 2048,deposits,2,100000000431
+1000040,200,2:31,'hinet.net',Pinhal de Frades,2020-02-05,5,41,0,1,7,Display,google.com,brave,mobile,lenovo,android,1,1440 x 2960,insurance,5,100000000432
+1000071,87,13:02,'hinet.net',Degeberga,2020-01-04,2,58,1,0,9,Paid,google.com,edge,mobile,micromax,android,1,1440 x 2960,loan,5,100000000433
+1000361,357,16:05,'verizon.net',Habana del Este,2020-02-09,1,75,0,0,6,Organic,facebook.com,brave,tablet,apple,ios,0,1280x800,insurance,2,100000000434
+1000348,53,10:27,'hinet.net',Ciketak,2020-01-20,5,18,1,1,8,Paid,facebook.com,firefox,tablet,apple,ios,0,1280x800,accounts,9,100000000435
+1000089,173,22:55,'hinet.net',Norrtälje,2020-01-29,4,96,1,1,6,Direct,facebook.com,opera,laptop,lenovo,windows,0,1200 x 1920,insurance,9,100000000436
+1000117,579,11:11,'comcastbusiness.net',Jiangguanchi,2020-02-10,4,87,1,0,5,Organic,youtube.com,chrome,laptop,samsung,ubuntu,0,1536 x 2048,insurance,3,100000000437
+1000270,319,16:29,'comcastbusiness.net',Blagoevgrad,2020-01-12,3,8,0,1,6,Affiliates,linkedin.com,edge,mobile,micromax,android,1,1440 x 2960,insurance,1,100000000438
+1000388,82,3:47,'verizon.net',Paraty,2020-01-22,2,19,0,0,7,Direct,linkedin.com,chromium,laptop,apple,mac-os,0,800 x 1280,credit_card,6,100000000439
+1000253,543,9:18,'comcastbusiness.net',Taiba,2020-02-11,2,84,1,0,7,Organic,facebook.com,safari,tablet,lenovo,android,0,1280x800,insurance,4,100000000440
+1000227,293,13:13,'att.net',Iberia,2020-02-28,3,66,0,0,7,Affiliates,google.com,chromium,mobile,samsung,android,1,1440 x 2960,credit_card,9,100000000441
+1000386,330,21:12,'verizon.net',Leuweheq,2020-01-22,1,91,1,0,6,Affiliates,youtube.com,UC browser,mobile,lenovo,android,1,1440 x 2960,accounts,4,100000000442
+1000064,151,22:01,'comcast.net',Duba-Yurt,2020-01-18,4,54,1,0,9,Organic,google.com,chrome,laptop,lenovo,windows,0,800 x 1280,loan,9,100000000443
+1000321,91,23:37,'verizon.net',Wonoharjo,2020-02-24,2,59,1,1,9,Direct,linkedin.com,edge,mobile,apple,ios,1,1440 x 2960,insurance,5,100000000444
+1000245,564,20:11,'cox.net',Shizong,2020-01-03,4,68,0,0,8,Organic,google.com,safari,tablet,micromax,android,0,1366x768,accounts,5,100000000445
+1000008,399,21:45,'cox.net',Novomichurinsk,2020-01-11,4,44,1,1,6,Affiliates,linkedin.com,firefox,mobile,micromax,android,1,1080 x 1920,accounts,7,100000000446
+1000015,197,3:51,'verizon.net',Sanchang,2020-02-19,1,7,0,0,9,Refferal,google.com,chrome,tablet,lenovo,android,0,1920x1080,deposits,8,100000000447
+1000204,387,7:24,'comcast.net',Beverwijk,2020-01-03,5,12,1,0,6,Refferal,facebook.com,safari,laptop,micromax,windows,0,1536 x 2048,deposits,8,100000000448
+1000093,35,1:10,'verizon.net',Boskovice,2020-02-06,5,57,1,1,10,Paid,google.com,opera,mobile,micromax,android,1,1080 x 1920,insurance,3,100000000449
+1000345,164,10:58,'hinet.net',Huangwan,2020-01-06,2,9,1,1,9,Paid,linkedin.com,chrome,laptop,apple,mac-os,0,800 x 1280,credit_card,5,100000000450
+1000081,411,11:21,'att.net',Houston,2020-01-09,2,51,1,0,6,Paid,facebook.com,chromium,mobile,lenovo,android,1,1080 x 1920,credit_card,1,100000000451
+1000328,255,2:00,'cox.net',Gradizhsk,2020-02-18,3,75,0,1,7,Paid,google.com,opera,mobile,samsung,android,1,1440 x 2560,deposits,2,100000000452
+1000152,215,2:20,'comcastbusiness.net',Bangkal,2020-02-17,3,6,0,0,8,Social,google.com,opera,laptop,lenovo,windows,0,1536 x 2048,loan,5,100000000453
+1000371,205,0:33,'comcast.net',Korogan Timur,2020-01-27,1,92,1,1,7,Social,google.com,brave,laptop,apple,mac-os,0,1536 x 2048,accounts,10,100000000454
+1000288,534,2:24,'hinet.net',Stockholm,2020-02-12,5,46,1,0,7,Refferal,youtube.com,chromium,laptop,samsung,windows,0,800 x 1280,accounts,8,100000000455
+1000285,238,9:46,'comcastbusiness.net',Chennevières-sur-Marne,2020-01-04,4,83,1,1,9,Paid,youtube.com,opera,laptop,apple,mac-os,0,1536 x 2048,loan,4,100000000456
+1000090,458,21:17,'att.net',Överkalix,2020-03-01,5,70,1,0,7,Refferal,facebook.com,safari,tablet,lenovo,android,0,1920x1080,credit_card,7,100000000457
+1000348,32,7:50,'hinet.net',Gantang,2020-01-21,4,82,0,0,7,Paid,youtube.com,opera,mobile,apple,ios,1,1440 x 2960,credit_card,7,100000000458
+1000122,59,9:22,'cox.net',Sumberpitu,2020-02-07,3,78,1,0,9,Social,facebook.com,chromium,laptop,micromax,windows,0,1200 x 1920,insurance,8,100000000459
+1000396,484,20:37,'verizon.net',Mabu,2020-02-07,1,96,0,1,5,Organic,youtube.com,UC browser,mobile,micromax,android,1,1440 x 2960,accounts,6,100000000460
+1000196,52,12:47,'att.net',Hwado,2020-02-19,4,5,1,0,10,Affiliates,google.com,edge,mobile,lenovo,android,1,1080 x 1920,loan,8,100000000461
+1000265,80,20:02,'hinet.net',Hangbu,2020-02-04,5,50,1,1,7,Paid,linkedin.com,chromium,laptop,lenovo,windows,0,800 x 1280,loan,5,100000000462
+1000301,175,8:58,'att.net',Xinwan,2020-02-26,3,52,1,1,8,Affiliates,google.com,chromium,mobile,micromax,android,1,1440 x 2960,deposits,7,100000000463
+1000177,196,12:49,'verizon.net',Centar Župa,2020-01-25,4,99,1,1,7,Paid,linkedin.com,firefox,laptop,samsung,ubuntu,0,1200 x 1920,accounts,8,100000000464
+1000229,314,3:19,'comcast.net',Timbuktu,2020-01-15,5,88,1,1,5,Paid,facebook.com,safari,laptop,lenovo,ubuntu,0,1200 x 1920,insurance,9,100000000465
+1000064,550,0:07,'comcastbusiness.net',Chengkan,2020-01-08,3,97,0,0,7,Paid,facebook.com,edge,mobile,samsung,android,1,1080 x 1920,accounts,2,100000000466
+1000199,63,9:53,'hinet.net',San Antonio Huista,2020-02-05,2,58,1,1,10,Organic,google.com,firefox,mobile,apple,ios,1,1080 x 1920,credit_card,7,100000000467
+1000077,99,9:21,'hinet.net',Ukhta,2020-01-08,2,77,1,1,6,Refferal,facebook.com,chromium,laptop,lenovo,windows,0,800 x 1280,insurance,7,100000000468
+1000170,543,20:52,'comcastbusiness.net',Södertälje,2020-01-13,1,62,1,0,9,Social,facebook.com,UC browser,mobile,micromax,android,1,1080 x 1920,insurance,8,100000000469
+1000318,104,23:30,'comcastbusiness.net',Basen,2020-03-01,1,4,1,1,6,Direct,google.com,UC browser,laptop,micromax,ubuntu,0,800 x 1280,insurance,9,100000000470
+1000039,203,18:51,'cox.net',Lembang,2020-03-02,3,98,1,0,5,Organic,facebook.com,edge,tablet,micromax,android,0,1280x800,loan,8,100000000471
+1000389,368,5:56,'att.net',Vostochnoe Degunino,2020-02-08,1,60,1,0,7,Affiliates,google.com,edge,laptop,apple,mac-os,0,800 x 1280,accounts,2,100000000472
+1000207,516,1:51,'comcast.net',Fuchun,2020-01-16,5,88,0,1,5,Direct,facebook.com,UC browser,mobile,micromax,android,1,1440 x 2960,loan,9,100000000473
+1000213,160,5:23,'comcast.net',Vlorë,2020-02-08,3,59,0,1,9,Refferal,youtube.com,chromium,mobile,micromax,android,1,1440 x 2960,accounts,2,100000000474
+1000037,430,21:44,'comcast.net',Zhigulevsk,2020-02-22,1,57,0,0,6,Organic,youtube.com,safari,laptop,apple,mac-os,0,1536 x 2048,accounts,3,100000000475
+1000109,42,3:52,'att.net',Paris 17,2020-01-23,4,84,1,1,9,Affiliates,facebook.com,edge,mobile,micromax,android,1,1440 x 2960,credit_card,4,100000000476
+1000328,384,6:27,'verizon.net',Camatagua,2020-03-02,4,26,0,1,5,Direct,google.com,UC browser,mobile,apple,ios,1,1440 x 2960,accounts,9,100000000477
+1000020,412,19:12,'cox.net',Malim,2020-01-14,2,49,0,1,10,Organic,google.com,chromium,laptop,apple,mac-os,0,1200 x 1920,loan,3,100000000478
+1000182,553,8:37,'verizon.net',Jinshanzui,2020-01-19,1,26,1,1,7,Organic,facebook.com,brave,mobile,apple,ios,1,1440 x 2960,credit_card,3,100000000479
+1000007,469,23:09,'comcast.net',Huilong,2020-01-28,2,1,1,1,7,Refferal,facebook.com,firefox,tablet,lenovo,android,0,1920x1080,insurance,7,100000000480
+1000044,528,6:26,'comcast.net',Hovås,2020-01-11,4,61,0,1,6,Refferal,linkedin.com,brave,laptop,apple,mac-os,0,800 x 1280,deposits,5,100000000481
+1000060,141,8:05,'hinet.net',Ōgaki,2020-01-19,2,33,1,1,10,Refferal,linkedin.com,opera,laptop,samsung,ubuntu,0,1200 x 1920,deposits,9,100000000482
+1000134,242,22:30,'verizon.net',Al ‘Azīzīyah,2020-01-22,1,41,0,1,8,Affiliates,linkedin.com,chromium,mobile,samsung,android,1,1080 x 1920,deposits,4,100000000483
+1000250,221,19:45,'comcastbusiness.net',Xinxu,2020-01-15,4,46,1,0,5,Direct,linkedin.com,firefox,mobile,apple,ios,1,1440 x 2960,insurance,7,100000000484
+1000230,259,18:14,'comcastbusiness.net',Březí,2020-01-25,5,39,0,1,9,Display,youtube.com,chromium,mobile,micromax,android,1,1440 x 2960,accounts,8,100000000485
+1000159,562,10:41,'hinet.net',Lelystad,2020-02-16,2,10,1,0,6,Display,facebook.com,brave,laptop,apple,mac-os,0,800 x 1280,accounts,1,100000000486
+1000216,498,9:43,'cox.net',Na'ale,2020-02-20,5,2,0,1,6,Display,youtube.com,opera,tablet,apple,ios,0,1366x768,credit_card,4,100000000487
+1000152,310,18:44,'comcast.net',Caijiapu,2020-01-28,1,92,0,1,10,Organic,facebook.com,firefox,tablet,apple,ios,0,1920x1080,accounts,3,100000000488
+1000037,324,19:50,'comcastbusiness.net',Matiao,2020-01-09,4,52,0,0,7,Refferal,youtube.com,opera,mobile,samsung,android,1,1440 x 2960,credit_card,3,100000000489
+1000117,588,22:13,'comcast.net',Jacksonville,2020-02-26,4,40,0,0,5,Affiliates,facebook.com,edge,laptop,micromax,ubuntu,0,1200 x 1920,loan,5,100000000490
+1000366,426,3:37,'comcast.net',Khasht’arrak,2020-02-04,4,40,0,1,5,Display,linkedin.com,opera,mobile,apple,ios,1,1080 x 1920,accounts,6,100000000491
+1000081,550,21:24,'comcast.net',El Crucero,2020-02-17,5,4,1,0,5,Paid,google.com,opera,tablet,samsung,android,0,1920x1080,deposits,8,100000000492
+1000234,275,17:59,'verizon.net',Tonggu,2020-02-06,3,22,0,1,5,Refferal,google.com,UC browser,laptop,samsung,windows,0,1536 x 2048,deposits,9,100000000493
+1000330,356,13:22,'comcastbusiness.net',Deir Ḥannā,2020-02-15,1,42,1,1,8,Refferal,linkedin.com,chromium,laptop,samsung,ubuntu,0,800 x 1280,deposits,2,100000000494
+1000051,418,5:39,'verizon.net',Bandar-e Lengeh,2020-02-29,1,26,1,1,7,Organic,google.com,firefox,laptop,micromax,ubuntu,0,1200 x 1920,credit_card,8,100000000495
+1000397,178,2:19,'verizon.net',Neiafu,2020-03-02,4,41,1,0,5,Organic,youtube.com,edge,tablet,micromax,android,0,1366x768,accounts,9,100000000496
+1000124,486,4:19,'verizon.net',Cahors,2020-01-17,4,96,0,0,5,Direct,facebook.com,firefox,laptop,samsung,ubuntu,0,1536 x 2048,credit_card,5,100000000497
+1000232,120,2:22,'cox.net',Naj‘ Ḩammādī,2020-01-13,2,67,1,1,6,Social,facebook.com,chromium,mobile,samsung,android,1,1440 x 2560,loan,7,100000000498
+1000086,241,8:53,'verizon.net',Uzda,2020-01-29,3,39,0,1,6,Refferal,google.com,opera,laptop,samsung,windows,0,1200 x 1920,loan,2,100000000499
+1000209,215,21:18,'verizon.net',Alis,2020-02-03,2,84,0,0,9,Organic,linkedin.com,firefox,laptop,apple,mac-os,0,1536 x 2048,loan,10,100000000500
+1000388,163,15:32,'hinet.net',Krolevets’,2020-01-26,5,49,0,1,8,Display,facebook.com,opera,mobile,apple,ios,1,1080 x 1920,insurance,4,100000000501
+1000242,583,22:19,'comcastbusiness.net',Mekarjaya,2020-02-06,3,29,1,1,5,Refferal,youtube.com,brave,tablet,samsung,android,0,1920x1080,accounts,10,100000000502
+1000063,167,18:54,'att.net',Sabugueiro,2020-02-04,4,86,0,1,7,Display,google.com,firefox,laptop,lenovo,ubuntu,0,800 x 1280,loan,9,100000000503
+1000069,406,12:12,'comcastbusiness.net',Pinhão,2020-01-20,2,25,1,0,8,Organic,google.com,chrome,mobile,micromax,android,1,1440 x 2960,loan,8,100000000504
+1000231,234,8:56,'hinet.net',Sansheng,2020-01-30,1,83,1,0,8,Display,linkedin.com,chromium,mobile,micromax,android,1,1080 x 1920,insurance,2,100000000505
+1000129,295,9:26,'comcast.net',Sheffield,2020-01-06,1,11,0,0,10,Paid,youtube.com,chrome,tablet,micromax,android,0,1280x800,loan,3,100000000506
+1000383,581,13:57,'att.net',Salon-de-Provence,2020-01-14,5,80,1,1,6,Social,youtube.com,safari,tablet,apple,ios,0,1366x768,loan,4,100000000507
+1000146,24,16:57,'comcastbusiness.net',Yūki,2020-02-18,3,85,1,1,10,Paid,youtube.com,chromium,mobile,micromax,android,1,1080 x 1920,loan,7,100000000508
+1000028,100,8:54,'cox.net',Guadalupe,2020-02-24,1,20,1,1,5,Affiliates,youtube.com,safari,mobile,apple,ios,1,1440 x 2560,loan,8,100000000509
+1000288,415,9:06,'verizon.net',Villeneuve-la-Garenne,2020-03-02,1,28,0,1,9,Paid,linkedin.com,edge,laptop,samsung,windows,0,1200 x 1920,accounts,1,100000000510
+1000348,379,20:27,'verizon.net',Kristinehamn,2020-02-29,5,96,0,0,7,Social,youtube.com,UC browser,tablet,micromax,android,0,1280x800,loan,3,100000000511
+1000030,402,20:19,'comcastbusiness.net',Tullinge,2020-01-28,4,48,0,1,9,Paid,facebook.com,edge,laptop,micromax,ubuntu,0,800 x 1280,loan,6,100000000512
+1000391,526,7:21,'comcastbusiness.net',Pont-à-Mousson,2020-02-03,2,95,1,0,5,Paid,linkedin.com,chromium,mobile,apple,ios,1,1440 x 2960,deposits,8,100000000513
+1000040,160,0:07,'hinet.net',Carriedo,2020-01-27,1,96,1,1,8,Organic,youtube.com,opera,tablet,samsung,android,0,1366x768,loan,10,100000000514
+1000374,292,4:19,'comcast.net',Gerdu,2020-01-06,5,54,0,0,8,Display,youtube.com,brave,tablet,micromax,android,0,1920x1080,loan,10,100000000515
+1000172,212,7:18,'cox.net',Kafr Baţnā,2020-02-12,2,15,0,1,5,Social,youtube.com,brave,laptop,lenovo,ubuntu,0,1536 x 2048,accounts,3,100000000516
+1000392,307,19:10,'comcast.net',Ballymun,2020-02-18,4,24,0,0,6,Organic,google.com,UC browser,tablet,lenovo,android,0,1366x768,insurance,5,100000000517
+1000090,74,11:36,'comcastbusiness.net',Lianrao,2020-02-27,1,53,1,0,10,Paid,google.com,UC browser,tablet,apple,ios,0,1920x1080,insurance,1,100000000518
+1000398,389,8:41,'comcastbusiness.net',Saint-Rémy-de-Provence,2020-03-02,2,71,0,1,5,Social,linkedin.com,edge,tablet,samsung,android,0,1366x768,deposits,9,100000000519
+1000128,434,18:36,'cox.net',Deqing,2020-02-14,1,95,0,0,5,Display,youtube.com,opera,laptop,micromax,ubuntu,0,1536 x 2048,credit_card,3,100000000520
+1000249,372,13:36,'comcastbusiness.net',Laval,2020-01-22,1,34,0,1,6,Display,google.com,brave,laptop,micromax,windows,0,1200 x 1920,deposits,10,100000000521
+1000358,546,12:00,'att.net',Gouping,2020-02-28,1,47,0,1,8,Refferal,facebook.com,safari,tablet,lenovo,android,0,1366x768,deposits,7,100000000522
+1000068,376,19:04,'comcast.net',Kaliuda,2020-02-10,4,5,1,0,5,Affiliates,youtube.com,chromium,tablet,lenovo,android,0,1280x800,insurance,10,100000000523
+1000330,435,10:52,'comcastbusiness.net',Penhascoso,2020-02-12,1,10,0,1,9,Display,youtube.com,opera,mobile,micromax,android,1,1080 x 1920,loan,7,100000000524
+1000278,275,23:13,'verizon.net',Mangaran,2020-01-26,1,85,1,0,5,Display,linkedin.com,safari,laptop,samsung,windows,0,1200 x 1920,accounts,1,100000000525
+1000051,344,6:45,'comcast.net',Chengxi,2020-02-26,3,80,1,1,5,Affiliates,google.com,opera,tablet,lenovo,android,0,1920x1080,deposits,6,100000000526
+1000349,404,10:18,'comcastbusiness.net',Karantaba,2020-01-08,5,11,1,1,9,Paid,linkedin.com,opera,mobile,samsung,android,1,1080 x 1920,accounts,9,100000000527
+1000237,89,13:01,'att.net',Rokitno Szlacheckie,2020-02-18,5,82,1,1,5,Affiliates,facebook.com,brave,laptop,lenovo,windows,0,1536 x 2048,credit_card,2,100000000528
+1000024,327,2:13,'comcast.net',Wenxian Chengguanzhen,2020-02-11,2,91,0,0,8,Social,facebook.com,UC browser,mobile,micromax,android,1,1440 x 2560,deposits,3,100000000529
+1000227,472,16:41,'verizon.net',Fulu,2020-02-12,1,2,1,1,7,Refferal,facebook.com,chrome,tablet,apple,ios,0,1366x768,loan,4,100000000530
+1000307,178,6:06,'comcast.net',Lebak,2020-01-23,2,94,1,0,5,Paid,facebook.com,brave,tablet,lenovo,android,0,1920x1080,credit_card,9,100000000531
+1000216,545,23:27,'att.net',Pokachi,2020-01-22,4,37,0,0,10,Display,youtube.com,UC browser,mobile,micromax,android,1,1440 x 2560,credit_card,8,100000000532
+1000392,506,14:59,'comcast.net',Xijiang,2020-03-02,2,38,0,1,9,Organic,youtube.com,chromium,mobile,micromax,android,1,1080 x 1920,credit_card,9,100000000533
+1000188,593,19:52,'comcastbusiness.net',Gunem,2020-01-18,4,50,1,0,10,Paid,youtube.com,chromium,laptop,lenovo,windows,0,1536 x 2048,credit_card,2,100000000534
+1000266,336,5:00,'cox.net',Carleton-sur-Mer,2020-02-02,3,36,0,0,5,Display,linkedin.com,chrome,laptop,samsung,ubuntu,0,1200 x 1920,insurance,2,100000000535
+1000272,287,17:30,'comcastbusiness.net',Svobody,2020-01-28,1,84,0,1,9,Display,youtube.com,UC browser,mobile,micromax,android,1,1080 x 1920,credit_card,7,100000000536
+1000002,275,6:26,'comcastbusiness.net',Solna,2020-02-01,1,66,0,0,8,Direct,youtube.com,safari,tablet,apple,ios,0,1280x800,loan,7,100000000537
+1000069,566,6:46,'verizon.net',Xinxing,2020-03-02,4,36,1,0,7,Affiliates,facebook.com,firefox,tablet,lenovo,android,0,1366x768,accounts,2,100000000538
+1000214,84,21:46,'comcast.net',Tambillo,2020-02-13,2,33,0,0,6,Display,youtube.com,UC browser,tablet,apple,ios,0,1920x1080,loan,1,100000000539
+1000008,289,16:43,'verizon.net',Kemlya,2020-01-04,1,25,0,0,5,Paid,google.com,safari,laptop,micromax,windows,0,800 x 1280,deposits,1,100000000540
+1000331,267,0:16,'hinet.net',Krajan Puru,2020-01-10,2,36,1,0,5,Organic,facebook.com,edge,tablet,apple,ios,0,1920x1080,credit_card,10,100000000541
+1000257,355,4:02,'comcastbusiness.net',Pinaring,2020-02-09,2,81,0,1,10,Display,google.com,opera,laptop,apple,mac-os,0,1536 x 2048,credit_card,1,100000000542
+1000204,163,1:49,'verizon.net',Annopol,2020-02-21,4,90,1,0,9,Display,google.com,safari,laptop,samsung,windows,0,1200 x 1920,loan,4,100000000543
+1000192,539,19:34,'att.net',Greystones,2020-01-14,4,93,0,1,6,Organic,facebook.com,edge,tablet,samsung,android,0,1280x800,deposits,8,100000000544
+1000191,153,3:30,'hinet.net',Rancabelut,2020-01-03,4,35,0,0,5,Display,google.com,edge,laptop,samsung,ubuntu,0,1200 x 1920,insurance,8,100000000545
+1000390,488,1:16,'comcastbusiness.net',Stockholm,2020-01-06,4,97,0,1,7,Display,youtube.com,brave,laptop,apple,mac-os,0,800 x 1280,deposits,9,100000000546
+1000343,351,10:12,'comcast.net',Taungdwingyi,2020-01-08,5,20,0,1,6,Social,google.com,chromium,mobile,lenovo,android,1,1080 x 1920,deposits,10,100000000547
+1000208,514,10:00,'comcast.net',Pongkor,2020-02-21,5,14,1,1,10,Display,google.com,safari,laptop,micromax,windows,0,1536 x 2048,loan,9,100000000548
+1000246,556,21:03,'hinet.net',Santa Lucía,2020-01-28,3,32,0,1,5,Display,google.com,firefox,laptop,samsung,ubuntu,0,1200 x 1920,loan,5,100000000549
+1000100,441,14:30,'hinet.net',Al Mālikīyah,2020-02-05,3,83,0,1,7,Display,google.com,brave,laptop,samsung,ubuntu,0,1200 x 1920,accounts,3,100000000550
+1000061,515,1:14,'verizon.net',Dopang,2020-01-26,1,34,1,0,7,Refferal,google.com,chrome,tablet,micromax,android,0,1920x1080,credit_card,9,100000000551
+1000281,262,6:54,'att.net',Zhonghe,2020-01-13,5,97,0,1,9,Organic,google.com,safari,laptop,apple,mac-os,0,1200 x 1920,loan,3,100000000552
+1000390,431,23:15,'cox.net',Nangka,2020-02-23,2,28,0,1,9,Social,youtube.com,brave,mobile,micromax,android,1,1080 x 1920,credit_card,7,100000000553
+1000351,259,16:30,'att.net',Moville,2020-02-08,4,6,0,0,5,Organic,google.com,firefox,laptop,lenovo,ubuntu,0,1536 x 2048,loan,2,100000000554
+1000171,544,15:54,'verizon.net',Kowale Oleckie,2020-01-18,5,36,1,0,9,Display,linkedin.com,brave,laptop,lenovo,ubuntu,0,1200 x 1920,insurance,9,100000000555
+1000328,507,8:52,'comcast.net',Marvdasht,2020-01-17,5,21,0,0,7,Direct,facebook.com,firefox,tablet,micromax,android,0,1280x800,credit_card,7,100000000556
+1000291,323,22:29,'hinet.net',Dŭstí,2020-01-04,5,96,1,0,9,Social,facebook.com,safari,mobile,lenovo,android,1,1440 x 2960,credit_card,3,100000000557
+1000093,489,2:36,'comcast.net',Guojia,2020-01-12,2,78,1,0,8,Refferal,linkedin.com,edge,tablet,apple,ios,0,1280x800,loan,9,100000000558
+1000202,101,17:12,'att.net',Alegre,2020-02-22,3,30,0,1,8,Direct,facebook.com,UC browser,tablet,apple,ios,0,1280x800,credit_card,5,100000000559
+1000128,164,2:08,'hinet.net',Žlutava,2020-02-24,4,42,0,1,9,Paid,linkedin.com,chrome,tablet,apple,ios,0,1366x768,deposits,7,100000000560
+1000351,361,2:27,'cox.net',Pivovarikha,2020-02-21,4,25,1,0,5,Affiliates,google.com,firefox,mobile,lenovo,android,1,1440 x 2560,loan,4,100000000561
+1000176,463,4:29,'att.net',København,2020-02-18,1,61,0,0,9,Display,facebook.com,brave,tablet,micromax,android,0,1280x800,insurance,1,100000000562
+1000326,27,0:51,'att.net',Diadema,2020-02-10,4,19,1,1,8,Paid,google.com,chromium,tablet,apple,ios,0,1920x1080,deposits,2,100000000563
+1000182,405,15:16,'att.net',Changtan,2020-03-02,3,81,0,1,5,Refferal,linkedin.com,brave,laptop,apple,mac-os,0,1200 x 1920,accounts,8,100000000564
+1000076,355,4:24,'att.net',Knoxville,2020-01-03,5,52,1,0,7,Affiliates,youtube.com,opera,tablet,samsung,android,0,1366x768,accounts,9,100000000565
+1000003,363,23:03,'verizon.net',Omoa,2020-02-05,4,24,0,0,6,Social,facebook.com,safari,mobile,micromax,android,1,1440 x 2560,deposits,8,100000000566
+1000132,530,2:15,'verizon.net',Savanna-la-Mar,2020-02-10,2,23,0,0,8,Organic,google.com,brave,tablet,apple,ios,0,1920x1080,insurance,10,100000000567
+1000354,208,9:58,'att.net',Hujiaying,2020-02-18,3,30,1,1,7,Affiliates,facebook.com,firefox,mobile,micromax,android,1,1440 x 2560,accounts,5,100000000568
+1000166,392,17:47,'comcast.net',Mariestad,2020-01-27,4,73,1,1,6,Refferal,google.com,brave,mobile,apple,ios,1,1440 x 2560,credit_card,6,100000000569
+1000351,183,3:04,'comcastbusiness.net',Anchorage,2020-02-07,4,5,1,0,9,Organic,facebook.com,UC browser,mobile,apple,ios,1,1440 x 2960,accounts,10,100000000570
+1000148,552,17:49,'comcast.net',Spandaryan,2020-01-09,2,93,0,0,6,Affiliates,facebook.com,chromium,tablet,lenovo,android,0,1920x1080,credit_card,10,100000000571
+1000247,56,14:33,'att.net',Örnsköldsvik,2020-01-29,1,86,0,1,9,Refferal,youtube.com,edge,tablet,apple,ios,0,1366x768,deposits,5,100000000572
+1000273,148,4:56,'hinet.net',Amagarapati,2020-02-29,3,64,1,1,8,Direct,youtube.com,opera,laptop,micromax,windows,0,800 x 1280,accounts,10,100000000573
+1000252,358,5:12,'att.net',Kyaka,2020-01-03,4,100,0,0,5,Direct,youtube.com,safari,mobile,apple,ios,1,1080 x 1920,accounts,4,100000000574
+1000045,248,22:21,'hinet.net',Le Puy-en-Velay,2020-02-09,3,57,1,0,6,Refferal,facebook.com,firefox,laptop,micromax,ubuntu,0,1200 x 1920,deposits,5,100000000575
+1000149,512,10:12,'hinet.net',Pitogo,2020-01-23,1,24,1,1,7,Paid,linkedin.com,safari,tablet,samsung,android,0,1366x768,deposits,10,100000000576
+1000041,506,10:45,'cox.net',Rudnogorsk,2020-02-08,2,72,1,0,7,Direct,facebook.com,brave,laptop,micromax,windows,0,800 x 1280,insurance,9,100000000577
+1000262,593,16:57,'att.net',Xinhua,2020-02-04,1,27,1,0,6,Organic,linkedin.com,firefox,mobile,apple,ios,1,1440 x 2960,accounts,1,100000000578
+1000131,517,10:09,'cox.net',Kolonnawa,2020-02-07,1,70,1,0,7,Affiliates,google.com,brave,tablet,apple,ios,0,1920x1080,insurance,10,100000000579
+1000314,521,7:10,'att.net',Mỹ Xuyên,2020-01-23,4,11,1,1,7,Paid,youtube.com,chrome,mobile,lenovo,android,1,1440 x 2960,accounts,5,100000000580
+1000068,500,1:19,'comcast.net',Mönhbulag,2020-02-08,2,74,0,1,5,Direct,facebook.com,edge,tablet,samsung,android,0,1366x768,credit_card,5,100000000581
+1000338,525,13:39,'comcastbusiness.net',Rentung,2020-02-22,1,22,0,1,7,Refferal,youtube.com,edge,mobile,micromax,android,1,1440 x 2560,loan,2,100000000582
+1000093,95,7:03,'comcast.net',Sumberwaru,2020-01-20,5,24,0,1,7,Refferal,linkedin.com,edge,laptop,samsung,ubuntu,0,1200 x 1920,deposits,5,100000000583
+1000066,415,1:01,'att.net',Turochak,2020-01-14,3,68,1,1,5,Refferal,google.com,UC browser,tablet,apple,ios,0,1280x800,accounts,1,100000000584
+1000067,91,8:56,'cox.net',Shuanglu,2020-02-28,1,30,0,0,5,Display,linkedin.com,chromium,mobile,micromax,android,1,1440 x 2560,insurance,3,100000000585
+1000234,279,15:51,'att.net',La Ensenada,2020-02-08,5,49,0,0,7,Refferal,facebook.com,chrome,laptop,apple,mac-os,0,1200 x 1920,loan,8,100000000586
+1000289,85,20:20,'cox.net',Jambean,2020-01-22,1,99,0,1,6,Affiliates,facebook.com,edge,laptop,samsung,ubuntu,0,1536 x 2048,credit_card,8,100000000587
+1000245,510,9:49,'comcastbusiness.net',Jinbi,2020-01-10,1,74,0,1,9,Social,facebook.com,brave,tablet,micromax,android,0,1366x768,insurance,1,100000000588
+1000060,191,1:44,'comcast.net',Topol’noye,2020-01-12,2,66,1,1,6,Display,facebook.com,brave,laptop,apple,mac-os,0,1536 x 2048,insurance,8,100000000589
+1000099,51,22:59,'comcast.net',Nggesa,2020-03-02,4,79,0,0,7,Social,youtube.com,edge,laptop,samsung,ubuntu,0,1536 x 2048,credit_card,4,100000000590
+1000316,471,20:05,'att.net',Gucheng,2020-01-07,4,53,1,0,9,Direct,youtube.com,brave,tablet,lenovo,android,0,1280x800,credit_card,4,100000000591
+1000218,286,7:12,'hinet.net',Kaliwates,2020-01-07,3,52,0,1,6,Affiliates,youtube.com,safari,tablet,samsung,android,0,1366x768,deposits,1,100000000592
+1000183,132,9:14,'cox.net',Ciawi,2020-01-30,1,23,1,0,5,Organic,linkedin.com,brave,mobile,apple,ios,1,1440 x 2960,credit_card,2,100000000593
+1000040,572,20:25,'comcastbusiness.net',Aldeia de Juzo,2020-02-03,5,75,0,0,10,Social,facebook.com,brave,laptop,samsung,ubuntu,0,1200 x 1920,accounts,5,100000000594
+1000114,510,22:24,'comcast.net',Wangtai,2020-01-13,3,41,1,1,10,Social,google.com,edge,mobile,micromax,android,1,1440 x 2560,loan,2,100000000595
+1000319,81,17:26,'verizon.net',Sawo,2020-02-24,4,48,0,0,9,Social,google.com,safari,tablet,micromax,android,0,1920x1080,loan,2,100000000596
+1000341,17,10:10,'comcast.net',La Huaca,2020-02-26,2,30,1,1,9,Affiliates,google.com,chromium,tablet,samsung,android,0,1920x1080,credit_card,6,100000000597
+1000131,512,16:27,'verizon.net',New Pandanon,2020-01-17,2,37,0,1,10,Paid,youtube.com,UC browser,mobile,lenovo,android,1,1080 x 1920,insurance,5,100000000598
+1000313,389,20:27,'hinet.net',Enyerhyetykaw,2020-02-20,2,88,1,1,6,Refferal,youtube.com,edge,tablet,lenovo,android,0,1920x1080,insurance,9,100000000599
+1000272,279,1:59,'comcastbusiness.net',Pasirreungit,2020-02-03,1,46,0,0,5,Affiliates,facebook.com,UC browser,laptop,samsung,windows,0,1536 x 2048,loan,7,100000000600
+1000310,63,19:26,'comcastbusiness.net',Jandir,2020-01-02,5,25,0,1,7,Display,google.com,opera,mobile,lenovo,android,1,1440 x 2560,loan,7,100000000601
+1000356,595,12:03,'att.net',Ambarita,2020-02-14,5,54,0,0,10,Affiliates,google.com,chrome,mobile,apple,ios,1,1080 x 1920,insurance,8,100000000602
+1000315,396,8:02,'att.net',Maopingchang,2020-01-28,3,22,0,1,9,Display,google.com,edge,mobile,samsung,android,1,1440 x 2960,deposits,2,100000000603
+1000138,293,6:59,'hinet.net',Nueva Germania,2020-01-20,5,28,0,1,7,Affiliates,google.com,chrome,laptop,micromax,ubuntu,0,1200 x 1920,loan,2,100000000604
+1000333,162,20:17,'cox.net',Puyang,2020-02-07,3,68,1,0,7,Direct,google.com,chrome,mobile,lenovo,android,1,1440 x 2560,deposits,7,100000000605
+1000156,469,12:12,'verizon.net',Kuzhu,2020-01-29,4,50,1,0,7,Refferal,google.com,chromium,tablet,apple,ios,0,1280x800,accounts,5,100000000606
+1000311,91,13:28,'cox.net',Ciudad Nueva,2020-02-03,3,95,1,0,6,Refferal,google.com,opera,mobile,lenovo,android,1,1440 x 2560,loan,2,100000000607
+1000135,308,19:36,'att.net',Ulyanovsk,2020-02-14,1,64,0,0,7,Refferal,facebook.com,edge,mobile,micromax,android,1,1440 x 2560,loan,5,100000000608
+1000089,377,0:09,'hinet.net',Ake-Eze,2020-03-01,2,8,1,0,8,Direct,youtube.com,firefox,mobile,samsung,android,1,1440 x 2560,credit_card,4,100000000609
+1000269,118,7:52,'hinet.net',Al Mayādīn,2020-01-27,3,58,0,0,9,Paid,linkedin.com,edge,mobile,apple,ios,1,1080 x 1920,credit_card,2,100000000610
+1000268,417,15:19,'verizon.net',Samayac,2020-02-16,3,26,0,1,10,Organic,facebook.com,opera,tablet,samsung,android,0,1280x800,deposits,4,100000000611
+1000212,371,14:47,'verizon.net',Xiangshun,2020-02-03,2,30,1,0,8,Social,facebook.com,edge,tablet,samsung,android,0,1280x800,loan,8,100000000612
+1000093,556,14:47,'hinet.net',Durham,2020-03-01,4,53,1,0,6,Organic,linkedin.com,brave,laptop,apple,mac-os,0,1536 x 2048,loan,8,100000000613
+1000275,305,23:02,'cox.net',Cercal,2020-02-16,3,46,0,1,10,Paid,linkedin.com,firefox,tablet,samsung,android,0,1280x800,deposits,4,100000000614
+1000276,400,20:04,'hinet.net',Rušanj,2020-02-21,3,31,1,1,5,Organic,youtube.com,chromium,laptop,apple,mac-os,0,800 x 1280,accounts,10,100000000615
+1000060,206,10:37,'att.net',Toulouse,2020-01-23,3,66,1,0,8,Direct,linkedin.com,chrome,tablet,lenovo,android,0,1280x800,loan,8,100000000616
+1000191,315,20:13,'hinet.net',Ishqoshim,2020-01-23,2,91,0,0,5,Display,linkedin.com,safari,tablet,apple,ios,0,1920x1080,deposits,3,100000000617
+1000257,413,2:07,'hinet.net',Krasae Sin,2020-02-20,1,25,0,1,7,Refferal,youtube.com,UC browser,laptop,apple,mac-os,0,1536 x 2048,insurance,5,100000000618
+1000212,339,15:31,'cox.net',Toronto,2020-02-29,3,56,0,1,9,Affiliates,linkedin.com,firefox,tablet,micromax,android,0,1280x800,credit_card,8,100000000619
+1000305,284,17:30,'comcast.net',Tayu,2020-03-02,2,40,1,1,9,Organic,youtube.com,opera,tablet,apple,ios,0,1920x1080,deposits,3,100000000620
+1000257,499,15:02,'comcast.net',Batiano,2020-01-24,2,16,1,1,7,Refferal,facebook.com,edge,mobile,lenovo,android,1,1440 x 2960,deposits,2,100000000621
+1000354,513,20:09,'att.net',Oslo,2020-02-03,1,42,1,1,9,Organic,google.com,chromium,tablet,lenovo,android,0,1280x800,loan,3,100000000622
+1000285,231,10:15,'verizon.net',Muting,2020-03-02,4,79,0,0,7,Affiliates,facebook.com,safari,tablet,micromax,android,0,1920x1080,accounts,8,100000000623
+1000035,520,18:46,'verizon.net',Baozi,2020-01-02,5,74,1,0,6,Display,youtube.com,chromium,laptop,micromax,ubuntu,0,1536 x 2048,loan,7,100000000624
+1000197,75,14:33,'comcast.net',Weda,2020-01-11,4,68,0,1,6,Affiliates,youtube.com,brave,mobile,micromax,android,1,1440 x 2560,loan,8,100000000625
+1000376,486,5:28,'hinet.net',Ōsaka-shi,2020-01-02,4,47,1,0,5,Social,facebook.com,brave,tablet,micromax,android,0,1280x800,credit_card,3,100000000626
+1000021,588,9:30,'comcast.net',Strenči,2020-01-17,3,32,1,1,7,Organic,linkedin.com,edge,mobile,micromax,android,1,1080 x 1920,deposits,7,100000000627
+1000250,414,4:22,'att.net',Ishiki,2020-02-08,3,67,1,0,5,Direct,youtube.com,UC browser,mobile,lenovo,android,1,1080 x 1920,accounts,7,100000000628
+1000028,329,9:07,'att.net',Yanahuanca,2020-01-24,5,26,0,1,5,Organic,linkedin.com,brave,laptop,lenovo,windows,0,800 x 1280,accounts,3,100000000629
+1000100,273,18:45,'comcastbusiness.net',Basqal,2020-02-17,3,26,1,0,9,Refferal,youtube.com,brave,tablet,apple,ios,0,1920x1080,loan,4,100000000630
+1000365,274,5:07,'hinet.net',Songgang,2020-01-08,5,58,0,1,7,Direct,youtube.com,firefox,mobile,samsung,android,1,1440 x 2960,accounts,8,100000000631
+1000156,176,23:39,'verizon.net',São Roque,2020-01-06,1,79,0,1,5,Paid,google.com,UC browser,mobile,lenovo,android,1,1440 x 2560,loan,7,100000000632
+1000177,44,21:37,'hinet.net',Changting,2020-02-06,1,21,1,1,8,Refferal,facebook.com,UC browser,mobile,apple,ios,1,1440 x 2960,deposits,5,100000000633
+1000218,514,18:04,'verizon.net',Ménaka,2020-01-10,3,80,0,1,8,Affiliates,linkedin.com,chrome,mobile,micromax,android,1,1440 x 2560,insurance,6,100000000634
+1000017,421,23:07,'verizon.net',Nieborów,2020-01-17,1,64,0,0,7,Affiliates,linkedin.com,brave,tablet,micromax,android,0,1280x800,insurance,10,100000000635
+1000032,250,16:40,'comcastbusiness.net',Skärholmen,2020-01-10,4,35,0,1,10,Paid,youtube.com,opera,tablet,micromax,android,0,1280x800,deposits,8,100000000636
+1000224,118,6:28,'comcast.net',Port-de-Bouc,2020-02-19,2,99,0,0,7,Affiliates,google.com,firefox,tablet,micromax,android,0,1920x1080,credit_card,4,100000000637
+1000212,109,3:14,'verizon.net',Marantao,2020-02-24,1,34,1,0,8,Affiliates,linkedin.com,safari,tablet,samsung,android,0,1366x768,loan,9,100000000638
+1000070,161,5:01,'comcastbusiness.net',Takeo,2020-02-15,4,44,0,1,8,Refferal,linkedin.com,firefox,tablet,lenovo,android,0,1366x768,deposits,1,100000000639
+1000221,572,12:22,'cox.net',Fatikchari,2020-03-02,3,49,1,1,9,Paid,facebook.com,edge,laptop,apple,mac-os,0,1536 x 2048,loan,3,100000000640
+1000353,437,7:43,'cox.net',Wawrzeńczyce,2020-01-13,1,57,0,0,5,Organic,facebook.com,UC browser,mobile,lenovo,android,1,1440 x 2960,insurance,6,100000000641
+1000383,453,2:33,'att.net',Santa Rita do Passa Quatro,2020-01-28,5,33,0,0,5,Direct,facebook.com,firefox,mobile,samsung,android,1,1440 x 2960,accounts,2,100000000642
+1000245,286,15:46,'hinet.net',Al Madīd,2020-02-29,3,59,1,1,5,Paid,facebook.com,firefox,mobile,samsung,android,1,1080 x 1920,loan,6,100000000643
+1000312,596,1:55,'hinet.net',Manizales,2020-01-08,2,79,1,0,5,Display,facebook.com,opera,mobile,lenovo,android,1,1080 x 1920,credit_card,8,100000000644
+1000205,301,7:31,'verizon.net',Toila,2020-02-25,4,54,1,0,6,Social,google.com,safari,mobile,samsung,android,1,1080 x 1920,deposits,5,100000000645
+1000161,286,10:35,'att.net',Louta,2020-01-19,3,86,1,0,9,Organic,facebook.com,chromium,mobile,apple,ios,1,1080 x 1920,deposits,10,100000000646
+1000376,135,4:47,'verizon.net',Sutysky,2020-01-20,2,82,1,0,6,Social,youtube.com,safari,laptop,micromax,windows,0,1536 x 2048,credit_card,6,100000000647
+1000138,535,2:48,'verizon.net',Maru,2020-01-02,2,13,0,0,6,Direct,facebook.com,opera,laptop,micromax,windows,0,800 x 1280,deposits,10,100000000648
+1000215,491,23:05,'comcast.net',Волочаевское,2020-01-25,2,31,0,1,10,Affiliates,facebook.com,firefox,tablet,apple,ios,0,1280x800,insurance,10,100000000649
+1000028,494,5:34,'comcast.net',Libao,2020-02-25,5,98,0,0,6,Social,facebook.com,opera,mobile,micromax,android,1,1440 x 2560,loan,5,100000000650
+1000096,569,15:41,'comcastbusiness.net',Denyshi,2020-02-05,1,23,0,1,5,Refferal,linkedin.com,firefox,laptop,apple,mac-os,0,1536 x 2048,deposits,6,100000000651
+1000202,145,14:55,'att.net',Tosno,2020-01-07,4,44,1,1,7,Direct,google.com,chromium,mobile,samsung,android,1,1440 x 2960,loan,3,100000000652
+1000142,140,9:31,'hinet.net',Rząśnik,2020-02-02,4,76,0,1,9,Direct,linkedin.com,safari,tablet,samsung,android,0,1920x1080,deposits,7,100000000653
+1000202,484,17:11,'comcast.net',Cachón,2020-02-12,2,49,1,1,10,Paid,facebook.com,firefox,laptop,lenovo,ubuntu,0,800 x 1280,credit_card,8,100000000654
+1000251,215,5:52,'cox.net',Paterson,2020-01-17,3,41,1,0,9,Direct,facebook.com,chromium,mobile,lenovo,android,1,1080 x 1920,deposits,2,100000000655
+1000392,467,21:20,'att.net',Phu Kradueng,2020-02-21,3,16,1,0,9,Display,linkedin.com,opera,tablet,apple,ios,0,1920x1080,accounts,9,100000000656
+1000173,23,0:52,'comcastbusiness.net',Jaroměřice nad Rokytnou,2020-01-02,4,47,0,0,8,Social,facebook.com,firefox,mobile,apple,ios,1,1440 x 2560,credit_card,2,100000000657
+1000010,51,8:57,'cox.net',‘Arīshah,2020-02-21,3,66,0,1,10,Refferal,facebook.com,firefox,tablet,apple,ios,0,1366x768,loan,8,100000000658
+1000006,58,8:37,'att.net',Llorente,2020-02-10,1,57,0,0,5,Direct,youtube.com,UC browser,laptop,lenovo,ubuntu,0,1536 x 2048,accounts,10,100000000659
+1000215,109,16:30,'hinet.net',Shuanghekou,2020-02-25,1,15,1,0,5,Affiliates,youtube.com,chromium,tablet,micromax,android,0,1280x800,loan,6,100000000660
+1000265,179,22:21,'hinet.net',Bayang,2020-02-19,4,38,1,0,9,Affiliates,youtube.com,firefox,mobile,micromax,android,1,1080 x 1920,deposits,9,100000000661
+1000298,253,1:37,'comcast.net',Dhalie,2020-02-15,2,51,0,0,10,Organic,facebook.com,safari,tablet,apple,ios,0,1280x800,loan,3,100000000662
+1000153,512,1:55,'verizon.net',Jirkov,2020-02-12,1,6,0,0,9,Social,facebook.com,brave,laptop,apple,mac-os,0,1536 x 2048,insurance,3,100000000663
+1000110,349,12:59,'att.net',Xinfeng,2020-02-26,1,25,1,0,6,Social,youtube.com,edge,tablet,lenovo,android,0,1366x768,accounts,7,100000000664
+1000312,588,8:48,'comcast.net',Khorixas,2020-03-02,2,91,1,0,6,Paid,youtube.com,opera,mobile,samsung,android,1,1080 x 1920,accounts,8,100000000665
+1000211,213,13:13,'hinet.net',Duantan,2020-02-06,3,93,0,1,10,Paid,linkedin.com,brave,mobile,micromax,android,1,1440 x 2560,insurance,4,100000000666
+1000217,472,8:24,'att.net',Sufang,2020-01-02,2,42,1,0,9,Direct,linkedin.com,safari,tablet,apple,ios,0,1366x768,accounts,9,100000000667
+1000321,10,6:16,'att.net',Manoel Urbano,2020-02-28,4,21,0,0,5,Paid,google.com,opera,mobile,samsung,android,1,1440 x 2560,accounts,9,100000000668
+1000007,418,11:48,'att.net',Haitang,2020-01-26,3,8,0,0,8,Paid,google.com,chrome,tablet,apple,ios,0,1920x1080,loan,5,100000000669
+1000191,237,0:29,'verizon.net',Flora,2020-02-07,5,16,0,1,5,Organic,youtube.com,opera,laptop,lenovo,windows,0,800 x 1280,credit_card,2,100000000670
+1000011,140,15:12,'att.net',Hetou,2020-02-17,4,97,0,0,7,Refferal,youtube.com,chrome,tablet,micromax,android,0,1280x800,credit_card,6,100000000671
+1000071,503,4:50,'att.net',Pršovce,2020-02-19,1,48,1,1,10,Social,youtube.com,firefox,laptop,micromax,windows,0,1536 x 2048,loan,4,100000000672
+1000154,381,23:29,'comcastbusiness.net',Vilppula,2020-02-09,5,39,0,0,7,Refferal,facebook.com,safari,tablet,samsung,android,0,1920x1080,loan,9,100000000673
+1000016,439,23:19,'comcast.net',Pata,2020-02-26,4,43,0,0,8,Organic,facebook.com,chromium,laptop,lenovo,ubuntu,0,1200 x 1920,deposits,9,100000000674
+1000117,34,4:38,'comcast.net',Älvsjö,2020-01-07,5,49,0,1,7,Direct,youtube.com,opera,mobile,micromax,android,1,1080 x 1920,credit_card,5,100000000675
+1000018,179,4:47,'verizon.net',Monastyrshchina,2020-02-11,5,43,0,0,6,Direct,facebook.com,brave,mobile,apple,ios,1,1440 x 2960,deposits,2,100000000676
+1000001,276,22:39,'comcastbusiness.net',Malie,2020-02-11,4,3,0,1,9,Social,linkedin.com,edge,tablet,apple,ios,0,1920x1080,loan,4,100000000677
+1000243,200,6:40,'verizon.net',Huanghai,2020-02-17,2,63,0,0,9,Display,youtube.com,chromium,laptop,lenovo,windows,0,1536 x 2048,credit_card,7,100000000678
+1000060,55,23:01,'verizon.net',Pancanagara,2020-01-24,1,42,0,0,10,Display,youtube.com,chrome,laptop,lenovo,windows,0,800 x 1280,credit_card,9,100000000679
+1000117,471,8:07,'hinet.net',Jejkowice,2020-02-17,5,99,1,1,8,Social,linkedin.com,opera,tablet,samsung,android,0,1920x1080,credit_card,9,100000000680
+1000341,360,18:41,'comcast.net',Bertioga,2020-02-20,3,20,0,0,9,Display,youtube.com,brave,tablet,micromax,android,0,1366x768,insurance,9,100000000681
+1000388,229,2:43,'comcast.net',Valongo,2020-01-08,3,11,1,0,10,Affiliates,youtube.com,edge,tablet,samsung,android,0,1280x800,accounts,3,100000000682
+1000301,353,14:48,'comcastbusiness.net',Timrat,2020-02-26,5,28,1,1,6,Paid,facebook.com,chromium,laptop,micromax,windows,0,800 x 1280,deposits,9,100000000683
+1000293,358,23:45,'cox.net',Balauring,2020-01-30,4,80,1,0,10,Direct,google.com,safari,tablet,micromax,android,0,1280x800,credit_card,6,100000000684
+1000173,78,0:36,'verizon.net',Port Erin,2020-02-14,4,17,0,1,9,Direct,linkedin.com,safari,mobile,micromax,android,1,1440 x 2560,credit_card,1,100000000685
+1000237,448,19:04,'comcastbusiness.net',Tandahimba,2020-01-13,1,34,1,1,9,Organic,youtube.com,UC browser,mobile,apple,ios,1,1080 x 1920,deposits,4,100000000686
+1000210,57,13:27,'comcastbusiness.net',Xiacaoqiao,2020-01-28,1,48,0,1,9,Social,linkedin.com,opera,tablet,apple,ios,0,1920x1080,loan,6,100000000687
+1000219,509,19:51,'att.net',Krynki,2020-01-22,1,19,0,0,7,Paid,facebook.com,UC browser,mobile,micromax,android,1,1440 x 2560,accounts,8,100000000688
+1000185,72,0:26,'hinet.net',Baraçais,2020-01-22,3,35,0,0,5,Social,linkedin.com,UC browser,laptop,samsung,ubuntu,0,1536 x 2048,loan,9,100000000689
+1000027,261,12:25,'comcast.net',Muñoz East,2020-02-29,4,64,0,1,7,Affiliates,google.com,edge,laptop,micromax,ubuntu,0,1536 x 2048,accounts,10,100000000690
+1000175,528,21:13,'comcastbusiness.net',Songshan,2020-01-09,5,62,0,1,7,Social,youtube.com,brave,laptop,micromax,ubuntu,0,1536 x 2048,insurance,9,100000000691
+1000319,65,9:17,'cox.net',Batelov,2020-02-07,5,64,1,1,8,Social,linkedin.com,firefox,laptop,samsung,windows,0,800 x 1280,insurance,1,100000000692
+1000304,137,21:22,'hinet.net',Zdovbytsya,2020-01-31,4,28,1,0,10,Paid,youtube.com,edge,laptop,micromax,ubuntu,0,800 x 1280,accounts,8,100000000693
+1000034,493,15:02,'cox.net',Épinal,2020-01-19,1,24,1,1,8,Affiliates,facebook.com,brave,laptop,lenovo,windows,0,800 x 1280,insurance,1,100000000694
+1000358,133,23:17,'att.net',Dulolong,2020-02-24,2,17,1,1,9,Paid,facebook.com,safari,laptop,micromax,ubuntu,0,1536 x 2048,credit_card,5,100000000695
+1000064,95,3:06,'hinet.net',Los Angeles,2020-01-23,1,73,0,1,6,Direct,linkedin.com,brave,laptop,apple,mac-os,0,1200 x 1920,loan,5,100000000696
+1000232,282,16:35,'comcast.net',Crépy-en-Valois,2020-01-11,3,46,0,0,9,Refferal,google.com,brave,tablet,micromax,android,0,1366x768,insurance,6,100000000697
+1000086,500,1:22,'att.net',Blyznyuky,2020-02-23,1,2,1,1,5,Display,youtube.com,opera,mobile,micromax,android,1,1440 x 2560,accounts,2,100000000698
+1000352,143,3:21,'verizon.net',Diveyevo,2020-01-21,3,94,1,0,6,Direct,facebook.com,opera,laptop,apple,mac-os,0,800 x 1280,accounts,3,100000000699
+1000388,355,16:22,'hinet.net',Durham,2020-02-08,3,48,1,0,9,Display,youtube.com,brave,mobile,lenovo,android,1,1080 x 1920,insurance,10,100000000700
+1000071,523,23:20,'comcastbusiness.net',San Jose,2020-02-19,4,87,1,1,10,Organic,facebook.com,UC browser,laptop,samsung,windows,0,800 x 1280,deposits,6,100000000701
+1000308,483,18:19,'comcast.net',Shiren,2020-01-09,5,13,0,1,9,Social,google.com,edge,tablet,samsung,android,0,1920x1080,credit_card,6,100000000702
+1000008,360,8:50,'verizon.net',Bajomulyo,2020-02-03,3,80,0,1,7,Refferal,facebook.com,brave,laptop,micromax,ubuntu,0,1536 x 2048,deposits,8,100000000703
+1000113,458,15:17,'verizon.net',Postřekov,2020-01-13,2,60,1,1,9,Affiliates,google.com,safari,mobile,apple,ios,1,1080 x 1920,accounts,1,100000000704
+1000007,153,23:51,'verizon.net',Novoaleksandrovsk,2020-02-15,2,30,0,0,6,Organic,facebook.com,safari,mobile,lenovo,android,1,1440 x 2960,deposits,3,100000000705
+1000286,383,22:35,'verizon.net',Marne-la-Vallée,2020-02-23,1,68,1,1,9,Direct,facebook.com,brave,tablet,samsung,android,0,1280x800,credit_card,4,100000000706
+1000070,235,6:48,'comcast.net',Vayk’,2020-01-01,4,44,1,0,5,Organic,google.com,UC browser,laptop,lenovo,windows,0,800 x 1280,accounts,6,100000000707
+1000305,121,19:58,'hinet.net',Pyshchug,2020-02-12,1,68,0,1,6,Organic,google.com,edge,tablet,samsung,android,0,1280x800,deposits,8,100000000708
+1000132,504,8:44,'verizon.net',Youzha,2020-03-02,2,4,1,1,6,Social,youtube.com,chromium,mobile,apple,ios,1,1440 x 2960,deposits,3,100000000709
+1000140,171,5:28,'hinet.net',Intibucá,2020-02-16,1,1,0,1,7,Organic,youtube.com,firefox,laptop,samsung,windows,0,1536 x 2048,deposits,2,100000000710
+1000201,107,1:45,'verizon.net',Gaillac,2020-01-12,2,11,1,1,6,Social,facebook.com,edge,mobile,micromax,android,1,1440 x 2960,deposits,6,100000000711
+1000001,507,12:54,'comcastbusiness.net',Wucun,2020-01-13,1,64,1,0,10,Refferal,facebook.com,firefox,mobile,apple,ios,1,1080 x 1920,insurance,5,100000000712
+1000051,568,16:32,'cox.net',Bassa,2020-01-11,1,22,1,1,9,Affiliates,google.com,brave,mobile,micromax,android,1,1440 x 2960,accounts,10,100000000713
+1000338,514,11:55,'verizon.net',Chicago,2020-02-16,5,19,0,1,9,Organic,facebook.com,opera,mobile,samsung,android,1,1080 x 1920,accounts,5,100000000714
+1000088,34,15:29,'verizon.net',Guaporé,2020-02-23,3,68,0,1,9,Direct,youtube.com,brave,mobile,lenovo,android,1,1440 x 2960,insurance,3,100000000715
+1000360,500,6:32,'hinet.net',Rupe,2020-01-31,4,50,1,0,5,Organic,facebook.com,safari,mobile,micromax,android,1,1440 x 2560,insurance,2,100000000716
+1000252,505,13:31,'verizon.net',Fort Smith,2020-02-29,5,82,0,0,8,Social,linkedin.com,opera,mobile,apple,ios,1,1440 x 2960,insurance,3,100000000717
+1000161,109,5:48,'att.net',Mapalacsiao,2020-02-27,5,48,0,1,8,Display,facebook.com,chrome,laptop,samsung,windows,0,800 x 1280,deposits,8,100000000718
+1000050,49,21:48,'comcast.net',Mqabba,2020-01-03,3,36,0,0,5,Refferal,google.com,firefox,tablet,micromax,android,0,1920x1080,loan,7,100000000719
+1000077,333,5:09,'cox.net',Korczyna,2020-02-04,2,56,0,0,10,Paid,linkedin.com,edge,mobile,lenovo,android,1,1080 x 1920,insurance,10,100000000720
+1000270,251,3:36,'verizon.net',Maromitsa,2020-01-29,4,73,0,1,8,Paid,youtube.com,edge,tablet,micromax,android,0,1366x768,insurance,6,100000000721
+1000212,46,19:45,'cox.net',Jiujiang,2020-02-23,4,14,1,0,9,Organic,facebook.com,firefox,tablet,samsung,android,0,1366x768,credit_card,5,100000000722
+1000072,87,21:56,'comcast.net',Warwick,2020-02-03,3,21,0,1,5,Refferal,facebook.com,safari,mobile,micromax,android,1,1440 x 2560,accounts,3,100000000723
+1000100,141,12:54,'hinet.net',Bowang,2020-01-23,3,15,0,1,8,Refferal,linkedin.com,chrome,mobile,samsung,android,1,1440 x 2960,credit_card,10,100000000724
+1000353,491,14:56,'cox.net',Tabuk,2020-02-01,5,7,1,0,8,Social,youtube.com,firefox,tablet,apple,ios,0,1280x800,deposits,7,100000000725
+1000155,87,4:41,'comcastbusiness.net',Ghār al Milḩ,2020-01-04,1,70,0,0,8,Social,linkedin.com,UC browser,tablet,lenovo,android,0,1280x800,accounts,2,100000000726
+1000321,314,3:58,'hinet.net',Verkhnye Syn’ovydne,2020-01-27,1,99,0,1,5,Social,google.com,edge,mobile,apple,ios,1,1440 x 2960,insurance,5,100000000727
+1000391,340,22:12,'verizon.net',Palmira,2020-02-22,3,39,1,0,7,Affiliates,facebook.com,brave,laptop,lenovo,windows,0,800 x 1280,loan,5,100000000728
+1000127,447,8:01,'verizon.net',Santa Gertrudes,2020-03-01,3,59,1,0,8,Refferal,linkedin.com,firefox,mobile,lenovo,android,1,1080 x 1920,loan,7,100000000729
+1000199,160,13:59,'verizon.net',Calheta de Nesquim,2020-02-23,1,18,0,1,7,Organic,facebook.com,opera,mobile,samsung,android,1,1080 x 1920,loan,7,100000000730
+1000143,430,4:11,'hinet.net',Annopol,2020-02-26,3,44,1,1,8,Organic,linkedin.com,opera,laptop,micromax,ubuntu,0,1200 x 1920,deposits,4,100000000731
+1000069,406,21:07,'hinet.net',Mahébourg,2020-01-03,2,31,1,1,10,Display,facebook.com,opera,tablet,lenovo,android,0,1280x800,credit_card,9,100000000732
+1000059,127,22:24,'comcastbusiness.net',Kentongan,2020-02-05,2,74,1,1,7,Display,google.com,chromium,tablet,micromax,android,0,1920x1080,insurance,1,100000000733
+1000378,198,16:01,'comcastbusiness.net',San Francisco,2020-01-29,5,84,1,1,6,Refferal,linkedin.com,chromium,tablet,apple,ios,0,1366x768,accounts,6,100000000734
+1000168,496,1:49,'comcast.net',Kolonia Town,2020-01-20,1,14,0,1,6,Affiliates,linkedin.com,brave,laptop,lenovo,ubuntu,0,1536 x 2048,loan,9,100000000735
+1000119,89,16:58,'comcastbusiness.net',Targowisko,2020-01-26,3,30,0,1,9,Organic,google.com,safari,laptop,lenovo,ubuntu,0,800 x 1280,accounts,6,100000000736
+1000312,207,11:48,'verizon.net',Dhangarhi,2020-01-13,5,42,1,0,10,Display,google.com,chromium,tablet,lenovo,android,0,1280x800,credit_card,4,100000000737
+1000155,398,14:18,'cox.net',Bang Kruai,2020-03-02,1,48,1,0,8,Social,facebook.com,UC browser,laptop,lenovo,ubuntu,0,800 x 1280,loan,9,100000000738
+1000339,134,6:56,'cox.net',Södra Sandby,2020-02-04,5,76,0,1,5,Display,facebook.com,brave,mobile,apple,ios,1,1440 x 2960,insurance,7,100000000739
+1000025,482,12:46,'comcastbusiness.net',Cibodas,2020-01-05,1,6,0,1,7,Direct,facebook.com,brave,laptop,samsung,ubuntu,0,1200 x 1920,credit_card,5,100000000740
+1000138,569,19:50,'hinet.net',Bousso,2020-01-17,3,65,1,1,9,Paid,linkedin.com,chromium,mobile,samsung,android,1,1440 x 2960,credit_card,1,100000000741
+1000101,291,10:22,'hinet.net',Baleber,2020-02-22,5,14,0,0,9,Display,linkedin.com,edge,mobile,samsung,android,1,1440 x 2960,accounts,10,100000000742
+1000259,200,22:58,'comcast.net',Westonaria,2020-02-14,1,51,1,1,6,Social,linkedin.com,chromium,tablet,samsung,android,0,1280x800,insurance,1,100000000743
+1000175,348,8:19,'hinet.net',Plavsk,2020-02-15,5,49,1,1,7,Organic,youtube.com,firefox,laptop,apple,mac-os,0,1536 x 2048,insurance,6,100000000744
+1000339,305,4:34,'cox.net',Magsaysay,2020-01-22,1,43,1,0,6,Direct,linkedin.com,safari,mobile,lenovo,android,1,1440 x 2560,credit_card,7,100000000745
+1000357,342,12:04,'att.net',Jawatiwa,2020-02-29,5,26,0,1,10,Display,facebook.com,edge,laptop,samsung,windows,0,1200 x 1920,loan,7,100000000746
+1000235,581,17:45,'hinet.net',Pakham,2020-01-25,2,98,1,0,10,Organic,linkedin.com,UC browser,mobile,samsung,android,1,1440 x 2560,deposits,7,100000000747
+1000392,212,9:00,'verizon.net',Tilcara,2020-01-05,2,44,0,0,9,Direct,facebook.com,safari,laptop,lenovo,windows,0,800 x 1280,insurance,7,100000000748
+1000139,168,7:34,'comcast.net',Komsomol’sk,2020-02-23,4,34,0,0,8,Paid,facebook.com,brave,mobile,micromax,android,1,1440 x 2960,loan,1,100000000749
+1000054,116,4:43,'comcastbusiness.net',Xiaxi,2020-02-01,4,10,0,1,7,Display,facebook.com,chrome,tablet,micromax,android,0,1366x768,insurance,10,100000000750
+1000098,350,14:52,'hinet.net',Iúna,2020-03-02,3,97,0,1,9,Organic,google.com,firefox,mobile,micromax,android,1,1080 x 1920,insurance,9,100000000751
+1000135,146,6:32,'hinet.net',Ayteke Bi,2020-01-12,5,31,1,0,10,Paid,youtube.com,edge,tablet,apple,ios,0,1280x800,deposits,4,100000000752
+1000080,87,18:08,'comcast.net',Supu,2020-02-02,1,11,1,1,9,Refferal,youtube.com,firefox,laptop,apple,mac-os,0,1536 x 2048,accounts,2,100000000753
+1000352,524,14:56,'verizon.net',Zhireken,2020-01-17,1,84,1,0,10,Display,facebook.com,chromium,mobile,lenovo,android,1,1440 x 2560,insurance,6,100000000754
+1000260,375,15:40,'hinet.net',Sampungu,2020-01-10,3,38,1,0,7,Refferal,facebook.com,safari,tablet,samsung,android,0,1920x1080,deposits,8,100000000755
+1000396,507,10:45,'comcastbusiness.net',Soufrière,2020-01-29,5,90,0,1,7,Affiliates,youtube.com,UC browser,mobile,samsung,android,1,1080 x 1920,accounts,2,100000000756
+1000390,228,17:53,'verizon.net',Beichengqu,2020-02-10,3,84,0,0,6,Social,linkedin.com,UC browser,mobile,samsung,android,1,1440 x 2560,loan,6,100000000757
+1000103,542,22:18,'hinet.net',Wañgan,2020-02-02,1,54,1,1,10,Social,google.com,UC browser,laptop,samsung,windows,0,1536 x 2048,loan,1,100000000758
+1000295,231,18:57,'hinet.net',Qaryat ad Da‘īs,2020-01-03,4,90,1,1,8,Social,linkedin.com,safari,tablet,samsung,android,0,1366x768,credit_card,5,100000000759
+1000282,541,21:24,'verizon.net',Francistown,2020-01-03,2,80,0,0,9,Affiliates,linkedin.com,safari,mobile,lenovo,android,1,1440 x 2560,loan,8,100000000760
+1000181,567,23:51,'verizon.net',Chisong,2020-01-31,3,97,1,1,7,Paid,linkedin.com,UC browser,tablet,micromax,android,0,1280x800,credit_card,9,100000000761
+1000226,371,15:12,'verizon.net',Baalbek,2020-01-24,5,48,1,1,6,Display,facebook.com,chromium,laptop,micromax,windows,0,1536 x 2048,deposits,8,100000000762
+1000059,383,15:13,'cox.net',Jesenice,2020-02-27,1,18,0,1,8,Paid,youtube.com,UC browser,laptop,apple,mac-os,0,1536 x 2048,deposits,1,100000000763
+1000287,268,3:55,'att.net',La Victoria,2020-02-22,5,34,1,0,7,Paid,google.com,UC browser,tablet,micromax,android,0,1920x1080,accounts,9,100000000764
+1000203,126,16:01,'cox.net',Macroom,2020-02-09,4,25,1,0,6,Display,google.com,firefox,mobile,apple,ios,1,1440 x 2960,deposits,7,100000000765
+1000266,491,13:12,'hinet.net',Turba,2020-02-21,3,20,1,0,9,Refferal,youtube.com,opera,mobile,micromax,android,1,1440 x 2560,deposits,10,100000000766
+1000175,525,15:49,'hinet.net',Susuman,2020-02-02,4,26,0,0,9,Refferal,facebook.com,brave,mobile,micromax,android,1,1440 x 2960,credit_card,9,100000000767
+1000077,338,18:23,'hinet.net',Espírito Santo do Pinhal,2020-03-01,3,1,0,0,5,Refferal,google.com,chrome,tablet,micromax,android,0,1366x768,insurance,3,100000000768
+1000280,245,8:45,'att.net',Vitória da Conquista,2020-02-12,2,75,1,1,10,Direct,youtube.com,edge,tablet,apple,ios,0,1280x800,loan,9,100000000769
+1000018,55,0:06,'hinet.net',Shujāābād,2020-01-20,4,14,0,1,7,Paid,google.com,chromium,mobile,micromax,android,1,1080 x 1920,insurance,9,100000000770
+1000154,280,7:18,'comcastbusiness.net',Łobez,2020-01-30,4,56,1,1,8,Display,linkedin.com,safari,laptop,apple,mac-os,0,800 x 1280,deposits,4,100000000771
+1000054,33,14:59,'verizon.net',Bal Chirāgh,2020-01-20,4,72,1,0,8,Affiliates,linkedin.com,chromium,laptop,samsung,windows,0,1200 x 1920,loan,7,100000000772
+1000127,599,21:16,'att.net',Hecun,2020-01-03,2,31,1,0,6,Affiliates,youtube.com,opera,tablet,lenovo,android,0,1366x768,insurance,6,100000000773
+1000363,135,3:04,'verizon.net',Linjiang,2020-01-14,3,35,1,1,8,Organic,linkedin.com,chrome,laptop,lenovo,windows,0,1536 x 2048,accounts,2,100000000774
+1000065,243,4:21,'verizon.net',El Paso,2020-02-01,2,82,0,1,6,Direct,facebook.com,UC browser,laptop,samsung,windows,0,1536 x 2048,loan,3,100000000775
+1000276,91,17:39,'comcastbusiness.net',Kaset Wisai,2020-02-12,4,73,0,0,9,Affiliates,google.com,UC browser,tablet,samsung,android,0,1280x800,deposits,9,100000000776
+1000270,414,16:53,'hinet.net',Vilque Chico,2020-01-17,4,22,0,0,9,Display,linkedin.com,edge,laptop,samsung,ubuntu,0,1200 x 1920,insurance,1,100000000777
+1000275,69,11:44,'hinet.net',Longzhong,2020-02-27,4,100,1,1,9,Direct,google.com,opera,tablet,lenovo,android,0,1280x800,insurance,2,100000000778
+1000338,512,22:35,'comcastbusiness.net',Skuratovskiy,2020-01-26,5,22,1,0,6,Refferal,youtube.com,safari,tablet,samsung,android,0,1280x800,deposits,1,100000000779
+1000305,536,16:46,'att.net',Lebak,2020-02-06,5,38,0,1,10,Affiliates,youtube.com,safari,mobile,samsung,android,1,1440 x 2960,credit_card,10,100000000780
+1000262,139,18:44,'verizon.net',Skotoússa,2020-01-14,1,65,1,1,10,Social,youtube.com,chromium,mobile,apple,ios,1,1440 x 2960,loan,7,100000000781
+1000369,114,2:11,'verizon.net',Haoshui,2020-01-07,5,52,1,1,9,Direct,google.com,chromium,mobile,lenovo,android,1,1440 x 2560,insurance,1,100000000782
+1000231,581,22:42,'cox.net',Yuncheng,2020-01-25,5,76,1,1,5,Affiliates,linkedin.com,safari,laptop,apple,mac-os,0,1200 x 1920,deposits,7,100000000783
+1000273,282,8:00,'att.net',Noyon,2020-02-26,1,17,0,0,7,Direct,youtube.com,brave,tablet,samsung,android,0,1280x800,credit_card,7,100000000784
+1000181,200,16:58,'hinet.net',Yangliu,2020-01-21,2,41,1,1,7,Paid,youtube.com,chromium,mobile,samsung,android,1,1080 x 1920,accounts,4,100000000785
+1000253,428,2:17,'comcastbusiness.net',Pagangan,2020-02-03,5,55,0,1,7,Display,linkedin.com,brave,laptop,micromax,windows,0,1536 x 2048,loan,10,100000000786
+1000345,513,2:16,'hinet.net',Carcassonne,2020-01-11,4,67,1,0,10,Social,youtube.com,chromium,mobile,lenovo,android,1,1440 x 2960,deposits,4,100000000787
+1000203,320,12:00,'comcastbusiness.net',Shīrvān,2020-01-03,3,6,0,0,6,Affiliates,facebook.com,opera,tablet,lenovo,android,0,1280x800,loan,4,100000000788
+1000234,201,5:03,'verizon.net',Waina,2020-01-08,2,99,0,1,7,Display,youtube.com,chromium,laptop,samsung,ubuntu,0,1536 x 2048,loan,9,100000000789
+1000260,592,8:45,'verizon.net',Riang Tengah,2020-01-06,4,42,1,0,10,Direct,linkedin.com,firefox,tablet,lenovo,android,0,1280x800,insurance,5,100000000790
+1000300,49,19:41,'cox.net',Dārayyā,2020-01-17,2,17,1,1,8,Paid,linkedin.com,brave,mobile,apple,ios,1,1440 x 2960,deposits,3,100000000791
+1000178,195,17:26,'comcast.net',Baoxing,2020-02-21,2,81,1,0,10,Paid,linkedin.com,UC browser,tablet,micromax,android,0,1366x768,deposits,8,100000000792
+1000004,444,6:34,'att.net',Bojong,2020-02-02,4,26,1,1,5,Paid,google.com,chrome,mobile,micromax,android,1,1440 x 2960,deposits,1,100000000793
+1000366,514,10:21,'comcastbusiness.net',Devesa,2020-01-28,5,35,1,1,6,Refferal,youtube.com,opera,mobile,micromax,android,1,1440 x 2960,credit_card,3,100000000794
+1000254,577,8:09,'att.net',Ralevka,2020-01-13,3,68,1,0,6,Refferal,youtube.com,chrome,mobile,samsung,android,1,1440 x 2960,insurance,5,100000000795
+1000098,83,20:51,'att.net',Rudong,2020-02-05,2,91,0,0,9,Social,youtube.com,opera,tablet,samsung,android,0,1366x768,credit_card,9,100000000796
+1000354,399,22:04,'att.net',Boychinovtsi,2020-01-24,4,12,1,1,10,Refferal,facebook.com,UC browser,laptop,samsung,windows,0,1200 x 1920,loan,1,100000000797
+1000399,331,15:45,'cox.net',Xagmakajor,2020-02-14,4,74,1,1,10,Social,google.com,opera,laptop,micromax,ubuntu,0,800 x 1280,accounts,10,100000000798
+1000003,162,18:31,'hinet.net',Santa Bárbara d'Oeste,2020-02-14,1,97,1,0,10,Display,facebook.com,edge,laptop,lenovo,windows,0,800 x 1280,loan,4,100000000799
+1000184,401,8:15,'hinet.net',Brka,2020-01-28,4,68,1,0,5,Direct,facebook.com,chromium,tablet,micromax,android,0,1920x1080,insurance,7,100000000800
+1000289,374,12:44,'hinet.net',Bangui,2020-02-13,2,28,1,1,6,Refferal,google.com,chromium,laptop,micromax,windows,0,800 x 1280,insurance,8,100000000801
+1000178,360,9:37,'comcast.net',Zambujal,2020-01-11,5,100,1,0,10,Social,linkedin.com,edge,laptop,micromax,ubuntu,0,1200 x 1920,deposits,9,100000000802
+1000346,264,5:37,'cox.net',Yŏnggwang-ŭp,2020-02-19,2,38,0,0,7,Direct,linkedin.com,firefox,tablet,apple,ios,0,1366x768,insurance,1,100000000803
+1000200,581,2:14,'hinet.net',Jarānwāla,2020-01-08,1,83,1,0,9,Paid,google.com,opera,tablet,apple,ios,0,1920x1080,accounts,7,100000000804
+1000250,476,2:18,'hinet.net',Neuilly-sur-Seine,2020-01-03,1,75,0,0,8,Display,google.com,UC browser,laptop,apple,mac-os,0,1200 x 1920,insurance,2,100000000805
+1000337,560,13:10,'comcastbusiness.net',Sankanan,2020-02-24,3,93,0,0,9,Paid,linkedin.com,safari,tablet,micromax,android,0,1280x800,loan,5,100000000806
+1000258,289,1:31,'att.net',Hŭngju-dong,2020-01-25,5,55,0,1,8,Social,youtube.com,firefox,laptop,micromax,ubuntu,0,1536 x 2048,insurance,3,100000000807
+1000388,463,6:39,'hinet.net',Pravda,2020-03-02,3,35,1,0,7,Paid,google.com,UC browser,laptop,micromax,ubuntu,0,1536 x 2048,deposits,6,100000000808
+1000346,30,23:03,'att.net',Ciela Lebak,2020-02-24,4,47,1,1,5,Direct,google.com,safari,laptop,apple,mac-os,0,1536 x 2048,deposits,3,100000000809
+1000228,555,22:42,'att.net',Shijing,2020-01-03,5,37,0,1,8,Display,google.com,edge,laptop,apple,mac-os,0,800 x 1280,deposits,1,100000000810
+1000150,464,10:47,'cox.net',Khawr Maksar,2020-02-16,3,36,0,0,5,Affiliates,linkedin.com,UC browser,mobile,samsung,android,1,1080 x 1920,accounts,2,100000000811
+1000012,259,0:23,'att.net',Cikole,2020-01-20,2,86,0,0,7,Refferal,google.com,brave,laptop,apple,mac-os,0,800 x 1280,deposits,2,100000000812
+1000164,317,3:34,'cox.net',Saint-Leu-la-Forêt,2020-02-10,5,88,0,0,8,Paid,linkedin.com,UC browser,tablet,lenovo,android,0,1280x800,deposits,3,100000000813
+1000398,390,5:19,'hinet.net',Köln,2020-02-23,3,6,0,1,5,Display,facebook.com,chromium,mobile,micromax,android,1,1080 x 1920,loan,5,100000000814
+1000018,358,21:58,'hinet.net',Benzilan,2020-01-23,3,33,0,1,9,Direct,facebook.com,opera,mobile,apple,ios,1,1440 x 2960,accounts,9,100000000815
+1000167,315,15:15,'att.net',El Regalo,2020-01-03,1,91,1,1,5,Affiliates,google.com,firefox,tablet,apple,ios,0,1366x768,insurance,10,100000000816
+1000318,78,19:42,'comcast.net',Bukhovo,2020-01-22,5,38,0,1,7,Organic,facebook.com,opera,mobile,apple,ios,1,1440 x 2560,accounts,3,100000000817
+1000359,541,22:42,'verizon.net',Coyaima,2020-01-13,4,41,0,0,5,Display,youtube.com,UC browser,laptop,apple,mac-os,0,800 x 1280,deposits,10,100000000818
+1000190,13,14:22,'verizon.net',Alīābad,2020-02-07,5,80,0,0,9,Refferal,youtube.com,chrome,mobile,lenovo,android,1,1440 x 2960,accounts,5,100000000819
+1000041,207,1:02,'comcastbusiness.net',Portobelo,2020-02-05,1,33,1,1,8,Refferal,facebook.com,firefox,mobile,samsung,android,1,1440 x 2960,accounts,9,100000000820
+1000150,176,2:26,'hinet.net',Guazhou,2020-01-20,1,21,0,0,6,Organic,facebook.com,chrome,tablet,samsung,android,0,1920x1080,insurance,10,100000000821
+1000282,155,3:50,'comcastbusiness.net',Şabbūrah,2020-01-10,3,67,0,1,6,Refferal,google.com,UC browser,mobile,micromax,android,1,1440 x 2560,loan,2,100000000822
+1000171,581,2:34,'comcast.net',Olleros,2020-02-05,5,43,0,1,10,Social,facebook.com,brave,laptop,apple,mac-os,0,1536 x 2048,loan,1,100000000823
+1000366,508,19:05,'comcast.net',Priiskovyy,2020-01-03,5,36,1,0,8,Organic,google.com,opera,mobile,samsung,android,1,1080 x 1920,accounts,9,100000000824
+1000390,402,23:22,'verizon.net',Kalipare,2020-01-17,2,23,0,1,9,Direct,facebook.com,chrome,tablet,apple,ios,0,1280x800,loan,10,100000000825
+1000301,382,2:35,'cox.net',Fuhai,2020-02-07,3,39,0,1,8,Organic,linkedin.com,edge,laptop,apple,mac-os,0,800 x 1280,loan,3,100000000826
+1000372,489,17:15,'comcastbusiness.net',Jinggongqiao,2020-02-19,4,9,1,1,9,Paid,google.com,safari,laptop,micromax,ubuntu,0,800 x 1280,credit_card,5,100000000827
+1000268,449,10:42,'cox.net',Saint-Quentin-en-Yvelines,2020-02-12,1,30,1,0,5,Affiliates,google.com,chromium,mobile,apple,ios,1,1440 x 2560,accounts,4,100000000828
+1000039,94,11:38,'cox.net',Góra,2020-01-18,3,97,1,0,10,Social,youtube.com,firefox,laptop,lenovo,ubuntu,0,800 x 1280,deposits,10,100000000829
+1000052,165,9:56,'comcastbusiness.net',Lemende,2020-02-28,5,54,1,0,8,Paid,google.com,opera,mobile,apple,ios,1,1080 x 1920,credit_card,4,100000000830
+1000165,377,17:09,'comcastbusiness.net',Xuanhua,2020-01-05,5,95,1,0,10,Affiliates,linkedin.com,opera,tablet,micromax,android,0,1280x800,deposits,7,100000000831
+1000259,187,8:12,'comcast.net',Tumba,2020-01-01,3,23,1,0,10,Paid,linkedin.com,opera,laptop,lenovo,windows,0,800 x 1280,insurance,9,100000000832
+1000056,319,22:55,'comcastbusiness.net',Rakek,2020-02-10,5,39,0,1,8,Display,facebook.com,UC browser,tablet,samsung,android,0,1920x1080,deposits,10,100000000833
+1000269,317,3:15,'hinet.net',Macapá,2020-02-28,4,94,1,0,8,Display,linkedin.com,edge,laptop,lenovo,windows,0,1536 x 2048,insurance,4,100000000834
+1000213,160,13:59,'comcastbusiness.net',Buturlinovka,2020-01-23,1,72,1,1,7,Display,facebook.com,safari,laptop,samsung,ubuntu,0,1536 x 2048,accounts,9,100000000835
+1000053,523,3:28,'hinet.net',Temanjang,2020-02-25,1,21,1,1,5,Affiliates,linkedin.com,safari,tablet,samsung,android,0,1366x768,deposits,2,100000000836
+1000008,435,14:12,'cox.net',Camgyai,2020-02-18,3,35,1,0,8,Refferal,youtube.com,firefox,laptop,samsung,windows,0,1536 x 2048,accounts,6,100000000837
+1000134,222,5:56,'hinet.net',Gedangan,2020-02-08,2,78,0,0,6,Affiliates,google.com,chromium,mobile,micromax,android,1,1440 x 2560,accounts,6,100000000838
+1000361,394,16:17,'hinet.net',Kafarati,2020-02-27,5,86,1,1,7,Affiliates,google.com,brave,tablet,lenovo,android,0,1366x768,insurance,7,100000000839
+1000211,307,2:36,'verizon.net',Shibetsu,2020-01-28,3,55,1,0,9,Direct,youtube.com,brave,tablet,samsung,android,0,1920x1080,loan,7,100000000840
+1000009,110,11:16,'comcast.net',Stockholm,2020-01-30,3,82,0,1,10,Refferal,google.com,chrome,mobile,lenovo,android,1,1080 x 1920,accounts,4,100000000841
+1000114,99,17:31,'hinet.net',San Emilio,2020-01-27,2,4,1,1,7,Paid,youtube.com,chromium,laptop,lenovo,ubuntu,0,1200 x 1920,deposits,2,100000000842
+1000248,423,17:34,'comcast.net',Xiaolongmen,2020-01-19,2,37,0,0,6,Display,google.com,safari,tablet,lenovo,android,0,1920x1080,insurance,6,100000000843
+1000259,379,1:04,'att.net',Labège,2020-01-11,1,33,1,0,7,Direct,facebook.com,chrome,laptop,samsung,ubuntu,0,1536 x 2048,accounts,3,100000000844
+1000251,100,10:50,'cox.net',Vale Covo,2020-01-22,1,15,0,0,10,Organic,linkedin.com,chrome,tablet,samsung,android,0,1920x1080,deposits,6,100000000845
+1000212,572,11:00,'att.net',Jiquilillo,2020-01-04,4,62,0,0,5,Social,facebook.com,chrome,laptop,apple,mac-os,0,1536 x 2048,deposits,4,100000000846
+1000174,448,19:24,'verizon.net',Mölndal,2020-01-01,2,51,1,0,9,Display,linkedin.com,brave,mobile,micromax,android,1,1440 x 2960,accounts,3,100000000847
+1000007,379,2:56,'hinet.net',Jiupu,2020-01-24,4,1,1,1,7,Direct,facebook.com,edge,tablet,lenovo,android,0,1366x768,loan,8,100000000848
+1000148,46,23:03,'verizon.net',Inda Silasē,2020-02-15,4,21,1,1,7,Organic,facebook.com,opera,tablet,micromax,android,0,1366x768,credit_card,10,100000000849
+1000132,544,17:07,'comcast.net',Lingkou,2020-02-21,5,38,1,1,8,Display,linkedin.com,firefox,mobile,samsung,android,1,1440 x 2560,loan,6,100000000850
+1000144,311,7:24,'cox.net',Alcaria,2020-01-28,3,94,0,1,7,Organic,facebook.com,chrome,tablet,samsung,android,0,1366x768,credit_card,6,100000000851
+1000045,35,12:45,'hinet.net',Nova Petrópolis,2020-02-07,2,64,0,1,7,Social,facebook.com,edge,laptop,samsung,ubuntu,0,1200 x 1920,accounts,8,100000000852
+1000222,447,15:21,'att.net',Tajike’abati,2020-01-19,3,10,1,1,10,Refferal,facebook.com,chrome,tablet,micromax,android,0,1280x800,accounts,8,100000000853
+1000172,19,22:56,'verizon.net',Pępowo,2020-02-12,1,28,0,0,7,Affiliates,linkedin.com,edge,laptop,lenovo,ubuntu,0,800 x 1280,credit_card,7,100000000854
+1000360,599,22:24,'att.net',Hua Sai,2020-01-23,5,34,0,1,7,Direct,youtube.com,chromium,mobile,samsung,android,1,1080 x 1920,loan,10,100000000855
+1000331,21,8:02,'comcast.net',Birzai,2020-01-05,4,18,0,1,10,Affiliates,facebook.com,brave,mobile,lenovo,android,1,1440 x 2560,deposits,4,100000000856
+1000296,318,16:15,'hinet.net',Bumirejo,2020-01-05,1,92,0,0,7,Affiliates,facebook.com,edge,tablet,apple,ios,0,1280x800,deposits,8,100000000857
+1000226,179,19:16,'cox.net',Berdyans’k,2020-01-09,5,78,1,1,7,Refferal,google.com,edge,mobile,micromax,android,1,1440 x 2560,accounts,10,100000000858
+1000205,183,0:06,'cox.net',Doctor Juan León Mallorquín,2020-02-15,2,56,0,1,7,Organic,google.com,UC browser,mobile,apple,ios,1,1080 x 1920,deposits,4,100000000859
+1000195,44,5:28,'att.net',Huashixia,2020-02-06,3,66,0,0,10,Paid,youtube.com,edge,tablet,apple,ios,0,1280x800,accounts,8,100000000860
+1000329,531,22:53,'cox.net',Tucurú,2020-02-26,3,21,0,1,10,Organic,facebook.com,chrome,mobile,lenovo,android,1,1440 x 2560,insurance,8,100000000861
+1000258,500,17:58,'cox.net',Casal do Conde,2020-02-28,4,29,1,1,7,Affiliates,facebook.com,safari,tablet,samsung,android,0,1280x800,credit_card,3,100000000862
+1000366,300,0:23,'cox.net',Pingyang,2020-01-23,4,50,0,0,10,Affiliates,facebook.com,UC browser,tablet,micromax,android,0,1366x768,credit_card,2,100000000863
+1000393,152,10:47,'comcast.net',Runting,2020-01-06,2,87,1,0,7,Direct,linkedin.com,safari,tablet,micromax,android,0,1366x768,accounts,2,100000000864
+1000123,431,12:36,'cox.net',Ta’erqi,2020-02-25,2,91,0,0,6,Social,youtube.com,opera,mobile,apple,ios,1,1440 x 2560,accounts,2,100000000865
+1000306,40,3:13,'cox.net',Al Faḩāḩīl,2020-02-29,3,46,0,1,7,Paid,linkedin.com,chromium,laptop,samsung,ubuntu,0,1200 x 1920,insurance,6,100000000866
+1000323,600,9:46,'hinet.net',Guangyuan,2020-02-24,3,20,0,0,7,Direct,facebook.com,brave,mobile,micromax,android,1,1080 x 1920,credit_card,7,100000000867
+1000331,419,2:02,'verizon.net',Roissy Charles-de-Gaulle,2020-01-23,4,26,0,1,10,Display,youtube.com,brave,tablet,samsung,android,0,1366x768,loan,1,100000000868
+1000138,393,18:53,'hinet.net',Birātnagar,2020-01-28,2,91,1,1,10,Paid,youtube.com,safari,mobile,samsung,android,1,1440 x 2560,insurance,6,100000000869
+1000388,13,13:05,'comcastbusiness.net',Luftinjë,2020-01-30,5,12,1,0,8,Organic,facebook.com,UC browser,laptop,apple,mac-os,0,1536 x 2048,accounts,1,100000000870
+1000162,509,4:16,'comcastbusiness.net',Horten,2020-01-06,1,1,0,1,6,Organic,google.com,UC browser,tablet,samsung,android,0,1280x800,insurance,3,100000000871
+1000166,73,21:35,'verizon.net',Rocky Mountain House,2020-01-29,2,68,0,1,8,Social,linkedin.com,safari,mobile,samsung,android,1,1080 x 1920,insurance,4,100000000872
+1000055,302,5:06,'verizon.net',Pingle,2020-01-02,5,2,1,0,7,Social,google.com,brave,mobile,samsung,android,1,1080 x 1920,deposits,1,100000000873
+1000273,89,6:28,'verizon.net',Vis,2020-01-05,4,40,0,0,7,Refferal,linkedin.com,brave,mobile,micromax,android,1,1440 x 2560,loan,3,100000000874
+1000304,87,0:16,'verizon.net',Finspång,2020-01-28,5,70,1,0,9,Direct,google.com,UC browser,tablet,lenovo,android,0,1366x768,deposits,3,100000000875
+1000182,328,2:47,'cox.net',Nueve de Julio,2020-02-11,2,71,1,0,6,Affiliates,youtube.com,brave,tablet,micromax,android,0,1920x1080,credit_card,8,100000000876
+1000094,382,21:29,'att.net',Muli,2020-02-14,5,79,1,0,8,Organic,linkedin.com,firefox,mobile,samsung,android,1,1440 x 2560,loan,5,100000000877
+1000380,117,18:38,'comcastbusiness.net',Shiban,2020-01-11,5,45,0,0,5,Direct,facebook.com,opera,laptop,micromax,windows,0,1200 x 1920,credit_card,5,100000000878
+1000206,61,0:52,'comcastbusiness.net',Vällingby,2020-01-06,1,95,0,0,7,Organic,linkedin.com,edge,tablet,samsung,android,0,1920x1080,insurance,8,100000000879
+1000177,506,22:15,'comcastbusiness.net',Taurisma,2020-02-14,2,41,0,0,5,Social,youtube.com,chromium,mobile,samsung,android,1,1440 x 2960,accounts,6,100000000880
+1000219,56,6:21,'hinet.net',Tiantai Chengguanzhen,2020-02-20,4,68,1,0,5,Direct,google.com,firefox,laptop,micromax,ubuntu,0,1536 x 2048,insurance,9,100000000881
+1000043,39,4:01,'verizon.net',Bifeng,2020-01-25,3,97,1,1,8,Paid,linkedin.com,firefox,mobile,samsung,android,1,1440 x 2560,insurance,6,100000000882
+1000007,251,12:06,'verizon.net',Naples,2020-02-10,4,66,1,1,7,Paid,youtube.com,chrome,tablet,micromax,android,0,1280x800,insurance,5,100000000883
+1000041,49,18:08,'cox.net',Johanneshov,2020-01-08,3,26,1,0,10,Display,google.com,opera,mobile,micromax,android,1,1080 x 1920,accounts,10,100000000884
+1000108,328,8:29,'comcast.net',Liujiagou,2020-02-25,5,19,1,1,9,Paid,google.com,opera,mobile,samsung,android,1,1440 x 2960,insurance,3,100000000885
+1000102,373,4:22,'verizon.net',Eger,2020-02-16,3,51,1,1,6,Display,google.com,edge,mobile,apple,ios,1,1080 x 1920,accounts,3,100000000886
+1000288,562,11:04,'comcastbusiness.net',Hayang,2020-01-31,5,94,0,0,5,Paid,youtube.com,edge,mobile,micromax,android,1,1080 x 1920,loan,3,100000000887
+1000245,129,2:52,'att.net',Obudu,2020-02-17,5,15,0,0,10,Affiliates,linkedin.com,chrome,mobile,lenovo,android,1,1440 x 2960,credit_card,2,100000000888
+1000220,309,5:53,'hinet.net',Amerta,2020-02-24,1,85,1,1,9,Affiliates,linkedin.com,chrome,mobile,lenovo,android,1,1440 x 2560,accounts,5,100000000889
+1000305,415,7:43,'comcast.net',Mamboma,2020-01-02,5,51,1,1,5,Social,facebook.com,firefox,mobile,lenovo,android,1,1440 x 2960,accounts,9,100000000890
+1000261,411,12:33,'att.net',Dongxi,2020-02-07,1,35,0,1,10,Refferal,facebook.com,chrome,tablet,samsung,android,0,1366x768,deposits,5,100000000891
+1000257,85,7:54,'att.net',Şūrān,2020-02-19,2,95,0,0,5,Organic,google.com,safari,tablet,samsung,android,0,1280x800,deposits,1,100000000892
+1000236,500,4:48,'hinet.net',Meikeng,2020-01-14,2,38,1,1,10,Display,youtube.com,brave,mobile,apple,ios,1,1080 x 1920,accounts,6,100000000893
+1000293,553,5:24,'att.net',Taltal,2020-01-17,3,83,1,1,7,Affiliates,linkedin.com,safari,laptop,apple,mac-os,0,1536 x 2048,deposits,6,100000000894
+1000074,523,7:14,'cox.net',Langsa,2020-01-04,1,59,1,0,5,Direct,youtube.com,firefox,mobile,samsung,android,1,1080 x 1920,deposits,9,100000000895
+1000073,201,8:18,'comcast.net',Kolpashevo,2020-01-25,4,56,1,0,9,Direct,linkedin.com,opera,laptop,lenovo,ubuntu,0,800 x 1280,credit_card,9,100000000896
+1000256,411,11:57,'comcast.net',Piedade,2020-01-18,4,53,0,1,9,Paid,facebook.com,safari,tablet,samsung,android,0,1280x800,deposits,5,100000000897
+1000184,323,6:41,'comcastbusiness.net',Matala,2020-02-17,5,78,1,0,5,Social,linkedin.com,chrome,tablet,apple,ios,0,1280x800,accounts,5,100000000898
+1000104,416,11:09,'att.net',Penelas,2020-01-19,1,33,1,0,9,Social,youtube.com,firefox,tablet,samsung,android,0,1920x1080,loan,1,100000000899
+1000231,127,11:41,'hinet.net',Krasnofarfornyy,2020-02-04,3,57,0,1,5,Paid,youtube.com,safari,tablet,lenovo,android,0,1920x1080,accounts,2,100000000900
+1000048,119,5:15,'comcastbusiness.net',Järfälla,2020-02-20,4,21,1,0,10,Affiliates,linkedin.com,edge,laptop,micromax,windows,0,1536 x 2048,credit_card,3,100000000901
+1000029,287,17:40,'hinet.net',Şuraabad,2020-01-10,2,80,0,0,9,Social,youtube.com,safari,tablet,lenovo,android,0,1280x800,insurance,8,100000000902
+1000049,225,15:26,'att.net',Lingdi,2020-01-27,5,74,0,0,7,Paid,youtube.com,opera,laptop,apple,mac-os,0,1200 x 1920,credit_card,4,100000000903
+1000305,405,22:30,'att.net',Medvedok,2020-01-27,5,37,1,0,8,Refferal,facebook.com,brave,tablet,micromax,android,0,1280x800,deposits,6,100000000904
+1000324,170,22:03,'comcast.net',Aizkraukle,2020-01-28,3,85,1,0,6,Social,youtube.com,edge,laptop,samsung,windows,0,800 x 1280,accounts,9,100000000905
+1000209,521,18:25,'hinet.net',San Rafael,2020-02-22,1,22,1,1,7,Paid,facebook.com,chromium,mobile,lenovo,android,1,1440 x 2960,insurance,8,100000000906
+1000192,230,14:30,'comcast.net',Muqui,2020-02-07,3,40,1,1,8,Refferal,youtube.com,chromium,tablet,lenovo,android,0,1366x768,loan,1,100000000907
+1000185,412,20:35,'att.net',Trzebiatów,2020-01-31,2,94,0,0,9,Affiliates,facebook.com,edge,laptop,lenovo,ubuntu,0,800 x 1280,credit_card,5,100000000908
+1000348,345,12:14,'comcastbusiness.net',Paris 08,2020-01-27,5,20,0,1,5,Refferal,google.com,UC browser,mobile,samsung,android,1,1440 x 2960,accounts,10,100000000909
+1000108,528,11:02,'comcastbusiness.net',Ust-Maya,2020-02-23,1,55,1,0,10,Organic,google.com,edge,laptop,samsung,ubuntu,0,800 x 1280,accounts,4,100000000910
+1000102,568,8:51,'att.net',Dengzishan,2020-01-23,3,25,1,1,8,Affiliates,facebook.com,UC browser,laptop,apple,mac-os,0,800 x 1280,deposits,2,100000000911
+1000187,358,8:40,'comcastbusiness.net',Roissy Charles-de-Gaulle,2020-02-06,2,67,0,1,7,Social,linkedin.com,opera,laptop,micromax,windows,0,1536 x 2048,credit_card,1,100000000912
+1000041,304,22:38,'hinet.net',Betulia,2020-02-22,5,39,0,1,8,Social,facebook.com,brave,laptop,apple,mac-os,0,800 x 1280,deposits,4,100000000913
+1000374,334,18:09,'cox.net',Caomiao,2020-01-09,5,17,1,0,9,Display,google.com,chrome,mobile,micromax,android,1,1080 x 1920,insurance,6,100000000914
+1000086,76,8:07,'cox.net',New York City,2020-02-29,3,50,1,0,6,Refferal,google.com,chrome,mobile,lenovo,android,1,1440 x 2960,deposits,5,100000000915
+1000040,37,22:43,'hinet.net',La Floresta,2020-01-31,1,65,1,1,5,Organic,youtube.com,opera,tablet,lenovo,android,0,1366x768,credit_card,7,100000000916
+1000288,592,9:55,'verizon.net',Zharkovskiy,2020-01-23,4,54,1,0,10,Paid,youtube.com,safari,tablet,lenovo,android,0,1280x800,loan,5,100000000917
+1000181,399,3:39,'comcastbusiness.net',Thị Trấn Mường Khương,2020-01-06,5,27,1,1,7,Direct,youtube.com,brave,tablet,micromax,android,0,1366x768,accounts,8,100000000918
+1000142,376,12:13,'comcastbusiness.net',Bariri,2020-01-17,2,31,1,1,9,Affiliates,google.com,edge,tablet,samsung,android,0,1920x1080,deposits,10,100000000919
+1000380,146,20:27,'verizon.net',Niu,2020-01-06,1,41,1,0,5,Refferal,facebook.com,brave,laptop,micromax,windows,0,1536 x 2048,accounts,7,100000000920
+1000202,323,20:37,'att.net',Agualote,2020-02-17,5,54,0,1,9,Direct,linkedin.com,chrome,laptop,lenovo,windows,0,800 x 1280,loan,1,100000000921
+1000300,52,2:48,'hinet.net',Benito Juarez,2020-02-21,2,13,0,0,7,Display,google.com,brave,laptop,micromax,ubuntu,0,800 x 1280,accounts,2,100000000922
+1000151,195,16:19,'comcastbusiness.net',Mopipi,2020-02-12,4,91,1,0,5,Affiliates,facebook.com,chromium,mobile,samsung,android,1,1080 x 1920,deposits,10,100000000923
+1000342,501,12:22,'cox.net',Cipanjang,2020-01-26,2,73,0,0,5,Refferal,youtube.com,chrome,tablet,micromax,android,0,1920x1080,loan,3,100000000924
+1000217,588,13:39,'verizon.net',Shouzhan,2020-02-29,5,16,0,1,6,Display,youtube.com,UC browser,mobile,samsung,android,1,1080 x 1920,loan,3,100000000925
+1000164,375,0:01,'verizon.net',Macau,2020-02-03,1,37,1,1,5,Social,facebook.com,safari,laptop,samsung,ubuntu,0,1200 x 1920,credit_card,4,100000000926
+1000107,501,18:09,'att.net',Protvino,2020-02-01,1,92,0,0,5,Social,facebook.com,edge,laptop,lenovo,windows,0,800 x 1280,credit_card,10,100000000927
+1000342,172,1:37,'comcast.net',Nové Strašecí,2020-02-18,4,94,0,1,5,Organic,youtube.com,safari,tablet,lenovo,android,0,1920x1080,insurance,5,100000000928
+1000306,271,14:42,'hinet.net',Dafengdui,2020-01-12,5,4,1,0,9,Refferal,youtube.com,opera,tablet,apple,ios,0,1366x768,credit_card,1,100000000929
+1000198,370,3:37,'cox.net',Hudiksvall,2020-01-29,3,3,0,0,6,Paid,linkedin.com,chromium,laptop,samsung,ubuntu,0,1536 x 2048,deposits,10,100000000930
+1000390,68,15:21,'comcastbusiness.net',Voskhod,2020-01-15,3,80,0,0,6,Organic,linkedin.com,opera,tablet,micromax,android,0,1366x768,insurance,8,100000000931
+1000330,313,1:29,'verizon.net',Nyuksenitsa,2020-01-28,1,65,0,0,6,Refferal,google.com,brave,laptop,lenovo,windows,0,1536 x 2048,deposits,8,100000000932
+1000027,525,18:19,'cox.net',Kumamoto,2020-02-15,3,65,1,1,5,Social,youtube.com,opera,mobile,apple,ios,1,1440 x 2960,accounts,6,100000000933
+1000203,514,11:58,'att.net',Newport News,2020-02-18,4,72,0,1,10,Direct,google.com,edge,tablet,samsung,android,0,1920x1080,loan,10,100000000934
+1000017,443,22:08,'comcastbusiness.net',Chengnan,2020-02-26,2,36,0,1,7,Organic,facebook.com,chromium,tablet,apple,ios,0,1366x768,insurance,7,100000000935
+1000276,282,21:42,'cox.net',Vendas de Galizes,2020-01-10,5,3,1,0,10,Refferal,google.com,opera,mobile,micromax,android,1,1440 x 2960,insurance,5,100000000936
+1000127,195,4:16,'comcast.net',Barisāl,2020-01-02,1,75,1,1,8,Paid,linkedin.com,brave,tablet,apple,ios,0,1280x800,credit_card,6,100000000937
+1000202,322,15:47,'verizon.net',Xiaqiao,2020-01-20,1,68,0,1,8,Display,facebook.com,brave,mobile,micromax,android,1,1440 x 2560,loan,8,100000000938
+1000132,424,9:06,'comcast.net',Xintai,2020-01-20,1,78,1,1,10,Display,linkedin.com,firefox,laptop,apple,mac-os,0,1536 x 2048,credit_card,10,100000000939
+1000178,184,22:55,'att.net',Waśniów,2020-02-15,2,98,0,1,7,Direct,facebook.com,chromium,mobile,apple,ios,1,1440 x 2960,credit_card,5,100000000940
+1000334,143,1:58,'comcast.net',Sośnie,2020-01-15,2,86,0,1,8,Display,linkedin.com,chromium,mobile,apple,ios,1,1080 x 1920,accounts,10,100000000941
+1000195,293,23:40,'hinet.net',Baghlān,2020-01-16,4,58,0,1,9,Direct,linkedin.com,firefox,mobile,apple,ios,1,1440 x 2560,accounts,4,100000000942
+1000002,564,14:39,'cox.net',Örebro,2020-01-09,4,13,0,1,9,Direct,linkedin.com,UC browser,tablet,micromax,android,0,1366x768,deposits,6,100000000943
+1000064,475,20:34,'comcastbusiness.net',Kadubadak,2020-02-18,1,48,1,1,8,Refferal,linkedin.com,safari,mobile,micromax,android,1,1440 x 2560,credit_card,4,100000000944
+1000008,476,7:36,'hinet.net',San Antonio Oeste,2020-02-04,2,94,1,0,8,Direct,google.com,safari,mobile,apple,ios,1,1440 x 2960,accounts,9,100000000945
+1000193,483,8:52,'att.net',Chengdu,2020-01-23,2,63,1,1,6,Direct,linkedin.com,firefox,tablet,apple,ios,0,1366x768,credit_card,8,100000000946
+1000026,536,15:57,'comcast.net',Shanghuang,2020-01-13,2,67,0,1,6,Organic,google.com,opera,tablet,micromax,android,0,1920x1080,insurance,10,100000000947
+1000360,265,22:55,'comcastbusiness.net',La Foa,2020-02-27,5,18,0,1,5,Social,youtube.com,safari,laptop,lenovo,windows,0,1536 x 2048,deposits,6,100000000948
+1000080,218,14:21,'cox.net',Versailles,2020-02-07,2,95,0,1,6,Refferal,facebook.com,opera,tablet,samsung,android,0,1280x800,accounts,1,100000000949
+1000377,363,18:58,'att.net',Sukamulya,2020-01-26,2,13,1,0,7,Paid,facebook.com,chrome,laptop,apple,mac-os,0,1536 x 2048,loan,1,100000000950
+1000118,272,8:54,'verizon.net',Alkmaar,2020-02-08,3,95,1,0,6,Social,youtube.com,UC browser,laptop,micromax,windows,0,800 x 1280,credit_card,5,100000000951
+1000363,593,4:12,'verizon.net',Ōmamachō-ōmama,2020-02-03,5,85,0,1,10,Organic,youtube.com,edge,tablet,samsung,android,0,1366x768,loan,10,100000000952
+1000378,286,20:32,'hinet.net',Mandala,2020-01-01,3,21,1,1,10,Direct,youtube.com,safari,laptop,samsung,ubuntu,0,1536 x 2048,deposits,2,100000000953
+1000048,527,21:23,'comcast.net',Yangyuan,2020-01-28,2,27,0,1,9,Affiliates,google.com,chrome,laptop,micromax,ubuntu,0,1200 x 1920,accounts,2,100000000954
+1000010,357,5:58,'comcast.net',Maranura,2020-02-17,5,58,1,1,8,Refferal,linkedin.com,chrome,mobile,apple,ios,1,1440 x 2960,credit_card,4,100000000955
+1000209,550,20:03,'att.net',Aţ Ţīrah,2020-01-21,4,1,0,1,9,Social,google.com,safari,mobile,apple,ios,1,1440 x 2960,insurance,9,100000000956
+1000336,543,16:23,'att.net',Hakodate,2020-01-03,2,72,1,0,5,Display,google.com,edge,tablet,samsung,android,0,1920x1080,accounts,1,100000000957
+1000338,516,15:07,'hinet.net',Grebenskaya,2020-01-29,4,47,1,0,6,Social,linkedin.com,firefox,mobile,lenovo,android,1,1440 x 2560,loan,1,100000000958
+1000004,244,2:07,'cox.net',Qiancang,2020-03-01,2,86,1,1,6,Refferal,google.com,opera,tablet,lenovo,android,0,1366x768,insurance,7,100000000959
+1000003,81,19:53,'cox.net',Lijia,2020-01-14,2,35,0,1,7,Organic,google.com,safari,laptop,micromax,windows,0,1200 x 1920,loan,5,100000000960
+1000390,310,9:53,'verizon.net',Yelat’ma,2020-02-12,1,94,0,0,10,Direct,linkedin.com,UC browser,laptop,apple,mac-os,0,1536 x 2048,insurance,6,100000000961
+1000089,569,2:39,'comcast.net',Banatsko Karađorđevo,2020-01-08,1,12,0,0,9,Organic,google.com,UC browser,tablet,samsung,android,0,1920x1080,loan,7,100000000962
+1000038,518,7:46,'hinet.net',East Angus,2020-01-12,2,10,1,0,5,Paid,linkedin.com,safari,mobile,apple,ios,1,1440 x 2960,insurance,9,100000000963
+1000110,247,15:36,'hinet.net',Peña Blanca,2020-01-09,2,32,0,1,9,Paid,linkedin.com,opera,laptop,lenovo,ubuntu,0,1200 x 1920,insurance,4,100000000964
+1000201,357,11:29,'hinet.net',Sahatsakhan,2020-02-10,1,37,1,0,9,Organic,google.com,chrome,tablet,apple,ios,0,1366x768,insurance,2,100000000965
+1000120,373,19:10,'cox.net',Kankan,2020-01-22,3,62,0,1,10,Affiliates,google.com,firefox,mobile,apple,ios,1,1440 x 2560,accounts,5,100000000966
+1000012,210,20:11,'verizon.net',Saransk,2020-01-26,5,16,0,0,5,Social,youtube.com,brave,laptop,samsung,ubuntu,0,800 x 1280,loan,2,100000000967
+1000379,272,16:43,'comcastbusiness.net',Juxing,2020-01-18,1,40,0,0,6,Direct,google.com,firefox,laptop,lenovo,windows,0,800 x 1280,credit_card,7,100000000968
+1000365,278,8:20,'comcastbusiness.net',Xuebu,2020-02-25,3,91,0,1,8,Social,youtube.com,brave,laptop,apple,mac-os,0,800 x 1280,insurance,3,100000000969
+1000191,35,10:31,'att.net',Makui,2020-02-08,1,50,1,0,8,Organic,google.com,edge,tablet,samsung,android,0,1280x800,credit_card,7,100000000970
+1000382,538,21:47,'hinet.net',Huoshaoping,2020-01-20,5,28,1,0,10,Social,linkedin.com,edge,laptop,apple,mac-os,0,1536 x 2048,credit_card,6,100000000971
+1000017,439,0:03,'verizon.net',Brzeźnica,2020-01-09,4,34,1,0,5,Affiliates,linkedin.com,opera,mobile,samsung,android,1,1440 x 2960,insurance,2,100000000972
+1000246,278,22:44,'cox.net',Tarub,2020-01-30,2,22,1,1,9,Paid,youtube.com,UC browser,tablet,apple,ios,0,1366x768,insurance,3,100000000973
+1000340,113,14:58,'comcastbusiness.net',Kvitok,2020-02-12,1,15,0,0,8,Affiliates,facebook.com,edge,laptop,samsung,ubuntu,0,1200 x 1920,loan,1,100000000974
+1000253,298,8:53,'verizon.net',Seara,2020-01-06,1,29,0,1,5,Direct,facebook.com,edge,laptop,lenovo,ubuntu,0,1536 x 2048,loan,9,100000000975
+1000305,325,7:30,'att.net',Binagadi,2020-01-29,4,25,0,0,5,Refferal,google.com,edge,tablet,samsung,android,0,1920x1080,insurance,9,100000000976
+1000175,364,14:33,'att.net',Lombog,2020-01-09,1,15,1,0,7,Paid,linkedin.com,UC browser,tablet,micromax,android,0,1366x768,loan,5,100000000977
+1000217,328,20:06,'cox.net',Santa María Chiquimula,2020-01-28,2,17,0,0,6,Paid,youtube.com,chrome,tablet,micromax,android,0,1366x768,loan,4,100000000978
+1000080,18,20:55,'att.net',Warugunung,2020-01-20,5,23,0,0,9,Refferal,facebook.com,chrome,mobile,micromax,android,1,1440 x 2560,accounts,6,100000000979
+1000162,407,11:58,'comcastbusiness.net',Ríohacha,2020-02-11,1,4,0,0,8,Direct,youtube.com,chromium,mobile,micromax,android,1,1440 x 2960,loan,3,100000000980
+1000016,25,1:42,'comcastbusiness.net',Pinhão,2020-01-08,5,34,1,1,9,Paid,facebook.com,opera,mobile,lenovo,android,1,1440 x 2960,loan,1,100000000981
+1000356,395,0:03,'cox.net',Youghal,2020-02-25,2,78,0,0,8,Affiliates,google.com,safari,mobile,micromax,android,1,1440 x 2960,loan,10,100000000982
+1000333,399,6:50,'comcastbusiness.net',Sugihwaras,2020-01-29,1,64,0,0,10,Display,google.com,chrome,tablet,samsung,android,0,1366x768,loan,7,100000000983
+1000239,108,7:37,'att.net',Grande Cache,2020-02-08,3,23,1,0,5,Refferal,facebook.com,UC browser,mobile,micromax,android,1,1440 x 2960,deposits,9,100000000984
+1000138,329,11:31,'cox.net',Kuantan,2020-01-07,5,55,1,0,9,Affiliates,facebook.com,chromium,laptop,apple,mac-os,0,1536 x 2048,deposits,4,100000000985
+1000237,515,15:30,'hinet.net',Monte Azul Paulista,2020-02-19,1,32,0,1,5,Social,linkedin.com,UC browser,laptop,lenovo,windows,0,1536 x 2048,credit_card,4,100000000986
+1000185,495,5:52,'att.net',Svislach,2020-01-30,4,56,0,1,6,Paid,linkedin.com,UC browser,tablet,lenovo,android,0,1920x1080,deposits,10,100000000987
+1000090,222,16:48,'verizon.net',Randuboto,2020-01-03,5,7,0,0,5,Social,facebook.com,brave,laptop,samsung,windows,0,1536 x 2048,accounts,10,100000000988
+1000038,438,14:36,'verizon.net',Alīpur,2020-01-31,3,39,1,0,8,Display,youtube.com,safari,mobile,lenovo,android,1,1440 x 2560,insurance,6,100000000989
+1000223,321,20:19,'att.net',Kasongo,2020-01-17,3,29,0,1,8,Social,linkedin.com,edge,tablet,apple,ios,0,1280x800,credit_card,9,100000000990
+1000000,365,6:02,'comcast.net',Casais Brancos,2020-01-02,5,84,0,1,10,Refferal,facebook.com,safari,tablet,samsung,android,0,1366x768,accounts,8,100000000991
+1000014,414,7:42,'comcastbusiness.net',Taloy,2020-01-05,4,16,0,0,6,Affiliates,linkedin.com,chromium,mobile,apple,ios,1,1080 x 1920,loan,8,100000000992
+1000088,315,13:00,'cox.net',Brckovljani,2020-01-04,4,84,0,1,6,Display,facebook.com,chrome,laptop,samsung,ubuntu,0,800 x 1280,loan,1,100000000993
+1000113,526,6:25,'comcastbusiness.net',Cikaduen,2020-02-07,2,96,1,0,7,Organic,google.com,brave,tablet,lenovo,android,0,1280x800,credit_card,4,100000000994
+1000188,278,1:47,'comcast.net',Ganja,2020-02-25,2,44,1,1,6,Refferal,youtube.com,edge,mobile,micromax,android,1,1080 x 1920,deposits,3,100000000995
+1000326,59,14:47,'cox.net',Ancona,2020-03-02,4,63,1,1,6,Direct,google.com,edge,laptop,samsung,ubuntu,0,1536 x 2048,deposits,4,100000000996
+1000223,451,15:59,'att.net',Doropeti,2020-01-26,2,98,1,0,6,Social,youtube.com,brave,tablet,lenovo,android,0,1280x800,deposits,1,100000000997
+1000375,290,14:50,'cox.net',Labog,2020-01-31,1,66,0,1,5,Refferal,google.com,firefox,tablet,micromax,android,0,1920x1080,deposits,6,100000000998
+1000274,326,3:34,'cox.net',Brka,2020-01-31,5,3,0,1,10,Social,youtube.com,opera,tablet,samsung,android,0,1920x1080,accounts,7,100000000999
